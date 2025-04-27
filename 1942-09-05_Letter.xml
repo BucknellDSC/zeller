@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zeller Letter 1942-09-05</title>
+            <author>John Zeller</author>
+            <respStmt>
+               <persName>Susan Falciani Maldonado</persName>
+               <resp>University Archivist and Director of Special Collections</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Digital Scholarship Coordinator</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Special Collections/University Archives, Bertrand Library</distributor>
+            <authority>Bucknell University</authority>
+            <address>
+               <addrLine>Lewisburg</addrLine>
+               <addrLine>Pennsylvania</addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John F. Zeller Papers</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n="1"/>
+            <opener>
+               <dateline> Pvt. John F. Zeller<lb/> F-10-4 F.A.R.C.<lb/> Fort Bragg, N.C.</dateline>
+               <salute>Dear Mother &amp; Dad + Grandma --</salute>
+            </opener>
+            <p>My address is above. We were put on quaranteen immediately upon arrival, so I could
+               not phone or telegraph. We are confined to our company street. for 14 days. I'll get
+               off on the 20th.</p>
+            <p>I will not get a furlough until I have completed basic training, so I guess it will
+               be impossible for me to get home before Christmas. </p>
+            <pb n="2"/>
+            <p> I am in a field artillery regiment. We will set up communications - telephone lines-
+               for observors and between batteries. My years on the switchboard at BU got me in
+               this.  I am the only one of our group here. The rest of the fellows are also in field
+               artillery, but they are in other companies. I won't be able to see them before the
+               two weeks are up and perhaps not then. There are 85,000 men here and the camp
+               stretches for 25 miles.</p>
+            <p>It is very nice, and I have no doubt but what I'll <pb n="3"/> like it. I'm going to
+               work hard and do the very best I can.</p>
+            <p>Basic training here lasts at least 8 weeks - perhaps 13 - then I'll be shipped
+               somewhere else. I shall hope it will be to officers training school.</p>
+            <p> The initials in my address means this - Battery F, 10th Batalion, 4th regiment,
+               Field Artillery Replacement Center.</p>
+            <p> There is a great deal to tell, but I went to get this out, as I know you're anxious.
+               I'll write more details tomorrow <pb n="4"/> night. Mail at regular rate takes two
+               days. This will go air mail. I'm posting it at 6:00 P.M. Let me know how soon you get
+               it.</p>
+            <closer>
+               <salute>Yours til tomorrow's letter,</salute>
+               <signed>John</signed>
+            </closer>
+            <postscript>
+               <p>P. S. Please send me a pair of slippers. I want the kind that consist of nothing
+                  but a sole + heel + straps over the feet - made of rubber or [illegible] or
+                  something like that. I'd prefer not leather, because I want them for the shower
+                  room. Ken Wolfe is here, but of course I can't get out to see him. J.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

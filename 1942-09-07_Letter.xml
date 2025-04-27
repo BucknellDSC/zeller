@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller Letter 1942-09-07</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n="1"/>
+				<opener>
+					<dateline><date>Sept 7, 1942</date>
+						<placeName>Fort Bragg N.C.</placeName></dateline>
+					<salute>Dear Mother, Dad, + Grandma--</salute></opener>
+				<p>The trip down from New Cumberland was long and tiring. We were awaked at 4:30,
+					had breakfast, were checked off, loaded, and finally pulled out at 7:00. We took
+					all the back roads there were. I suppose troop trains are routed that way to
+					simplify transportation problems - but it took us twice as long as it would by
+					the regular route. We came through York, Baltimore, + Washington, and then out
+					across to Richmond. From Richmond to Raleigh we <pb n="2"/> really took the back
+					way, for we saw absolutely nothing but scrub pine and small clearings with poor
+					negro quarters.</p>
+				<p> We arrived here at 2:30 and finally got to bed about 4:00. The camp here is
+					swell. I think I shall like it. The outfit is made up of a good class of
+					fellows, intelligent, clean-cut, and willing. But as far as I know, I'm the only
+					college man. I'm keeping it quiet.</p>
+				<p>The whole 4th Regiment is made up of specialists training groups. We are in
+					telephone communications. Others include radio, cooking, office clerks, supply
+					clerks, etc. </p>
+				<pb n="3"/>
+				<p> It is fairly certain that when we leave here, if we do at all well we'll have
+					technicians rating. The other boys have evidently been sent into the regular
+					artillery units, which means they'll be doing the actual firing - pulling guns-
+					loading, etc. I think I was lucky.</p>
+				<p>I don't know a soul here, but I'm making friends and by the time our quaranteen
+					is over will be as chummy as sardines in a can.</p>
+				<p>We started right in today and learned the elemental commands. <pb n="4"/> The
+					first few weeks will be devoted to drill, manual of arms, etc. Later we'll get
+					into the real work, with problems to solve, lines to fix + lay corrections to
+					make, etc.</p>
+				<p>I had my army haircut today. The barbers must think they're shearing sheep. They
+					use the same methods.</p>
+				<p>I shan't write again til the week-end- when I'll have more time. By then I'll
+					have more to tell you too.</p>
+				<closer><salute>Love,</salute>
+					<signed>John</signed></closer>
+
+			</div>
+		</body>
+	</text>
+</TEI>

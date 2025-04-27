@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-09-04</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	<xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://leaf.bucknell.edu/sites/default/files/2025-04/1942-09-04_letter_0_0.xml?place_annotation_20250418152909991",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-04-18T19:29:09.991Z",
+	"dcterms:modified": "2025-04-18T19:29:09.991Z",
+	"dcterms:creator": {
+		"@id": "62",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Susan Falciani Maldonado"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://leaf.bucknell.edu/sites/default/files/2025-04/1942-09-04_letter_0_0.xml?place_annotation_20250418152909991#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2025-04/1942-09-04_letter_0_0.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf.bucknell.edu",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://leaf.bucknell.edu/sites/default/files/2025-04/1942-09-04_letter_0_0.xml?place_annotation_20250418152909991#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/opener/dateline/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://viaf.org/viaf/154889000",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf.bucknell.edu",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high",
+	"cwrc:hasPrecision": "cwrc:highCertainty"
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData></teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb facs="https://leaf.bucknell.edu/sites/default/files/2025-04/0001_1942-09-04_001_2.jpg" n="1"/>
+				<opener>
+					<dateline>
+						<placeName cert="high" key="New Cumberland" ref="http://viaf.org/viaf/154889000">New Cumberland<precision match="@ref" precision="high"/></placeName>
+</dateline><dateline>						<date>Sept. 4, 1942</date>
+					</dateline>
+					<salute>Dear Mother, Dad, &amp; Grandma--</salute>
+				</opener>
+				<p> We leave before six tomorrow (Sat.) morning. I do not know where we will be but
+					I shall either call or telegraph on arrival tomorrow nite or early Sunday.</p>
+				<p>Chances are we are not to go far, for we haven't been instructed to keep out
+					toilet articles, etc - as usually are kept out on long trips. Speculation here
+					includes Camp <pb facs="https://leaf.bucknell.edu/sites/default/files/2025-04/0002_1942-09-04_002.jpg" n="2"/> Dix, Indiantown Gap, Camp Mead, Atlantic City (I like it there), and
+					a dozen others. It's probably west or south and we have no way of knowing
+					how far.</p>
+				<p>I took out $10,000 insurance as you will see from the application form ( copy) a
+					put in the suitcase. $5,000 would go to each of you. It will cost $6.60 a month
+					from my pay. I may be insurance poor after the war, but it is so cheap I'd
+					be foolish not to take it. </p>
+				<pb facs="https://leaf.bucknell.edu/sites/default/files/2025-04/0003_1942-09-04_003.jpg" n="3"/>
+				<p> We all living out of barracks bags. I hope we get trunks when we get to
+					permanent station. If we don't I want you, Mother, to make me some small
+					bags for toilet articles, underwear, handkies, &amp; dirty clothes. But
+					I'll let you know later about that.</p>
+				<p>So far I like it immensely. Pearl was right. It is just like an overgrown boy
+					scout camp.</p>
+				<p>The food is good - and so much of it! I have trouble eating it all. I think
+					I've caught on to the system. I just don't let them give me so much
+						<pb facs="https://leaf.bucknell.edu/sites/default/files/2025-04/0004_1942-09-04_004.jpg" n="4"/> anymore.</p>
+				<p>I went to a camp radio program tonight broadcast over a Harrisburg station. I
+					suppose I'll be going to a lot more of those from time to time.</p>
+				<p>This morning we went to educational movies. It was just after breakfast + the
+					theater was like a bake - oven. The 1st short reel was on venereal disease. they
+					showed pictures of various actual cases &amp; stages of the diseases. I got sick
+					- my stomach came up into my month, turned over, + went back down. I actually
+					passed out cold for a <pb facs="https://leaf.bucknell.edu/sites/default/files/2025-04/0005_1942-09-04_005.jpg" n="5"/> few minutes. It was dark so no one but the fellow next to me
+					noticed, and hence I wasn't disgraced. I was alright when they got rid of
+					those gruesome pictures. I never could stand things like that. Now I know I
+					could never be a doctor. I think it is a good thing to show pictures like that -
+					frank, accurate, and straight from the shoulder. Boys who would have been
+					inclined to get out of hand in that line will think twice before they do after
+					seeing that.</p>
+				<p>There are so many things I could tell you. This life is <pb facs="https://leaf.bucknell.edu/sites/default/files/2025-04/0006_1942-09-04_006.jpg" n="6"/> so new, I hardly know what to tell you about 1st.</p>
+				<p>Tell Henry I ran into Runkle last evening. He is so afraid they'll (the
+					other selectees) will find out he is a college instructor + type him. He taught
+					English and has an awful time whenever a corporal or sargeant uses
+					"ain't," "them there," or "youse."</p>
+				<p>Until I am located more permanently, then,</p>
+				<closer><signed>John.</signed> P.S. I have to apply for officers training
+					later.</closer>
+			</div>
+		</body>
+	</text>
+</TEI>
