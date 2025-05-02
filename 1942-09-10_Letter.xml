@@ -1,333 +1,334 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title type='main'>1942-09-10 Letter</title>
+				<title>Zeller Letter 1942-09-07</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
 			</titleStmt>
 			<publicationStmt>
-				<publisher>tranScriptorium</publisher>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl><publisher>TRP document creator: sfm013@bucknell.edu</publisher></bibl>
+				<p>John F. Zeller Papers</p>
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
 	<text>
 		<body>
 			<div>
-				<pb n='1'/>
-				<p>
-					<lb facs='#facs_1_tr_1_tl_1' n='N001'/>Sept. 10, 1942
-					<lb facs='#facs_1_tr_1_tl_2' n='N002'/>F-10-4-F.A.R.C.
-					<lb facs='#facs_1_tr_1_tl_3' n='N003'/>Fort Bragg, N.C.
-					<lb facs='#facs_1_tr_1_tl_4' n='N004'/>Dear Mother, Dad, + Grandma--
-					<lb facs='#facs_1_tr_1_tl_5' n='N005'/>I&apos;m going to write today
-					<lb facs='#facs_1_tr_1_tl_6' n='N006'/>because there are several things
-					<lb facs='#facs_1_tr_1_tl_7' n='N007'/>I want to ask you to do before I
-					<lb facs='#facs_1_tr_1_tl_8' n='N008'/>forget it.
-					<lb facs='#facs_1_tr_1_tl_9' n='N009'/>1st. Will one of you please
-					<lb facs='#facs_1_tr_1_tl_10' n='N010'/>go to Dan Ross + get the negatives
-					<lb facs='#facs_1_l' n='N011'/>I had lent to Janet Bold + which
-					<lb facs='#facs_1_tr_1_tl_13' n='N012'/>she left there. Put them in a tin
-					<lb facs='#facs_1_tr_1_tl_14' n='N013'/>can + store them somewhere for
-					<lb facs='#facs_1_tr_1_tl_15' n='N014'/>me. Preferably, put them in
-					<lb facs='#facs_1_tr_1_tl_16' n='N015'/>my box in the attic.
-					<lb facs='#facs_1_tr_1_tl_17' n='N016'/>2nd. Select some nice
-					<lb facs='#facs_1_tr_1_tl_18' n='N017'/>wedding gift for me and
-				</p>
-				<pb n='2'/>
-				<p>
-					<lb facs='#facs_2_tr_1_tl_1' n='N001'/>sent it to Mr. &amp; Mrs. R.E. Thomas,
-					<lb facs='#facs_2_tr_1_tl_3' n='N002'/>961 Grove St. ,Elmira. Bob &amp;
-					<lb facs='#facs_2_tr_1_tl_4' n='N003'/>Jeanne were married on the 3rd,
-					<lb facs='#facs_2_tr_1_tl_5' n='N004'/>as you know, and they were
-					<lb facs='#facs_2_tr_1_tl_6' n='N005'/>such good friends, I&apos;d like to give
-					<lb facs='#facs_2_tr_1_tl_7' n='N006'/>them something. I&apos;ll write them
-					<lb facs='#facs_2_tr_1_tl_8' n='N007'/>later, so you can just put one of
-					<lb facs='#facs_2_tr_1_tl_9' n='N008'/>my cards in (There are some in the
-					<lb facs='#facs_2_tr_1_tl_10' n='N009'/>desk)
-					<lb facs='#facs_2_l' n='N010'/>3rd. Your mail arrived
-					<lb facs='#facs_2_tr_1_tl_13' n='N011'/>today. Ken Wolfe was over
-					<lb facs='#facs_2_tr_1_tl_14' n='N012'/>to see me last night - + he says
-					<lb facs='#facs_2_tr_1_tl_15' n='N013'/>that letters mailed on the
-					<lb facs='#facs_2_tr_1_tl_16' n='N014'/>[illegible] porter arrive sooner than
-					<lb facs='#facs_2_tr_1_tl_17' n='N015'/>by other trains - so send them
-					<lb facs='#facs_2_tr_1_tl_18' n='N016'/>that way if you can. Airmail
-					<lb facs='#facs_2_l_2' n='N017'/>is not much quicker. We get
-				</p>
-				<pb n='3'/>
-				<p>
-					<lb facs='#facs_3_tr_1_tl_1' n='N001'/>only one mail a
-					<lb facs='#facs_3_tr_1_tl_2' n='N002'/>day - at 6:30. Mail
-					<lb facs='#facs_3_tr_1_tl_3' n='N003'/>goes out only at 8:00 A.M.
-					<lb facs='#facs_3_tr_1_tl_4' n='N004'/>4th - I won&apos;t need those
-					<lb facs='#facs_3_tr_1_tl_5' n='N005'/>bags - we have foot lockers here.
-					<lb facs='#facs_3_tr_1_tl_6' n='N006'/>Thanks just the same.
-					<lb facs='#facs_3_tr_1_tl_7' n='N007'/>That&apos;s all for now, I&apos;ll finish
-					<lb facs='#facs_3_tr_1_tl_8' n='N008'/>on Sunday.
-					<lb facs='#facs_3_tr_1_tl_9' n='N009'/>5th - Just thought of
-					<lb facs='#facs_3_tr_1_tl_10' n='N010'/>something else. - Will you look
-					<lb facs='#facs_3_tr_1_tl_11' n='N011'/>on the wedding invitation - or find
-					<lb facs='#facs_3_tr_1_tl_12' n='N012'/>out from someone in Lbg. - the
-					<lb facs='#facs_3_tr_1_tl_13' n='N013'/>name of Patty&apos;s husband. I went
-					<lb facs='#facs_3_tr_1_tl_14' n='N014'/>to answer her letter - but I don&apos;t
-					<lb facs='#facs_3_tr_1_tl_15' n='N015'/>know her married name.
-					<lb facs='#facs_3_tr_1_tl_16' n='N016'/>Sept 13th - Now to finish this
-					<lb facs='#facs_3_tr_1_tl_17' n='N017'/>letter. I really don&apos;t get time except
-					<lb facs='#facs_3_tr_1_tl_18' n='N018'/>on week-ends to write long letters
-					<lb facs='#facs_3_tr_1_tl_19' n='N019'/>so I&apos;ll try to write a good one
-					<lb facs='#facs_3_l_1' n='N020'/>every Sunday and perhaps a brief
-				</p>
-				<pb n='4'/>
-				<p>
-					<lb facs='#facs_4_tr_1_tl_1' n='N001'/>one in the middle of the week as well.
-					<lb facs='#facs_4_tr_1_tl_2' n='N002'/>But if you only get 1 a week,
-					<lb facs='#facs_4_tr_1_tl_3' n='N003'/>dout wory- it will be just that
-					<lb facs='#facs_4_tr_1_tl_4' n='N004'/>I&apos;m so busy. We&apos;re still in quaranteen
-					<lb facs='#facs_4_tr_1_tl_5' n='N005'/>so I haven&apos;t been anywhere. Even so,
-					<lb facs='#facs_4_tr_1_tl_6' n='N006'/>I scarcely have time to do all that is
-					<lb facs='#facs_4_tr_1_tl_7' n='N007'/>required.
-					<lb facs='#facs_4_tr_1_tl_8' n='N008'/>I don&apos;t have enough socks, towels,
-					<lb facs='#facs_4_tr_1_tl_9' n='N009'/>etc., to send them to the laundry – so
-					<lb facs='#facs_4_tr_1_tl_10' n='N010'/>I&apos;ve been washing myself- and
-					<lb facs='#facs_4_tr_1_tl_11' n='N011'/>when you have to wait an hour in
-					<lb facs='#facs_4_tr_1_tl_12' n='N012'/>line to get to the washtub - it takes
-					<lb facs='#facs_4_tr_1_tl_13' n='N013'/>time. Then too we must scrub our
-					<lb facs='#facs_4_tr_1_tl_14' n='N014'/>rifle belts &amp; leggings each week - as
-					<lb facs='#facs_4_tr_1_tl_15' n='N015'/>well as clean our rifles, mess kit,
-					<lb facs='#facs_4_tr_1_tl_16' n='N016'/>and canteen (the later with steel
-					<lb facs='#facs_4_tr_1_tl_17' n='N017'/>wool).
-					<lb facs='#facs_4_tr_1_tl_18' n='N018'/>Now I better answer your
-					<lb facs='#facs_4_tr_1_tl_19' n='N019'/>questions, before I forget. My
-					<lb facs='#facs_4_tr_1_tl_20' n='N020'/>hay fever is good. Once in a
-					<lb facs='#facs_4_l_4' n='N021'/>while I have a sneezing spell,
-				</p>
-				<pb n='5'/>
-				<p>
-					<lb facs='#facs_5_tr_1_tl_1' n='N001'/>but my eyes are good and
-					<lb facs='#facs_5_tr_1_tl_2' n='N002'/>I feel quite well. The air
-					<lb facs='#facs_5_tr_1_tl_3' n='N003'/>is dry here and there aren&apos;t
-					<lb facs='#facs_5_tr_1_tl_4' n='N004'/>many weeds. It&apos;s an entirely
-					<lb facs='#facs_5_tr_1_tl_5' n='N005'/>different atmosphere from home. My
-					<lb facs='#facs_5_tr_1_tl_6' n='N006'/>fatigue suit dryed in an hour yesterday
-					<lb facs='#facs_5_tr_1_tl_7' n='N007'/>when I washed it.
-					<lb facs='#facs_5_tr_1_tl_8' n='N008'/>We had three shots at New Cumberland
-					<lb facs='#facs_5_tr_1_tl_9' n='N009'/>and one here yesterday. They were
-					<lb facs='#facs_5_tr_1_tl_10' n='N010'/>for small pox, tetanus, and typhoid.
-					<lb facs='#facs_5_tr_1_tl_11' n='N011'/>I have had no ill effects outside
-					<lb facs='#facs_5_tr_1_tl_12' n='N012'/>of a bit of stiffness. But we&apos;ll get
-					<lb facs='#facs_5_tr_1_tl_13' n='N013'/>more each week, and they get worse
-					<lb facs='#facs_5_tr_1_tl_14' n='N014'/>as they go along.
-					<lb facs='#facs_5_tr_1_tl_15' n='N015'/>Yes, we sleep in barracks - but
-					<lb facs='#facs_5_tr_1_tl_16' n='N016'/>as I remember they are quite
-					<lb facs='#facs_5_tr_1_tl_17' n='N017'/>different from the ones in the post
-					<lb facs='#facs_5_tr_1_tl_18' n='N018'/>card folder. Ours are unfinished
-					<lb facs='#facs_5_tr_1_tl_20' n='N019'/>wood - one big room downstairs
-					<lb facs='#facs_5_tr_1_tl_21' n='N020'/>and one up. Twenty-eight men
-				</p>
-				<pb n='6'/>
-				<p>
-					<lb facs='#facs_6_tr_1_tl_1' n='N001'/>sleess and live in my room. I&apos;m
-					<lb facs='#facs_6_tr_1_tl_2' n='N002'/>on the 1st floor. There is a shower +
-					<lb facs='#facs_6_tr_1_tl_3' n='N003'/>wash room, a heater room, and
-					<lb facs='#facs_6_tr_1_tl_4' n='N004'/>two small officers room - on my
-					<lb facs='#facs_6_tr_1_tl_5' n='N005'/>floor also. The second floor room
-					<lb facs='#facs_6_tr_1_tl_6' n='N006'/>is larger. There are also two officers
-					<lb facs='#facs_6_tr_1_tl_7' n='N007'/>rooms up there.
-					<lb facs='#facs_6_tr_1_tl_8' n='N008'/>We have steel beds with the
-					<lb facs='#facs_6_tr_1_tl_9' n='N009'/>stretched springs. Our mattresses
-					<lb facs='#facs_6_tr_1_tl_10' n='N010'/>are not at all bad. The beds are
-					<lb facs='#facs_6_tr_1_tl_11' n='N011'/>plenty long too.
-					<lb facs='#facs_6_tr_1_tl_12' n='N012'/>We also have a pillow. Linens
-					<lb facs='#facs_6_tr_1_tl_13' n='N013'/>are changed each Wednesday - when
-					<lb facs='#facs_6_tr_1_tl_14' n='N014'/>we also take all bedding - including
-					<lb facs='#facs_6_tr_1_tl_15' n='N015'/>the mattress - outside to air for
-					<lb facs='#facs_6_tr_1_tl_16' n='N016'/>the day. We have two blankets.
-					<lb facs='#facs_6_tr_1_tl_17' n='N017'/>I have discovered a few more
-					<lb facs='#facs_6_tr_1_tl_18' n='N018'/>college men. There are thee or four
-					<lb facs='#facs_6_tr_1_tl_19' n='N019'/>here at least; but most are not.
-					<lb facs='#facs_6_tr_1_tl_20' n='N020'/>Garrett Purcell called me on
-					<lb facs='#facs_6_tr_1_tl_21' n='N021'/>the barracks phone this morning. If
-				</p>
-				<pb n='7'/>
-				<p>
-					<lb facs='#facs_7_tr_1_tl_1' n='N001'/>he can, he&apos;s coming over
-					<lb facs='#facs_7_tr_1_tl_2' n='N002'/>to see me later. George
-					<lb facs='#facs_7_tr_1_tl_3' n='N003'/>Purcell (Tex&apos;s brother)
-					<lb facs='#facs_7_tr_1_tl_4' n='N004'/>was over to see me twice yesterday.
-					<lb facs='#facs_7_tr_1_tl_5' n='N005'/>He was in my class at L.H.S. He
-					<lb facs='#facs_7_tr_1_tl_6' n='N006'/>has completed training and is due to
-					<lb facs='#facs_7_tr_1_tl_7' n='N007'/>leave here soon. So I&apos;ve had three
-					<lb facs='#facs_7_tr_1_tl_8' n='N008'/>Lewisburg visitors. (Ken Wolfe was
-					<lb facs='#facs_7_tr_1_tl_9' n='N009'/>here, as I told you). But I still
-					<lb facs='#facs_7_tr_1_tl_10' n='N010'/>haven&apos;t heard from the other boys
-					<lb facs='#facs_7_tr_1_tl_11' n='N011'/>who came down with me.
-					<lb facs='#facs_7_tr_1_tl_12' n='N012'/>Purcell saw Meehan &amp; Brownell-
-					<lb facs='#facs_7_tr_1_tl_13' n='N013'/>they are together in the 12th Br.
-					<lb facs='#facs_7_tr_1_tl_14' n='N014'/>Hackenburg is taking infantry training
-					<lb facs='#facs_7_l' n='N015'/>with the 2nd Reg., I hear. George
-					<lb facs='#facs_7_tr_1_tl_17' n='N016'/>also said that he Leard Paul Johnson
-					<lb facs='#facs_7_tr_1_tl_18' n='N017'/>had been sent over to the main post.
-					<lb facs='#facs_7_l_1' n='N018'/>The shower slippers have not
-					<lb facs='#facs_7_tr_1_tl_19' n='N019'/>yet arrived, but I imagine they&apos;ll
-				</p>
-				<pb n='8'/>
-				<p>
-					<lb facs='#facs_8_tr_1_tl_1' n='N001'/>come in tomorrow&apos;s mail. ( Monday)
-					<lb facs='#facs_8_tr_1_tl_2' n='N002'/>Thank you for getting them for me.
-					<lb facs='#facs_8_tr_1_tl_3' n='N003'/>Thank you also for the air mail stamps.
-					<lb facs='#facs_8_tr_1_tl_4' n='N004'/>Which remends me. Do not
-					<lb facs='#facs_8_tr_1_tl_5' n='N005'/>mail anything special delivery. They
-					<lb facs='#facs_8_tr_1_tl_6' n='N006'/>don&apos;t have that service here. Air
-					<lb facs='#facs_8_tr_1_tl_7' n='N007'/>mail may be a bit quicker, but
-					<lb facs='#facs_8_tr_1_tl_8' n='N008'/>we only get one mail a day.
-					<lb facs='#facs_8_tr_1_tl_9' n='N009'/>anyway – so the [illegible] is
-					<lb facs='#facs_8_tr_1_tl_10' n='N010'/>just as good.
-					<lb facs='#facs_8_tr_1_tl_11' n='N011'/>I&apos;m sorry to hear Reno won&apos;t
-					<lb facs='#facs_8_tr_1_tl_12' n='N012'/>be back. Hope you don&apos;t have too
-					<lb facs='#facs_8_tr_1_tl_13' n='N013'/>much trouble getting a tenant. How
-					<lb facs='#facs_8_l' n='N014'/>about the Olivers.  College people
-					<lb facs='#facs_8_tr_1_tl_16' n='N015'/>would be best, don&apos;t you think?
-					<lb facs='#facs_8_tr_1_tl_17' n='N016'/>I have half a notion to get
-					<lb facs='#facs_8_tr_1_tl_18' n='N017'/>a portable radio. I could get it
-					<lb facs='#facs_8_tr_1_tl_19' n='N018'/>here at the post exchange. On the other hand
-					<lb facs='#facs_8_tr_1_tl_20' n='N019'/>it would be just something else to
-				</p>
-				<pb n='9'/>
-				<p>
-					<lb facs='#facs_9_tr_1_tl_1' n='N001'/>bother with. I&apos;ll think
-					<lb facs='#facs_9_tr_1_tl_2' n='N002'/>it over awhile first.
-					<lb facs='#facs_9_tr_1_tl_3' n='N003'/>While I think of it,
-					<lb facs='#facs_9_tr_1_tl_5' n='N004'/>if you ever send me
-					<lb facs='#facs_9_tr_1_tl_6' n='N005'/>money - but not yet - I don&apos;t need
-					<lb facs='#facs_9_tr_1_tl_7' n='N006'/>it - send it money order. I can&apos;t
-					<lb facs='#facs_9_tr_1_tl_8' n='N007'/>get checks cashed around here.
-					<lb facs='#facs_9_tr_1_tl_9' n='N008'/>The letter was from Patty.
-					<lb facs='#facs_9_tr_1_tl_10' n='N009'/>She was much pleased with the
-					<lb facs='#facs_9_tr_1_tl_11' n='N010'/>vase. Our gifts seem to make a
-					<lb facs='#facs_9_tr_1_tl_12' n='N011'/>hit.
-					<lb facs='#facs_9_tr_1_tl_13' n='N012'/>I don&apos;t think I told you but
-					<lb facs='#facs_9_tr_1_tl_14' n='N013'/>on the way to New Cumberland, we
-					<lb facs='#facs_9_tr_1_tl_15' n='N014'/>had a half- hour stop in Sunbury. I
-					<lb facs='#facs_9_tr_1_tl_16' n='N015'/>went up + said goodby to Fred
-					<lb facs='#facs_9_tr_1_tl_17' n='N016'/>Schaffer &amp; Helen at the office.
-					<lb facs='#facs_9_tr_1_tl_18' n='N017'/>The boy&apos;s who went, just
-					<lb facs='#facs_9_tr_1_tl_19' n='N018'/>got back from church. They said they
-					<lb facs='#facs_9_tr_1_tl_20' n='N019'/>had a good sermon. I meant to go,
-				</p>
-				<pb n='10'/>
-				<p>
-					<lb facs='#facs_10_tr_1_tl_1' n='N001'/>but my sunburn on my neck
-					<lb facs='#facs_10_tr_1_tl_2' n='N002'/>was so raw, I decided I better do
-					<lb facs='#facs_10_tr_1_tl_3' n='N003'/>something about it - so I went
-					<lb facs='#facs_10_tr_1_tl_4' n='N004'/>on sick call to get a salve- and
-					<lb facs='#facs_10_tr_1_tl_5' n='N005'/>hence missed it. I hope to go tonight.
-					<lb facs='#facs_10_tr_1_tl_6' n='N006'/>The papers were received +
-					<lb facs='#facs_10_tr_1_tl_7' n='N007'/>read. I&apos;m looking for this weeks now.
-					<lb facs='#facs_10_tr_1_tl_8' n='N008'/>I&apos;ll save them + pass them along to
-					<lb facs='#facs_10_tr_1_tl_9' n='N009'/>the other boys.
-					<lb facs='#facs_10_tr_1_tl_10' n='N010'/>You may be interested in what
-					<lb facs='#facs_10_tr_1_tl_11' n='N011'/>equiptment was issued to me. I&apos;ll
-					<lb facs='#facs_10_tr_1_tl_12' n='N012'/>list it. 1 heavy winter overcoat -
-					<lb facs='#facs_10_tr_1_tl_13' n='N013'/>1 water proof field jacket - 1 raincoat -
-					<lb facs='#facs_10_tr_1_tl_14' n='N014'/>1 winter uniform coat - 2 wool shirts -
-					<lb facs='#facs_10_tr_1_tl_15' n='N015'/>2 pr. wool pants - 2 cotton summer
-					<lb facs='#facs_10_tr_1_tl_16' n='N016'/>shirts - 2 pr. cotton pants - 2 green
-					<lb facs='#facs_10_tr_1_tl_17' n='N017'/>fatigue suits - 2 brown + 1 black tie -
-					<lb facs='#facs_10_tr_1_tl_18' n='N018'/>I overseas hats will red braid to
-					<lb facs='#facs_10_tr_1_tl_19' n='N019'/>designate field artilley - 1pr
-					<lb facs='#facs_10_tr_1_tl_20' n='N020'/>leggings - 1 rifle belt - 5 pr cotton underwear.
-				</p>
-				<pb n='11'/>
-				<p>
-					<lb facs='#facs_11_tr_1_tl_1' n='N001'/>- two towels (I&apos;ve bought
-					<lb facs='#facs_11_l' n='N002'/>more) - 1 jeep hat - 2 pr.
-					<lb facs='#facs_11_tr_1_tl_4' n='N003'/>of heavy shoes - 6 pr socks (3 wool)
-					<lb facs='#facs_11_tr_1_tl_5' n='N004'/>- toilet articles - 1 gas made - 1 rifle - 1
-					<lb facs='#facs_11_tr_1_tl_6' n='N005'/>canteen &amp; cup - 1 shelter half + tent pole
-					<lb facs='#facs_11_tr_1_tl_7' n='N006'/>+ pegs - 1 mess kit including fork,
-					<lb facs='#facs_11_tr_1_tl_8' n='N007'/>knife, + spoon + two aluminum dishe -
-					<lb facs='#facs_11_tr_1_tl_9' n='N008'/>and 1 haversack.
-					<lb facs='#facs_11_tr_1_tl_10' n='N009'/>Dry cleaning goes out on Tues, Thurs,
-					<lb facs='#facs_11_tr_1_tl_11' n='N010'/>+ Sat. Laundry goes out on Thurs +
-					<lb facs='#facs_11_tr_1_tl_12' n='N011'/>takes a whole week. $1.50 is deducted
-					<lb facs='#facs_11_tr_1_tl_14' n='N012'/>from our pay each month for laundry regardless
-					<lb facs='#facs_11_tr_1_tl_15' n='N013'/>of how much we have done. We
-					<lb facs='#facs_11_tr_1_tl_16' n='N014'/>pay for our own dry cleaning.
-					<lb facs='#facs_11_tr_1_tl_17' n='N015'/>This week we have seen
-					<lb facs='#facs_11_tr_1_tl_18' n='N016'/>training movies - drilled - learned
-					<lb facs='#facs_11_tr_1_tl_19' n='N017'/>how to handle a rifle - learned the
-					<lb facs='#facs_11_tr_1_tl_20' n='N018'/>manual of arms – learned about army
-					<lb facs='#facs_11_tr_1_tl_21' n='N019'/>vehicles - 4 wheel drive - special gear-shift
-				</p>
-				<pb n='12'/>
-				<p>
-					<lb facs='#facs_12_tr_1_tl_1' n='N001'/>etc. - learned military courtesy
-					<lb facs='#facs_12_tr_1_tl_2' n='N002'/>etc. -
-					<lb facs='#facs_12_tr_1_tl_3' n='N003'/>Already I&apos;ve lost weight. I&apos;m
-					<lb facs='#facs_12_tr_1_tl_4' n='N004'/>beginning to get toughened up too.
-					<lb facs='#facs_12_tr_1_tl_5' n='N005'/>The post exchange sells
-					<lb facs='#facs_12_tr_1_tl_6' n='N006'/>everything (almost everything) a
-					<lb facs='#facs_12_tr_1_tl_7' n='N007'/>soldier needs. After quaranteen
-					<lb facs='#facs_12_tr_1_tl_8' n='N008'/>will be able to go there whenever
-					<lb facs='#facs_12_tr_1_tl_9' n='N009'/>we want.
-					<lb facs='#facs_12_tr_1_tl_10' n='N010'/>The movies show all the very
-					<lb facs='#facs_12_tr_1_tl_11' n='N011'/>latest films much earlier than
-					<lb facs='#facs_12_tr_1_tl_12' n='N012'/>they&apos;re shown in regular theaters.
-					<lb facs='#facs_12_tr_1_tl_13' n='N013'/>They have two shows a day. 6:00
-					<lb facs='#facs_12_tr_1_tl_14' n='N014'/>and 8:00.
-					<lb facs='#facs_12_tr_1_tl_15' n='N015'/>Lights go out at nine. Everyone
-					<lb facs='#facs_12_tr_1_tl_16' n='N016'/>must be in bed by eleven unless
-					<lb facs='#facs_12_tr_1_tl_17' n='N017'/>he has a pass. The inspecting offices
-					<lb facs='#facs_12_tr_1_tl_18' n='N018'/>comes around then &amp; check each
-					<lb facs='#facs_12_tr_1_tl_19' n='N019'/>bed.
-				</p>
+				<pb n='1' facs="https://raw.githubusercontent.com/BucknellDSC/zeller/refs/heads/main/IMG/1942-09-10_001.jpg"/>
+				
+					<opener>Sept. 10, 1942
+					<dateline>F-10-4-F.A.R.C.
+					Fort Bragg, N.C.</dateline>
+					<salute>Dear Mother, Dad, + Grandma--</salute></opener>
+					<p>I'm going to write today
+					because there are several things
+					I want to ask you to do before I
+					forget it.</p>
+					<p>1st. Will one of you please
+					go to Dan Ross + get the negatives
+					I had lent to Janet Bold + which
+					she left there. Put them in a tin
+					can + store them somewhere for
+					me. Preferably, put them in
+					my box in the attic.</p>
+					<p>2nd. Select some nice
+					wedding gift for me and
+				<pb n='2' facs="https://raw.githubusercontent.com/BucknellDSC/zeller/refs/heads/main/IMG/1942-09-10_002.jpg"/>
+					sent it to Mr. &amp; Mrs. R.E. Thomas,
+					961 Grove St. ,Elmira. Bob &amp;
+					Jeanne were married on the 3rd,
+					as you know, and they were
+					such good friends, I'd like to give
+					them something. I'll write them
+					later, so you can just put one of
+					my cards in (There are some in the
+					desk.)</p>
+					<p>3rd. Your mail arrived
+					today. Ken Wolfe was over
+					to see me last night - + he says
+					that letters mailed on the
+					[illegible] porter arrive sooner than
+					by other trains - so send them
+					that way if you can. Airmail
+					is not much quicker. We get
+				<pb n='3' facs="https://raw.githubusercontent.com/BucknellDSC/zeller/refs/heads/main/IMG/1942-09-10_003.jpg"/>
+					only one mail a
+					day - at 6:30. Mail
+					goes out only at 8:00 A.M.
+					4th - I won't need those
+					bags - we have foot lockers here.
+					Thanks just the same.</p>
+					<p>That's all for now, I'll finish
+					on Sunday.</p>
+					<p>5th - Just thought of
+					something else. - Will you look
+					on the wedding invitation - or find
+					out from someone in Lbg. - the
+					name of Patty's husband. I went
+					to answer her letter - but I don't
+					know her married name.</p>
+					<p>Sept 13th - Now to finish this
+					letter. I really don't get time except
+					on week-ends to write long letters
+					so I'll try to write a good one
+					every Sunday and perhaps a brief
+				<pb n='4' facs="https://raw.githubusercontent.com/BucknellDSC/zeller/refs/heads/main/IMG/1942-09-10_004.jpg"/>
+					one in the middle of the week as well.
+					But if you only get 1 a week,
+					don't wory- it will be just that
+					I'm so busy. We're still in quaranteen
+					so I haven't been anywhere. Even so,
+					I scarcely have time to do all that is
+					required.</p>
+					<p>I don't have enough socks, towels,
+					etc., to send them to the laundry – so
+					I've been washing myself- and
+					when you have to wait an hour in
+					line to get to the washtub - it takes
+					time. Then too we must scrub our
+					rifle belts &amp; leggings each week - as
+					well as clean our rifles, mess kit,
+					and canteen (the later with steel
+					wool).</p>
+					<p>Now I better answer your
+					questions, before I forget. My
+					hay fever is good. Once in a
+					while I have a sneezing spell,
+
+				<pb n='5' facs="https://raw.githubusercontent.com/BucknellDSC/zeller/refs/heads/main/IMG/1942-09-10_005.jpg"/>
+
+					but my eyes are good and
+					I feel quite well. The air
+					is dry here and there aren't
+					many weeds. It's an entirely
+					different atmosphere from home. My
+					fatigue suit dryed in an hour yesterday
+					when I washed it.</p>
+					<p>We had three shots at New Cumberland
+					and one here yesterday. They were
+					for small pox, tetanus, and typhoid.
+					I have had no ill effects outside
+					of a bit of stiffness. But we'll get
+					more each week, and they get worse
+					as they go along.</p>
+					<p>Yes, we sleep in barracks - but
+					as I remember they are quite
+					different from the ones in the post
+					card folder. Ours are unfinished
+					wood - one big room downstairs
+					and one up. Twenty-eight men
+
+				<pb n='6' facs="https://raw.githubusercontent.com/BucknellDSC/zeller/refs/heads/main/IMG/1942-09-10_006.jpg"/>
+
+					sleess and live in my room. I'm
+					on the 1st floor. There is a shower +
+					wash room, a heater room, and
+					two small officers room - on my
+					floor also. The second floor room
+					is larger. There are also two officers
+					rooms up there.</p>
+					<p>We have steel beds with the
+					stretched springs. Our mattresses
+					are not at all bad. The beds are
+					plenty long too.</p>
+					<p>We also have a pillow. Linens
+					are changed each Wednesday - when
+					we also take all bedding - including
+					the mattress - outside to air for
+					the day. We have two blankets.</p>
+					<p>I have discovered a few more
+					college men. There are thee or four
+					here at least; but most are not.
+					Garrett Purcell called me on
+					the barracks phone this morning. If
+				<pb n='7' facs="https://raw.githubusercontent.com/BucknellDSC/zeller/refs/heads/main/IMG/1942-09-10_007.jpg"/>
+
+					he can, he's coming over
+					to see me later. George
+					Purcell (Tex's brother)
+					was over to see me twice yesterday.
+					He was in my class at L.H.S. He
+					has completed training and is due to
+					leave here soon. So I've had three
+					Lewisburg visitors. (Ken Wolfe was
+					here, as I told you). But I still
+					haven't heard from the other boys
+					who came down with me.</p>
+					<p>Purcell saw Meehan &amp; Brownell-
+					they are together in the 12th Br.
+					Hackenburg is taking infantry training
+					with the 2nd Reg., I hear. George
+					also said that he Leard Paul Johnson
+					had been sent over to the main post.</p>
+					<p>The shower slippers have not
+					yet arrived, but I imagine they'll
+				<pb n='8' facs="https://raw.githubusercontent.com/BucknellDSC/zeller/refs/heads/main/IMG/1942-09-10_008.jpg"/>
+
+					come in tomorrow's mail. ( Monday)
+					Thank you for getting them for me.
+					Thank you also for the air mail stamps.</p>
+					<p>Which remends me. Do not
+					mail anything special delivery. They
+					don't have that service here. Air
+					mail may be a bit quicker, but
+					we only get one mail a day.
+					anyway – so the [illegible] is
+					just as good.</p>
+					<p>I'm sorry to hear Reno won't
+					be back. Hope you don't have too
+					much trouble getting a tenant. How
+					about the Olivers.  College people
+					would be best, don't you think?</p>
+					<p>I have half a notion to get
+					a portable radio. I could get it
+					here at the post exchange. On the other hand
+					it would be just something else to
+				<pb n='9' facs="https://raw.githubusercontent.com/BucknellDSC/zeller/refs/heads/main/IMG/1942-09-10_008.jpg"/>
+
+					bother with. I'll think
+					it over awhile first.</p>
+					<p>While I think of it,
+					if you ever send me
+					money - but not yet - I don't need
+					it - send it money order. I can't
+					get checks cashed around here.</p>
+					<p>The letter was from Patty.
+					She was much pleased with the
+					vase. Our gifts seem to make a
+					hit.</p>
+					<p>I don't think I told you but
+					on the way to New Cumberland, we
+					had a half- hour stop in Sunbury. I
+					went up + said goodby to Fred
+					Schaffer &amp; Helen at the office.</p>
+					<p>The boys who went, just
+					got back from church. They said they
+					had a good sermon. I meant to go,
+				<pb n='10' facs="https://raw.githubusercontent.com/BucknellDSC/zeller/refs/heads/main/IMG/1942-09-10_010.jpg"/>
+
+					but my sunburn on my neck
+					was so raw, I decided I better do
+					something about it - so I went
+					on sick call to get a salve- and
+					hence missed it. I hope to go tonight.</p>
+					<p>The papers were received +
+					read. I'm looking for this weeks now.
+					I'll save them + pass them along to
+					the other boys.</p>
+					<p>You may be interested in what
+					equiptment was issued to me. I'll
+					list it. 1 heavy winter overcoat -
+					1 water proof field jacket - 1 raincoat -
+					1 winter uniform coat - 2 wool shirts -
+					2 pr. wool pants - 2 cotton summer
+					shirts - 2 pr. cotton pants - 2 green
+					fatigue suits - 2 brown + 1 black tie -
+					I overseas hats will red braid to
+					designate field artilley - 1pr
+					leggings - 1 rifle belt - 5 pr cotton underwear.
+				<pb n='11' facs="https://raw.githubusercontent.com/BucknellDSC/zeller/refs/heads/main/IMG/1942-09-10_011.jpg"/>
+					- two towels (I've bought
+					more) - 1 jeep hat - 2 pr.
+					of heavy shoes - 6 pr socks (3 wool)
+					- toilet articles - 1 gas made - 1 rifle - 1
+					canteen &amp; cup - 1 shelter half + tent pole
+					+ pegs - 1 mess kit including fork,
+					knife, + spoon + two aluminum dishe -
+					and 1 haversack.</p>
+					<p>Dry cleaning goes out on Tues, Thurs,
+					+ Sat. Laundry goes out on Thurs +
+					takes a whole week. $1.50 is deducted
+					from our pay each month for laundry regardless
+					of how much we have done. We
+					pay for our own dry cleaning.</p>
+					<p>This week we have seen
+					training movies - drilled - learned
+					how to handle a rifle - learned the
+					manual of arms – learned about army
+					vehicles - 4 wheel drive - special gear-shift
+				<pb n='12' facs="https://raw.githubusercontent.com/BucknellDSC/zeller/refs/heads/main/IMG/1942-09-10_012.jpg"/>
+
+					etc. - learned military courtesy
+					etc. -</p>
+					<p>Already I've lost weight. I'm
+					beginning to get toughened up too.</p>
+					<p>The post exchange sells
+					everything (almost everything) a
+					soldier needs. After quaranteen
+					will be able to go there whenever
+					we want.</p>
+					<p>The movies show all the very
+					latest films much earlier than
+					they're shown in regular theaters.
+					They have two shows a day. 6:00
+					and 8:00.</p>
+					<p>Lights go out at nine. Everyone
+					must be in bed by eleven unless
+					he has a pass. The inspecting offices
+					comes around then &amp; check each
+					bed.</p>
 				<pb n='13'/>
 				<p>
-					<lb facs='#facs_13_tr_1_tl_1' n='N001'/>Shoes must be
-					<lb facs='#facs_13_tr_1_tl_2' n='N002'/>polished at all times.
-					<lb facs='#facs_13_tr_1_tl_3' n='N003'/>Clothes must be reasonable
-					<lb facs='#facs_13_tr_1_tl_4' n='N004'/>neat and clean. Hair dare not be
-					<lb facs='#facs_13_tr_1_tl_5' n='N005'/>less than 1/2 inch nor more than 1 1/2
-					<lb facs='#facs_13_tr_1_tl_6' n='N006'/>inches long. The men must shave
-					<lb facs='#facs_13_tr_1_tl_7' n='N007'/>each day.
-					<lb facs='#facs_13_tr_1_tl_8' n='N008'/>The food is not like at home
-					<lb facs='#facs_13_tr_1_tl_9' n='N009'/>by any means, but it is fairly
-					<lb facs='#facs_13_tr_1_tl_10' n='N010'/>good. Today we get fryed chicken.
-					<lb facs='#facs_13_tr_1_tl_11' n='N011'/>This morning we had pan cakes.
-					<lb facs='#facs_13_tr_1_tl_12' n='N012'/>Coffee for breakfast. Fruit drink for
-					<lb facs='#facs_13_tr_1_tl_13' n='N013'/>lunch. And water for supper. Usually
-					<lb facs='#facs_13_tr_1_tl_14' n='N014'/>milk for breakfast too. I still don&apos;t
-					<lb facs='#facs_13_tr_1_tl_15' n='N015'/>drink coffee - but I do drink raw
-					<lb facs='#facs_13_tr_1_tl_16' n='N016'/>milk.
-					<lb facs='#facs_13_tr_1_tl_17' n='N017'/>In many ways it seems
-					<lb facs='#facs_13_tr_1_tl_18' n='N018'/>much longer than a week since I&apos;ve
-					<lb facs='#facs_13_tr_1_tl_19' n='N019'/>left home. In others it seems as though
-				</p>
+					Shoes must be
+					polished at all times.
+					Clothes must be reasonable
+					neat and clean. Hair dare not be
+					less than 1/2 inch nor more than 1 1/2
+					inches long. The men must shave
+					each day.</p>
+					<p>The food is not like at home
+					by any means, but it is fairly
+					good. Today we get fryed chicken.
+					This morning we had pan cakes.
+					Coffee for breakfast. Fruit drink for
+					lunch. And water for supper. Usually
+					milk for breakfast too. I still don't
+					drink coffee - but I do drink raw
+					milk.</p>
+					<p>In many ways it seems
+					much longer than a week since I've
+					left home. In others it seems as though
+
 				<pb n='14'/>
-				<p>
-					<lb facs='#facs_14_tr_1_tl_1' n='N001'/>it was only yesterday. We are so
-					<lb facs='#facs_14_tr_1_tl_2' n='N002'/>busy that time passes rapidly.
-					<lb facs='#facs_14_tr_1_tl_3' n='N003'/>The course for this type of
-					<lb facs='#facs_14_tr_1_tl_4' n='N004'/>service is 13 to 15 weeks - we
-					<lb facs='#facs_14_tr_1_tl_5' n='N005'/>have completed only one. So it
-					<lb facs='#facs_14_tr_1_tl_6' n='N006'/>will be Xmas before I get home,
-					<lb facs='#facs_14_tr_1_tl_7' n='N007'/>if then.  Some of the other boys
-					<lb facs='#facs_14_tr_1_tl_8' n='N008'/>in different group will be here
-					<lb facs='#facs_14_tr_1_tl_9' n='N009'/>only six weeks.
-					<lb facs='#facs_14_tr_1_tl_10' n='N010'/>Perhaps you and Dad could
-					<lb facs='#facs_14_tr_1_tl_11' n='N011'/>come down here for a few days in
-					<lb facs='#facs_14_tr_1_tl_12' n='N012'/>November before the Christmas
-					<lb facs='#facs_14_tr_1_tl_13' n='N013'/>business starts. They have a
-					<lb facs='#facs_14_tr_1_tl_14' n='N014'/>guest house here, and it would be
-					<lb facs='#facs_14_tr_1_tl_15' n='N015'/>a nice vacation for you. Think
-					<lb facs='#facs_14_tr_1_tl_16' n='N016'/>it over!
-					<lb facs='#facs_14_tr_1_tl_17' n='N017'/>I&apos;ll have to close now - time
-					<lb facs='#facs_14_tr_1_tl_18' n='N018'/>for chow.
-					<lb facs='#facs_14_tr_1_tl_19' n='N019'/>With love--
-					<lb facs='#facs_14_tr_1_tl_20' n='N020'/>John
-				</p>
+
+					it was only yesterday. We are so
+					busy that time passes rapidly.</p>
+					<p>The course for this type of
+					service is 13 to 15 weeks - we
+					have completed only one. So it
+					will be Xmas before I get home,
+					if then.  Some of the other boys
+					in different group will be here
+					only six weeks.</p>
+					<p>Perhaps you and Dad could
+					come down here for a few days in
+					November before the Christmas
+					business starts. They have a
+					guest house here, and it would be
+					a nice vacation for you. Think
+					it over!</p>
+					<p>I'll have to close now - time
+					for chow.</p>
+					<closer><salute>With love--</salute>
+					John</closer>
 			</div>
 		</body>
 	</text>
