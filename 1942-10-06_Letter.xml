@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-10-06</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n="1"/>
+				<opener>
+					<dateline><name>FORT BRAGG, N. C.</name>
+						<name>D-8-3 FANC</name>
+						<date>Oct. 6, 1942</date></dateline>
+					<salute>Dear Mother, Dad, + Grandma</salute>
+				</opener>
+				<p>I'm disgusted -- but I'm going to stick it out here if it kills me. This new
+					place is really a trial. They don't credit us with anything -- we are starting
+					all over again. The past month goes for nothing at all. At any rate, after I
+					finish 13 weeks here, I'll go to Canidate's school. And after 4 weeks there,
+					I'll go to Fort Sill, Officers Training School. Then after 3 months I'll be
+					eligible for a furlough if I'm still in the U.S. If you add that up you see that
+					the chances are I won't get home before next August.</p>
+				<p>Of course none of the above is certain. Even our officers don't know how long we
+					are to be here -- but they're starting us in at the beginning anyway. One thing
+					is certain -- we were all chosen as potential officers -- so we shall have a
+					chance at Canidate's school here anyway. It's going to take a lot of patience to
+					go through <pb n="2"/> cannoneers training -- after the interesting stuff we
+					were getting at F-10 + tellephone communications. But if I want to be a feild
+					artillery officer, I shall have to do it. This whole plan is an experiment, I
+					understand, and its though being a guinea big -- but I'm going to do it.</p>
+				<p>All of us are discouraged and would rather have stayed where we were for basic
+					training - but this is the army. Moreover, when I think of the sacrafices the
+					boys are making over there -- I can certainly stand this. Having told you about
+					that, I'll answer your questions and deal with business. I have not yet received
+					the regular subscription of Time. But you needn't send it to me any more. There
+					are other news magazines here to keep me up to date until the regular
+					subscription arrives. I'll let you know when it does.</p>
+				<p>The cookies arrived -- also Isabelle's candy -- I went back to the old battery to
+					get them -- and I appreciated them a great deal. So did the fellows! They're a
+					fine bunch, but of course we don't know each other too well yet. Incidentally,
+					don't send a good can again -- I have no place to keep it and </p>
+				<pb n="3"/>
+				<p> will only have to send it back. A cardboard box well wrapped will do -- or old
+					coffee cans. Also -- please don't send packages insured or registered unless
+					they contain some valuable. It is too difficult to get to the post office to
+					collect it.</p>
+				<p>Thanks for the picture of Dad in uniform. He must have borrowed it from Clair
+					Groover -- who I think is on the other end of the line. But who is in the
+					middle. (I'm enclosing the picture.)</p>
+				<p>Save the record for me -- it will be fun to listen to it when I get back.
+					Sometime when I go into Fayetteville again, I'll make another. I'm glad you
+					enjoyed it. You can have the picture framed if you want to, I don't care -- just
+					so you save it. When we get into winter uniform, I'm going to have my picture
+					taken for you. I'm still waiting for you + Dad + Grandma to have pictures taken! </p>
+				<pb n="4"/>
+				<p> I think I did tell you once, but I am only about 2 blocks from the old barracks
+					-- so I can go back often. But it not the same -- they're going ahead in they're
+					cycle -- and I've gone back to start all over again.</p>
+				<p>I'm writing at the Service Club. On their program this evening, private Marion
+					Hargrove is appearing. He's the boy who wrote the best seller (humorous) on army
+					life. It was featured in Life just 2 or 3 weeks ago. Alice must have read about
+					it + you can borrow the copy of Life from her + read it too. He's not so
+					humorous this evening -- he's trying to sell copy's of the army newspaper he's
+					working for now.</p>
+				<p>Had a letter from Janet Bold today. She tells me Jane + Tommy Walker have broken
+					off. Had a card from Mand Nesbit. + a letter from Ben Kauffman. I don't have the
+					time to answer either just now, so thank them for me.</p>
+				<closer><signed>Yours, <name>John</name></signed></closer>
+
+			</div>
+		</body>
+	</text>
+</TEI>

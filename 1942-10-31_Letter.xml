@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-10-31</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				<opener>
+					<dateline>
+						<name>D-8-3 FARC</name>
+					<date>Oct 31, 1942</date>
+					</dateline>
+					<salute>Dear <persName>Mother</persName> + <persName>Dad</persName>--</salute>
+				</opener>
+				<p>
+					Payday today. I drew $41.90, after
+					laundry and insuranced deductions. So
+					I really didn't need your money order, Dad
+					but thanks anyway. I don't like to have so
+					much money on me, so I'm sending home
+					a money order for $25. Please deposit it
+					to my bank account.
+				</p>
+				<p>
+					I was in to Fayettsville this
+					afternoon and tried to reserve a room -- but
+					they don't make reservations -- and wouldn't
+					even let me pay in advance. I don't
+					think they care or not whether they help a
+					soldier.
+				</p>
+				<p>
+					I can probably get a room at a
+					tourist house for you. But I know this
+					would not be as pleasant for you, especially
+				<pb n='2'/>				
+					since you are coming in late at night.
+					Hence, I think the best plan is as I
+					suggested in my telegram. Stop over
+					either in Raleigh or Richmond for the night
+					and then come on down here Friday. I
+					can't get out to see you til about 5:30
+					Friday anyway, so it will make it
+					a more leismely trip for you, without
+					losing any time together. Please let
+					me know what you decide to do and
+					when you will arrive, so that I can
+					arrange for passes for you, etc.
+				</p>
+				<p>
+					I don't know what we shall
+					do Friday night, Saturday afternoon
+					and Sunday. But we can decide that
+					mafter you get here. As you know,
+					I have reservations for you for Friday
+					Sat. + Sun. night at the Guest House.
+					However, it might be better for all of
+					us to go up to Raleigh + spend Saturday
+				<pb n='3'/>				
+					evening + Sunday there. We can decide
+					that later too. I want you to see the
+					camp anyway before we do anything
+					else.
+				</p>
+				<p>
+					Incidently, you better take a taxi
+					out + have them take you to the Reception
+					Center control gate. You'll have to get
+					passes there before you can get in or out
+					of the post. I'll let them know you
+					are coming, so they'll have your names
+					in the "visters expected" book. The taxi
+					fare is high -- $2.50 -- but I don't know
+					what else you can do. They make a
+					nice racket out of it. And I thought
+					Dutch Leiser charged too much!
+				</p>
+				<p>
+					Now don't Just take a chance on
+					getting a room Thursday night + come
+					anyway -- because you may get fooled!
+				<pb n='4'/>				
+					There are only two hotels + neither is
+					very large. I imagine that they may be
+					filled up every night. So don't take a
+					chance on it, stop off at some other
+					city not too - far distant.
+				</p>
+				<p>
+					No much new has happened since
+					my last letter. I was on K.P. again
+					yesterday. The Battalion had a dance
+					Friday night -- 250 men and about 25
+					girls. I watched.
+				</p>
+				<p>
+					This morning we paraded for
+					the commanding General. Some outfit
+					passes in review every Saturday
+					morning. You'll have to go out to see
+					it next week.
+				</p>
+				<closer>
+					<salute>Yours,</salute>
+					<signed><persName>John</persName></signed>
+				</closer>
+				<postscript>
+					<p>
+						P.S. Better answer this by air mail so
+					I get it in time - or else wire me the time
+					of your arrival at Fort Bragg.
+					</p>
+					<signed>J.</signed>
+				</postscript>
+			</div>
+		</body>
+	</text>
+</TEI>

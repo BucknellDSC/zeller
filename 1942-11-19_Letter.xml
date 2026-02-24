@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-11-19</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				<opener>
+					<dateline>
+						<name>D-8-3 FARC</name>
+					<date>Nov 19, 1942</date>
+					</dateline>
+					<salute>Dear <persName>Mother</persName> &amp; <persName>Dad</persName>--</salute>
+				</opener>
+				<p>
+					I'm glad you enjoyed your trip
+					so much. I only wish I could have spent
+					more time with you -- and I really appreciated
+					being with you, just as much as you
+					did being with me.
+				</p>
+				<p>
+					As you know, I've always been
+					pretty proud of my Mother &amp; Dad, and
+					the past week-end only made me more so.
+					One of the boys paid you quite a compliment.
+					He remarked that you make a very good-
+					looking couple.  Of course, I've always
+					thought so too -- but it nice to know it's
+					not just prejudice that makes me think
+					so.
+				</p>
+				<p>
+					I suppose you arrived home
+					pretty much tired out after your train
+				<pb n='2'/>				
+					ride. It's just like you, Mother, to find
+					a traveling companion. It never fails to
+					happen.
+				</p>
+				<p>
+					I'm so glad you got the crossed-
+					cannon. It will make me proud to know
+					you are wearing them, Mother. Sort of
+					like the knight in days of old -- with the
+					fair lady wearing his colors. I'm glad
+					you gave one to Alice too.
+				</p>
+				<p>
+					So Dave and Franklin are in California.
+					I wonder what branch of service.  They
+					certainly got to see the country anyway.
+					If you get Dave's address, send it to
+					me, please!
+				</p>
+				<p>
+					We just had a blackout. Why
+					they always choose moonlight nights
+					for them, I don't know. It was like
+					daylight outside. I was over at the
+					school study hall when it came off.
+					If I had been in the barracks, I would
+					have had to march off to a "safe" area.
+				</p>
+				<pb n='3'/>
+				<p>
+					Center School is proving much
+					harder then expected. The difficulty is in
+					the amount we are expected to learn in
+					such a limited time.
+				</p>
+				<p>
+					At Penn I took approximately
+					an hour &amp; a half to two hours to prepare
+					for a class hour. Here it takes about an
+					hour for the hardest and less for the
+					easier ones -- but we have twice as many
+					classes to prepare for -- so I'm working
+					harder and longer with less time to do
+					it in than at Penn or Bucknell.
+				</p>
+				<p>
+					I'm beginning to catch on better
+					and by the end of next week, I shall
+					know fairly well whether I'll be able
+					to make it the 1st time or not. I'm quite
+				<pb n='4'/>				
+					sure I shall, for all the tests so far have
+					been favorable. There are many repeaters
+					in my class.  If you flunk the 1st time, you
+					start over again.
+				</p>
+				<p>
+					My recreation time is practically nil.
+					I take time off only to eat &amp; read mail.
+					Tomorrow's schedule is comparitively light
+					and I’ve finished studying at 10.00.
+				</p>
+				<p>
+					But now I must get this in the
+					mail and get to bed. When you're up
+					at 6:00, in class from 8:00 to 12:00
+					and 1:00 to 5:00, and then studying
+					til 11:00 every day - you don't feel
+					too peppy by bed time. That bugle
+					in the morning is most annoying.
+				</p>
+				<closer>
+					<salute>Love,</salute>
+					<signed><persName>John</persName></signed>
+				</closer>
+			</div>
+		</body>
+	</text>
+</TEI>

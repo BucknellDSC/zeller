@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+href="https://raw.githubusercontent.com/BucknellDSC/shared_code/refs/heads/main/leaf.css"	
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter January 26, 1943</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				<opener>
+					<dateline>FORT BRAGG, N.C.
+					OCC #56
+					Ft. Sill, Okla.
+					Jan. 26, 1943</dateline>
+					<salute>Dear Mother + Dad --</salute>
+				</opener>
+				<p>
+					Needless to say, I'm very much tickled with your
+					surprise. I was more than a little disappointed when you
+					didn't have it done for Christmas. I thought perhaps you werent
+					going to do it at all. But I decided I was through coaxing. And
+					you finally had the pictures taken! I certainly am proud.
+					Winskaitis -- the new boy in the hut -- told me that you two
+					look just like parents should look. I told him you were just
+					like parents should be, too.</p>
+					<p>I think your picture Dad, makes you look younger. The
+					fellows think I look like you more than Mother.
+				</p>
+				<p>
+					Your picture, Mother, makes your jaw a bit more square
+					than it actually is. It certainly pictures the fine lady that you
+					are. And it shows off your white hair to good advantage.
+					Both are good likenesses.</p>
+					<p>Grandma's picture is good too -- but it lacks the "grand old lady"
+					appearance she can put on when she gets all dressed up. She's a
+					good looking old lady just the same though.</p>
+					<p>I'm certainly tickled that you had them made. I don't
+					know of anything you could have done that would please ne
+					more.</p>
+					<p>I shall take care of my transportation from this end 
+					then. I don't know where to find the railway transportation advisor
+				<pb n='2'/>
+					here -- and wouldn't have time to look him up if I did. But
+					I guess some arrangement can be worked out. I've written
+					to the air lines to see what kind of service I can get from Okla.
+					City + just how much it will cost. If I'm going to fly I'll
+					have to make an early reservation.</p>
+					<p>Young got word just today (seems the baby was late)
+					and its a girl. Both mother + babe are doing nicely. It weighed
+					9 lbs. It would be nice if I could give it something. Suppose
+					you send me a baby cup or spoon and I'll have him send it
+					on home. I don't know his wife's address.</p>
+					<p>He's very much relieved, of course, but a bit disappinted
+					too. He wanted a boy. Just the same his plenty tickled about it.
+					I was out on the range again today and fired another
+					problem. It was cold again. This wind certainly plays
+					hob with the weather.</p>
+				<p>
+					When I come home I think I'll spend a day or so in Philly.
+					Uniforms out here are hard to get -- and fits are particularly bad.
+					If I could go to Phila., I could get what I need to fit me.
+					Perhaps you + Dad could go with me -- or if I fly in, could
+					you meet me there. We'll have to see how things work out.</p>
+					<p>Not much new. Charles again for the pictures
+					and for the candy, too.</p>
+					<closer><salute>Your son,</salute>
+					<signed>John</signed></closer>
+			</div>
+		</body>
+	</text>
+</TEI>

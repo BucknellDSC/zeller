@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-10-24</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				<opener>
+					<dateline><date>Oct. 24, 1942</date>
+					<name>D-8-3 FARC</name></dateline>
+					<salute>Dear <persName>Grandma</persName>, <persName>Aunt Stella</persName> &amp; <persName>Uncle Elmer</persName> --</salute>
+				</opener>
+				<p>
+					Well, another week has passed and
+					I'm still waiting to be called to start Officer's
+					  Canidate School.  I'm beginning to get used
+					to the idea that I may have a long wait. 
+					But it shouldn't be longer than 10 more
+					weeks anyway.
+				</p>
+				<p>
+					This was a varied and somewhat
+					interesting week. We went out on overnite
+					hike Tuesday. It poured all night and
+					the pup tent didn't provide too much
+					protection. I was surprised, however, to
+					discover how good it really was. We
+					walked back Tuesday morning in another
+					cloudburst -- and our 65 lb packs took
+					on about another 10 lbs in water. However,
+					outside of being tired and muddy there
+					were no ill effects. I didn't even get a
+				<pb n='2'/>				
+					cold.
+				</p>
+				<p>
+					Twice we were out practicing driving
+					the big trucks again. I qualified, and
+					my army license was issued to me. I'm
+					now licensed to drive anything in the
+					truck line that the army has -- but of course I'll
+					be driving  the 4 ton Diamond T most.
+				</p>
+				<p>
+					This noon at 12:00 I went on
+					Assistant Charge of Quarters. I'm on duty
+					til tomorrow (Sunday) at 12:00. My duties
+					consist of: answering the phone, sitting in
+					the orderly room, awakening the K.P.'s and
+					the men on guard, posting the guard,
+					 issuing passes, etc. It's a long haul
+					with no sleep. But they give me my
+					meals early and there is plenty of time for
+					writing letters -- so it's not so bad.
+				</p>
+				<p>
+					I had a letter from Tommy +
+					Agnes and one from Allen and
+					 Mary. -- Mother and Dad are coming
+					me in uniform.
+					down on the 6th. I bet they won't know
+					me in uniform.
+				</p>
+				<closer>
+					<signed>
+					Yours,
+					<persName>John</persName></signed>
+				</closer>
+			</div>
+		</body>
+	</text>
+</TEI>

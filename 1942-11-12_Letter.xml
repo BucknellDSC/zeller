@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-11-12</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				<opener>
+					<dateline>
+						<name>D-8-3 FARC</name>
+					<date>Nov. 12, 1942</date>
+					</dateline>
+					<salute>Dear <persName>Grandma</persName> - <persName>Aunt Stella</persName> - &amp; <persName>Uncle Elmer</persName>--</salute>
+				</opener>
+				<p>
+					I'm writing early this week because this
+					week-end is bound to be crowded. Mother &amp; Dad
+					arrive sometime tonight -- but of course I shan't
+					see them until sometime tomorrow afternoon.
+					So I want to get correspondence out of the
+					way.
+				</p>
+				<p>
+					But the week-end is going to be
+					particularly bad because -- good news --
+					I start to Center School Saturday and there
+					will be a big assignment for Monday.
+					I wasn't scheduled to start and I had
+					expected two or three weeks of K.P. and
+					dirty work before I actually got there. But
+					one of the fellows whose name comes in the
+				<pb n='2'/>				
+					beginning of the alphabet had a bit
+					tough luck with his teeth -- and has to
+					wait until the dentists fix him up
+					before he goes to school. Evidently they
+					picked his substitute from the end of the
+					alphabet -- for I got the call. At any
+					rate -- I'm on my way toward that
+					commission.
+				</p>
+				<p>
+					It will be a great relief to be rid
+					of the dirty work the ordinary private must
+					do -- picking up snipes dropped by thoughtless
+					officers, washing dishes, handling garbage,
+					scrubbing the latrine, shoveling coal, walking
+					guard in all kinds of weather. But it
+					has been a real experience and good training.
+					Now that it is behind me -- for good, I hope, --
+					I 'm glad I had the 10 weeks here.
+				</p>
+				<p>
+					My letters will undoubtedly be brief
+					from now on, for the classes are really tough,
+					 but I'll try to write or drop a card now &amp; then.
+				</p>
+				<closer>
+					<salute>Yours,</salute> <signed><persName>John</persName></signed>
+				</closer>
+			</div>
+		</body>
+	</text>
+</TEI>

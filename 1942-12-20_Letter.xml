@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+href="https://raw.githubusercontent.com/BucknellDSC/shared_code/refs/heads/main/leaf.css"	
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zeller letter DATE</title>
+            <author>John Zeller</author>
+            <respStmt>
+               <persName>Susan Falciani Maldonado</persName>
+               <resp>University Archivist and Director of Special Collections</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Digital Scholarship Coordinator</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Special Collections/University Archives, Bertrand Library</distributor>
+            <authority>Bucknell University</authority>
+            <address>
+               <addrLine>Lewisburg</addrLine>
+               <addrLine>Pennsylvania</addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John F. Zeller Papers</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n="1"/>
+            <opener>
+               <dateline>Sec. II - 3rd Platoon A-15-5 FARC Dec 20, 1942</dateline>
+               <salute>Dear Mother + Dad --</salute>
+            </opener>
+            <p> I sent you a telegram today, so you should know all the news. I was appointed
+					Corporal Friday. $16 a month more and the privilage of wearing stripes until I
+					get to Sill. You'll find the order appointing me along with a set of
+					stripes in with the next box I send home. I've also finished another volume
+					of my diary. I'll send that too soon. </p>
+            <p> I leave tonight at five for Sill. I'll be on the train -- Pullman I hope --
+					for two days. I'll write en route and mail the letter the 1st thance I get.
+					The address I telegraphed is only a guess. I'll confirm it officially as
+					soon as I know for sure. But I think O.C.C. class #56. will get me anyway. </p>
+            <pb n="2"/>
+            <p> I'm busy packing and turning in equipment. And since there's not much
+					new anyway - I shall close now. </p>
+            <p> Wish I could be with you for Christmas -- but don't feel sorry for me, for
+					I'll have a good meal and lots of company. </p>
+            <closer>
+               <salute>Merry Christmas to both of you --</salute>
+               <signed>John</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

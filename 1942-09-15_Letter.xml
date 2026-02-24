@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-09-15</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n="1"/>
+
+				<opener><dateline>Sept. 15 1942 F-10-4-F.A.R.C. Fort Bragg, N.C.</dateline>
+					<salute>Dear Mother, Dad, &amp; Grandma -</salute></opener>
+				<p>Just a brief note, for I don't have much time this evening. I was called out
+					of the outfit today for an interview. It turns out that sooner or later I will
+					be asked to apply for Officer's Training.</p>
+				<p> The Lt. today told me that I may be asked to apply within a few days - although
+					he told some of the other boys, 3 mo.; and one boy 3 weeks. My own judgement is
+					that I shall have to finish basic training with the outfit 1st. But I must be
+					prepared whenever they decide to give me the chance. Hence this note.</p>
+				<p>The Lt. suggested that I bone up on math, since I haven't had any use or
+					practice in that field for several years. He was a lawyer in civil life. The
+					other boys who had interveens had to answer a few problens. But when he saw that
+					I had completed a year in law school he said, &quot;Anyone who can pass the 1st
+					year in law school shouldn't have any <pb n="2"/> trouble with math”. And
+					that was all there was to it.</p>
+				<p>Now - what I want you to do for Tme. First - send me my College Algebra book and
+					also the small, paper-bound, bord of log tables. Both are in my box in the
+					attic. The Algebra book is red. The log tables are brown and about 1/2 wich to
+					3/4 inch thick. </p>
+				<p> Second - I have written Prof. Richardson to advise we what to use to study Trig
+					+ Geometry. I told him you would call him to find out what book or books to buy.
+					Whatever he suggests, send along too. You  can probably get them at Keelers. I
+					have to put you to all that trouble but I know you'll be glad to do it. The
+					sooner I can start reviewing, the better off. I'll be. There are math
+					classes here too - but I think I'd do better by studying on my own too.</p>
+				<p>I'm glad Bob + Ruth are taking th apt. I thought of them, but I supposed
+					they would be settled by now. I'm sure you'll like them, for I liked
+					them both. </p>
+				<pb n="3"/>
+
+				<p>I guess I spoke too soon about my hay fever. It was bad today. I didn't feel
+					bad, but I sneezed quite a bit and my nose ran continuously. My eyes were all
+					right. It has been so dry for a week now, and the sand comes up in clouds of
+					dust. I wish it would rain, then I'd have no trouble. </p>
+				<p> I'm so glad you didn't take boys. You would never get fellows like
+					Alex and Bill again.</p>
+				<p>Yes, I make my own bed. And there daren't be a single wrinkle in it. Thank
+					you for the church program. Now I have Brownell's address too I shall save
+					the papers for him.</p>
+				<p>There were only five girls in the class at law school, so it wouldn't it be
+					hard to guess which one said that. I'll have to send them each a quarter -
+					just to make sure I get the right one.</p>
+				<p>We had chicken on Sunday too, and I got white meat - so you &amp; Grandman
+					needn't worry.</p>
+				<p>I wish Peak Painter [?]  were here to explain this artillery business to me. As
+					yet I <pb n="4"/> haven't the slightest idea what it is all about We re
+					still drilling on fundamentals.</p>
+				<p>I'm going to ask you to do something else for me. I want to keep with the
+					news. I don't have time to read the paper every day and the papers here
+					don't cover everything anyway. So would you subscribe to Time magazine for
+					me and have it sent to this address. I'd appreciate it very much. The Post
+					Exchange news stand doesn't carry anything but cheap pulp magazines, and I
+					have to have something better. I guess there's not enough demand for them
+					to stock magazines like Time. Thank you! </p>
+				<p> Also, I'm going to retract my request not to send me food. I still
+					don't want it for myself - but all the other fellows have offered me things
+					from boxes - and I'm ashamed not to have something to offer them now + then
+					too. I hope I haven't asked for too much in this letter. </p>
+				<closer><salute>Yours,</salute>
+					<signed>John</signed></closer>
+			</div>
+		</body>
+	</text>
+</TEI>

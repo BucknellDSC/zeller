@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zeller letter DATE</title>
+            <author>John Zeller</author>
+            <respStmt>
+               <persName>Susan Falciani Maldonado</persName>
+               <resp>University Archivist and Director of Special Collections</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Digital Scholarship Coordinator</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Special Collections/University Archives, Bertrand Library</distributor>
+            <authority>Bucknell University</authority>
+            <address>
+               <addrLine>Lewisburg</addrLine>
+               <addrLine>Pennsylvania</addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John F. Zeller Papers</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n="1"/>
+           
+				<opener>
+					<dateline>D - 8 - 3 FARC
+					Nov 25, 1942</dateline>
+					<salute>Dear Mother + Dad --</salute>
+				</opener>
+			 <p>		
+			 	Thanksgiving eve -- and since
+					tomorrow is a holiday -- I'm taking off time
+					to write a few letters.
+				</p>
+            <p>
+					I'm so glad you are finally getting
+					that nursing course, Mother. I know you
+					have been thinking about it for some time --
+					and goodness knows, you may have good
+					use for it -- tho, we hope not. And you
+					won't have any trouble studying, I know.
+				</p>
+            <p>
+					So Lib finally got a preacher too.
+					These ministers -- I don't understand how
+					they do it. But Bud is a nice fellow,
+					and Lib and he should make a good pair. 
+					There goes another of my old standbys. I'm
+					more of a bachelor than ever. So there will
+					be no one to trot around with but the
+					younger generation -- and I'm afraid
+					they won't appreciate the gray-haired
+					old guy I'll be by the time this is over.
+				</p>
+            <pb n="2"/>
+            <p>
+					Poor Dave -- but he'll have to make the 
+					the regular army for discipline -- so he may be
+					better off than I was, at that. I imagine
+					we'll have a lot to talk about when we get
+					together again.
+					I'm glad Jr. made the band. Now best of it. The Air Corps is nothing compared to
+					I suppose they are all happy again. I
+					bet the poor kid heard he was to be transferred
+					and didn't know where too.
+				</p>
+            <p>
+					I know you enjoyed Aunt Va's
+					visit. I only wish I could have been there.
+					too.
+				</p>
+            <p>
+					I've been pondering what to do about
+					Xmas presents, Xmas cards, etc. It is
+					almost impossible for me to do any shopping
+					in Fayettsville -- and it is impossible for
+					me to get wrapping material to send things
+					home. I think probably the best I can do is
+					to have you do my shopping for me. You
+					buy presents for me to give Alice, Aunt Stella, 
+					Grandma, Cousin Emma, and for yourself
+					and Dad. Then let me know the cost and
+            <pb n="3"/>
+           I'll send you a check. I just don't know
+					what else to do. The problem is particularly
+					difficult since I shall probably be moving
+					out of here just before the holidays.
+				</p>
+            <p>
+					I don't know what to do about
+					Xmas cards either. If you think it is
+					allright, I won't send any. For to send to
+					one &amp; not all, wouldn't be right, and
+					it would keep me going for a week to
+					remember everybody. Could you just
+					include me in the card you + Dad send?
+				</p>
+            <p>
+					I think too, that it would be
+					best not to send Xmas mail to
+					me here. So pass the word around. I
+					certainly won't be here after Dec. 18th -- and
+					mail before that will be undependable
+					because of the rush. I suggest, that if you
+					do have anything to send, you wait til
+					after I go to Sill + then send it there.
+				</p>
+            <pb n="4"/>
+            <p>
+					Any mail arriving at Bragg after I
+					leave will undoubtedly be a month
+					following me. And I shan't be able to carry
+					any packages or presents with me.
+				</p>
+            <p>
+					I have hopes for a pass -- 3 day -- when
+					I get out of Center School. I'll probably
+					get it Monday or Tuesday and definitely
+					have to be back Saturday morning. It should
+					give me about 30 hours at home. So don't
+					make any big plans for the week of Dec 12-18.
+					On the other hand, I may go to Sill on the
+					12th -- in which case you want see me
+					until April.
+				</p>
+            <p>
+					Let me know what you think
+					about the Xmas business and don't
+					forget what I said about mail. I don't
+					want to have a lot of letters, etc following
+					me across the south.
+				</p>
+            <closer>
+					<salute>Yours,</salute>
+					John
+				</closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-11-05</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				<opener>
+					<dateline>
+						<date>Nov. 5, 1942</date>
+					<name>D-8-3  FARC</name>
+					</dateline>
+					<salute>Dear <persName>Mother</persName> + <persName>Dad</persName>--</salute>
+				</opener>
+				<p>
+					It was good to hear your voices
+					Monday evening. I hope it didn't cost too
+					much. Let me know what the phone company
+					charged. If it's not too much, I may try
+					it again sometime.
+				</p>
+				<p>
+					I'm awfully sorry you had to change
+					plans, etc, but it just cant be helped.
+					The 1st Sgt. told us at retreat Monday
+					that no passes would be issued this
+					week-end, and that if we had friends or
+					relatives coming we should tell them to
+					stay home. We go on Regimental Guard
+					Saturday and stay on til Monday -- so
+					even if you had come the chances are
+					I never could have seen you. On the other
+				<pb n='2'/>				
+					hand. I may be free most of the week-end
+					but it just wasn't worth it to take the
+					chance.
+				</p>
+				<p>
+					I only hope we don't run into
+					difficulties next week-end. But since
+					I've had most of the details recently, there
+					shouldn't be any trouble.
+				</p>
+				<p>
+					I meant to write Monday, but the
+					evening slipped by before I got a chance.
+					Incidently, I went over right after
+					the phone call &amp; made new restivations
+					at the Guest House -- so we are all
+					set for you here.
+				</p>
+				<p>
+					Tuesday evening I went on
+					prison guard and was on til 5:00
+					on Wednesday. It wasn't too bad.
+					We rode hard on prisoners who
+					had been A.W.O.L. and deserters.
+					We carried loaded guns and walked
+				<pb n='3'/>				
+					around behind them keeping them in view.
+					If one had escaped from me, I would have
+					had to serve out his sentence -- so we
+					weren't too easy on them. Fortunately,
+					there was no trouble -- although a man
+					did escape on Monday -- and there was
+					a riot on Sunday.
+				</p>
+				<p>
+					Last evening I was told I was
+					to appear before the examing board today
+					for O.C.S. So I spent the evening
+					shining shoes, etc. to get ready. Thus
+					I didn't get a chance to write again.
+				</p>
+				<p>
+					Incidently, Rosco, Brownell,
+					is to start O.C.S. this Saturday. If 
+					my name was Sak instead of Zeller,
+					I'd probably be starting too.
+				</p>
+				<pb n='4'/>
+				<p>
+					The interview wasn't too bad. I got
+					100 in both current events and in math
+					and my English composition was
+					satisfactory - so I'm sure I shall be
+					going  to OCCS too before another month
+					is out. The interviewing officer was
+					an engineering graduate and like all
+					engineers, he was amazed that an A.B.
+					should know anything about math. It
+					always makes me mad at these darn
+					engineers -- they think A.B's don't know
+					anything. Of course, I still have to pass
+					another physical exam -- but if I don't
+					pass it, I'll go into administration instead
+					of artillery.
+				</p>
+				<p>
+					Before I forget, please bring
+					my candid camera with you when
+					you came down. I believe it will
+					be nice to have some pictures of
+					the fellows -- as well as of myself.
+				</p>
+				<pb n='5'/>
+				<p>
+					I'm glad you made out so well
+					with your "uninvited" homecoming
+					guests. The Sholl's have been fine to me
+					and it helps to repay. But then we've
+					been me to Don too.
+				</p>
+				<p>
+					I still don't know what we
+					shall do when you come down -- but
+					I suppose there will be so much to
+					talk about that the time will pass all
+					too swiftly. We can go to the
+					movies. To church Sunday morning,
+					and the band concert Sunday night.
+					Your meals out here will have to be at
+					the service club. You'll have to stand in
+					line with all the soldiers -- but I guess
+					you won't mind.
+				</p>
+				<pb n='6'/>
+				<p>
+					I think I shall go to the movies
+					tonight to celebrate passing the board.
+					So for now -- ! I'll write again
+					Sunday, if I'm not too tired from
+					guard duty.
+				</p>
+				<closer>
+					<salute>Yours,</salute>
+					<signed><persName>John</persName></signed>
+				</closer>
+			</div>
+		</body>
+	</text>
+</TEI>

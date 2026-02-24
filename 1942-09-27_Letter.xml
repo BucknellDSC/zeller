@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+href="https://raw.githubusercontent.com/BucknellDSC/shared_code/refs/heads/main/leaf.css"	
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zeller letter September 27, 1942</title>
+            <author>John Zeller</author>
+            <respStmt>
+               <persName>Susan Falciani Maldonado</persName>
+               <resp>University Archivist and Director of Special Collections</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Digital Scholarship Coordinator</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Special Collections/University Archives, Bertrand Library</distributor>
+            <authority>Bucknell University</authority>
+            <address>
+               <addrLine>Lewisburg</addrLine>
+               <addrLine>Pennsylvania</addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John F. Zeller Papers</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n="1"/>
+            <opener>
+               <dateline>F-10-4 FARCH Sept. 27, 1942</dateline>
+               <salute>Dear Mother + Dad and Grandma</salute>
+            </opener>
+            <p>I hadn't intended to write today, but there were a few things I forget to say on that
+               talking record yesterday. </p>
+            <p> Yes, the New York letter was a wedding announcement from Kern &amp; Penny. Please
+               select a gift for me and send it off. I don't know where Penny is now but Janet Bold
+               will know. you can call her at Honor House to find out. </p>
+            <p> I had a nice note from Jeanne Haynes Thomas. She seemed quite pleased with the gift.
+               All of your packages arrived safety -- </p>
+            <p> including Reader's Digest and Time. I got a box of cakes from Aunt Edna too, I'll
+               write later to thank her. I didn't have to pay postage on the Phi Beta Kappa paper,
+               either. Fort Bragg does have a show, but it is carried only over small stations in
+               N.C. <pb n="2"/> I'm quite sure you could not pick it up. Occasionally, one of the
+               big programs broadcasts from here. Next time one comes, I’ll let you know in advance
+               &amp; you can tune in. Yes -- a route marker is a sort of traffic cop. I had to stop
+               all traffic while the convoy went through. </p>
+            <p> The weather here has been just right -- but the southern boys think it's cold. K.P.
+               today wasn't so awfully bad, but I'm quite tired. I cut my finger about fifty times
+               while lutting squash and peeling spuds. Must close now - </p>
+            <closer> Yours-- John</closer>
+            <postscript>
+               <p>P.S. Hope my voice sounds natural on the letter--record. Dont forget there is a
+                  message on both sides.</p>
+            </postscript>
+            <postscript>
+               <p>P.P.S. - I had a letter from Fred Shaffer, Cousin Emma, Isabele Bond, + a card
+                  from the Steins.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

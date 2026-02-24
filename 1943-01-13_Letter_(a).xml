@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+href="https://raw.githubusercontent.com/BucknellDSC/shared_code/refs/heads/main/leaf.css"	
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter January 13, 1943 (a)</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				
+					<opener><dateline>Jan 13,1943</dateline>
+					<salute>Dear Mother + Dad --</salute></opener>
+					<p>I shall try to write a hurried note tonight. The
+					assignments are a bit lighter than usual, so I have
+					about an hour to myself before lights out. However I
+					have a pair of does to ship too.</p>
+					<p>Which reminds me that I should tell you I've
+					accumulated, 2 demerits so for this week -- both in
+					my capacity as hut orderly. I got one because the place
+					was dirty. The Lt. ran his finger over it and got his
+					glove dirty -- it looked all right to me. The other demerit
+					came today because a small piece of paper stuck to the
+					bottom of the track can when emptied it, and so remained
+					there for inspection. However, 2 isn't bad. As long as
+					I don't get 5 per week I can't kick. Everyone in our section has
+					at least 1. I think the officers try to even them out.</p>
+					<p>Now to answer your letters. Yes, I got a card
+					from Helen, George, + Nancy, Low Kunkle -- along with
+					about a million others. I suggest you check through the
+					package when I send it home. You'll find plenty there.
+					I think I'll try to send the package off this weekend if
+				<pb n='2'/>
+					I can get to the P.O.</p>
+					<p>I'm sure I saw Mexican or Indian
+					bracelets in the shops in town. Next time I get
+					in -- probably not for a week or so -- I'll get one
+					for you.</p>
+					<p>Roommates continue to be good company.
+					Guess I'm more capable of getting along with
+					other people than you thought. Roscoe is about
+					2 blocks away. But time is so limited, I never
+					see him. I only see those in my own section.</p>
+					<p>Glad to hear about Helen Shaffer. Wonder
+					what Fred will do without her in the office.</p>
+					<p>Received G'-ma's money order Ok
+					but haven't had a chance to cash it. But I
+					really don't need it just yet anyhow, because
+					I cashed a Traveler's Cheque over at the Main
+					Post Bank.</p>
+					<p>Electrie razor arrived too. But I discovered
+					I don't have a plug to screw it in. I'll have to postpone
+					using it until I can get into town to buy one
+					at the 5 + 10.</p>
+					<p>So you got a 95 in Hursing class.
+					Mathe. See, I told you it wouldn't be any
+					trouble.</p>
+				<pb n='3'/>
+					<p>I you see Janet Bold, Mrs. Bond, or anyone
+					else who might know (maybe Betty Herrold could
+					find out) would you please get Margie Clayton's
+					address for me. I had a note from her without a
+					return address.</p>
+					<p>I've had letters from lots of my friends this week.
+					Dan, Janet, Jane C., Ken, Dave, and Ted all
+					wrote. All my mail seems to come in spurts. Not
+					much new from any of them. Don wants the war
+					to get over quickly so he can go home &amp; marry
+					Janet. Jane likes her job at Pitt very much
+					and offers to show me the town if I get shipped
+					to Pittsburg. (Wonder if that's a hint?) Ken is
+					working hard. He had only 4 days home at Xmas -- spent
+					the rest at a Baptist conference in Mich. Dan likes
+					his new post, he says, and as usual is sarcastic
+					about field artillery. Ted expects a furlough soon and
+					a promotion too. I guess that convers that.</p>
+					<p>I have a picture folder of this area to send
+					you as soon as I get to the P.O. to buy stamps.
+					I'm going to send one to Grandma, too.</p>
+				<pb n='4'/>
+					<p>Gunnery so far hasn't been too bad -- but
+					I would be completely and hopelessly lost if I
+					had it had that prep course at Bragg.</p>
+					<p>Oh yes -- almost forget the most important
+					thing. I went to the hospital as ordered yesterday.
+					They just wanted to check about my hayfever.
+					They ask a few questions and wrote up a history on
+					the sheet. The Dr. told me I would probably have
+					to sign a waiver. All of which means that
+					if I die of hayfever the government will be
+					relieved of responsibility -- you probably wouldnt
+					be able to collect my insurance in that case either.
+					Outside of that -- it wasn't as serious as I
+					anticipated.</p>
+					<p>Dad, will you do me a favor. Check with
+					Uncle Tom &amp; get train schedules, fare, etc for me
+					from Oklahoma City to Harrisburg. When I do
+					finish here I'll want to leave as soon as I can,
+					and since I'll be traveling overnight + for a
+					long distance I'll want to make reservations far
+					enough in advance.</p>
+					<p>I'm going to check at this end to see how much
+					it would cost to fly in.</p>
+					<closer><salute>Yours,</salute>
+					<signed>John</signed></closer>
+			</div>
+		</body>
+	</text>
+</TEI>

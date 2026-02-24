@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+href="https://raw.githubusercontent.com/BucknellDSC/shared_code/refs/heads/main/leaf.css"	
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter January 30, 1943</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				
+					<opener><dateline>OCC #56
+					Ft. Sill, Okla.
+					Jan 30,1943</dateline>
+					<salute>Dear Mother + Dad --</salute></opener>
+					<p>I had a "coming out" party this afternoon held over at
+					the dental clinc. Yes I had a tooth pulled- my 1st molar on
+					the upper left side. Doc Nesbit filled it and refilled it, until
+					it was half filling anyhow. So I decided to have it pulled and
+					get it over with -- knowing the army dentist would only pull it
+					anyway. I’t been bothering me for some time with dull ache
+					every once in a while -- and beginning this week it gave me a sharp
+					pain everytime I chewed on it. Anyway its gone now.</p>
+					<p>They used novocaine -- so there was no pain. The whole left
+					side of my face is still numb. The tooth itself looked huge. And
+					the vacancy feels big enough to drop a two story house in it.
+					Before long I suppose the shot will wear off and I'll be in agony
+					for awhile. Just so it's okay by tomorrow -- for we have the hardest
+					week ahead.</p>
+					<p>This past week wasnt any too easy. We had about 4 tests and
+					3 service practices. So far I've had all 5's. I hope I can keep it
+					up.</p>
+					<p>Yesterday morning we took complete charge of a battery. I
+					held every job there is at one time or another during the morning.
+					I was Battery Commander, Executive, Gunner, Recorder, Fuse Setter,
+					and just about everything else. It was a lot of fun -- and very good
+				<pb n='2'/>
+					experience.</p>
+					<p>Yesterday afternoon we witnessed a demonstration in
+					Infantry and Artillery on the Defense. It was very good -- equal
+					at least to anything I've seen the movies do. Some 3,500 of
+					us sat on the side of a mountain and watched the battle in the
+					valley and plain below.</p>
+					<p>When we first went out there I would have sworn there
+					were no men out in the valley, but suddenly 500 men just
+					jumped up out of nowhere and conducted a battle. How men
+					can live and fight in an area as completely covered by artillery
+					and machine gun fire as that was I don't know. But they
+					are doing it today in Persia, China, and Africa.</p>
+					<p>I saw Brownell at a distance at the demonstration -- but
+					I didn't get a chance to talk to him. I guess he's still getting along
+					allright. He should finish two weeks before I do.</p>
+					<p>There's not much else new. I had a letter from Cousin Emma
+					this week. She tells me that her church is being redecortated. About
+					time, don't you think? Wonder if she is having it done?
+					Last night Winn (a boy in the next hut) and I went over
+					to the main post to the movies. The show wasn't particularly
+					good, but the theater is wonderful. Just as nice as the Campus.
+					It's supposed to be the nicest camp that in the U.S. It was
+					well worth the walk just to sit in those plush seats.</p>
+					<closer><salute>Love,</salute>
+					<signed>John</signed></closer>
+			</div>
+		</body>
+	</text>
+</TEI>

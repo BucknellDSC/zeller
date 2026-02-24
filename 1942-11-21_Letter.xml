@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-11-21</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n="1"/>
+				<opener>
+					<dateline>D-8-3 FARC Nov. 21, 1942</dateline>
+					<salute>Dear Grandma, Aunt Stella, &amp; Uncle Elmer.</salute>
+				</opener>
+				<p> Well I finished my 1st week of Center School without any trouble.  I've had "S"
+					on all the tests - S and U are  the only two grades. "S" for satisfactory and U
+					for unsatisfactory.  But next week and the two following it are still ahead and
+					plenty tough. This is much worse than Law School -- mainly because they try to
+					cram so much into such a short period. </p>
+				<p> When I finish in three weeks -- unless I have to repeat -- I may be able to get
+					a 3 day pass and get home for 24hrs or so.   On the other hand <pb n="2"/> I
+					many be shipped immediately to Fort Sill. In which case I won't be home before
+					the end of March or the beginning of April. Since Mother &amp; Dad were here --
+					it really doesn't matter much which way it turns out -- for very few of my
+					friends are in Lewisburg anymore anyway - and I'd much rather go home with that
+					gold bar on my shoulder. </p>
+				<p> Incidently, when I leave here, I go as a Corporal. So I'm due for a pay boost in
+					another three weeks. </p>
+				<p> It was good to be with Mother + Dad  last week-end. I suppose you've heard all
+					about it by now. I only wish I could have seen all of you folks too. I'll be
+					thinking of you all this Thursday and wishing we could be together for the day. </p>
+				<closer>
+					<salute>Yours,</salute>
+					<signed>John</signed>
+				</closer>
+			</div>
+		</body>
+	</text>
+</TEI>

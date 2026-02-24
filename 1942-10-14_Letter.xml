@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-10-10</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				<opener>
+					<dateline>
+						<orgName>D-8-3 FARC</orgName>
+						<date>Oct 14, 1942</date>
+				</dateline>
+				</opener>
+					<salute>Dear Mother + Dad</salute>
+					<p>I suppose Grandma has gone to Aunt Stella's
+					by this time. I shall try to write to her at least once
+					a week -- probably on the week-end.
+				</p>
+				<p>
+					After you promised not to send insured
+					mail again, the candy came that way. Thanks
+					anyway, it came in handy even if I did have to
+					wait an extra day to get it. I also got a large box
+					of candy from Aunt Lillian &amp; a box from Aunt
+					Nelle (mailed in Harrisburg). All in all I've
+					had about 8 pounds of candy this week. Of course,
+					the boys accounted for most of it.
+				</p>
+				<p>
+					As you suggested. I shall keep the can.
+					It comes in handy to keep candy, etc. in. I haven't
+					even opened your last shipment of canned goods.
+					yet. I'll save it for some day when the chow
+					isnt so good.
+				</p>
+				<p>
+					I thank you so much for the money order.
+					Mother. I didn't need it yet -- and I don't think
+					I will. But there are 15 more days til payday --
+				
+				<pb n='2'/>
+					and things would undoubtedly have been a bit
+					light at the end of the month. I shall use it to
+					treal myself to dinner at the Service Club now
+					and again.
+				</p>
+				<p>
+					"Time" has begun to arrive direct from
+					the publishers, so you needn't send it any
+					more. Thanks for the last one and for "The Bucknellian".
+					I haven't received the weekly from the C.A. for
+					several weeks. I don't know too many of the
+					names in the Bucknellian myself. I did keep
+					up a bit last year -- but from now on I'll
+					be completely in the fog.
+				</p>
+				<p>
+					Somene sent the church program (other than
+					the one you included) to both Brownell and I. I
+					wonder if Rev. Ostergren did it! At any rate
+					it was sent to the old address. Bether tell him
+					we have both moved. I had a nice letter from
+					Jimmy O. too.
+				</p>
+				<p>
+					Thanks for sending on the card from
+					Leon. I've meant to write to him, but didn't
+					have his address. I also had a letter from
+					Dick Sharp. He's been drafted -- goes in
+					Oct. 22nd.
+				</p>
+				<p>
+					It sounds to me as though the whole
+					town has heard my record-letter by this time.
+				<pb n='3'/>
+					I'll have to make another next time I go into
+					town so you can play it when told one
+					wears out.
+				</p>
+				<p>
+					I really don't need a sweater. I purchased
+					a sweat jersey at the PX that I wear under my
+					fatigue jacket on cold days. You can get me
+					one for Xmas, if you really want to, however.
+					It must be olive drab shade. Any kind will do.
+					And just get the largest size they have -- 42 or
+					44 ought to fit pretty well -- nothing smaller,
+					however.
+				</p>
+				<p>
+					I have plenty of handkies and I can get socks
+					at the PX as I need them. They must be
+					regulation--so don't try to buy them for me. I
+					I get to be an officer, I will have to buy my own
+					uniform and there will be plenty I'll need. You
+					can help out their if you want.
+				</p>
+				<p>
+					How was the tea? Are you able to get
+					goods for Xmas, Dad? And is business
+					still holding up.
+				</p>
+				<pb n='4'/>
+				<p>
+					The weather here has been a bit cooler. We go
+					into our winter uniforms tomorrow. So far we
+					have been in cottons -- a sort of twist like my old
+					boy scout uniform. The winter uniform is wool.
+					We shall see now whether I break out in a rash.
+				</p>
+				<p>
+					It seldom snows down here, they tell me. It
+					just rains -- and judging from that -- we've had
+					winter weather. It's been raining or drizzling
+					since Sunday. One time last year it rained
+					for three weeks straight.
+				</p>
+				<p>
+					I walked guard duty Monday night and
+					Tuesday. Got soaked to the skin, of course,
+					dispite my raincoat. But I took a hot shower
+					and didn't even get a cold -- actually lost the
+					small one I had. My ankles better too.
+				</p>
+				<p>
+					Guard duty wasn't bad. I walked from 5 to
+					7 and from 11 to 1 twice a day -- both A.M. +
+					P.M. that is. The night a shifts were lonely +
+					nothing exciting happened.
+				</p>
+				<p>
+					Brownell has been up for his Center
+					School interview. We may get into school
+					this week. It looks as though they are going
+					alphebetically. At that rate I'll be here til the
+					very last.
+				</p>
+				<closer>
+					
+					<signed>Yours,
+					John.</signed>
+				</closer>
+			</div>
+		</body>
+	</text>
+</TEI>

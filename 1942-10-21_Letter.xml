@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-10-21</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				<opener>
+					<dateline><name>D-8-3 FARC.</name>
+					<date>Oct. 21, 1942</date></dateline>
+					<salute>Dear <persName>Mother</persName> &amp; <persName>Dad</persName>--</salute>
+				</opener>
+				<p>
+					I guess the flood to the north of us held
+					up mail for a few days. Your letters arrived
+					late too. I hope Dad didn't waste too much shoe
+					leather going to the post office.
+				</p>
+				<p>
+					Now to answer &amp; comment on your letters.
+					No, I havent heard from Ken, and I can't under-
+					stand it. I've written him twice. - I agree
+					will you about Kern &amp; Benny - so do Don
+					and Jannet. But everyman to his own choice. I
+					really don't think he's being fooled much. He ought
+					to know her by this time.
+				</p>
+				<p>
+					This note ought to be arriving about the
+					time Isabelle and Verna are with you. Give them
+					my regards. I owe Isabelle a letter-but I'm
+					afraid I won't get around to writing it for a
+					few days.
+				</p>
+				<p>
+					Let me know when Willard Remer is sent.
+					There are a lot of volunteer officer canidadates here and
+				<pb n='2'/>
+					since they need artillery officers, he may end up
+					here too.
+				</p>
+				<p>
+					If you see Dave again, tell him not to
+					worry. He's lucky if he doesn't get in with any
+					worse fellows than Franklin &amp; Weston. He can
+					take it from me. He's going to get his eyes opened!
+					Lt. Colonel is the next rank above Major. It
+					isn't too high, but it would be nice to have in front
+					of one's name. It's still a long way from the highest
+					officer though.
+				</p>
+				<p>
+					Mother, I think you better just forget about
+					the sweater.  At least until we see how things
+					work out. If you are worried about Xmas
+					presents, just give me money. I'll put it towards
+					a radio or towards my officers uniforms when
+					the time comes to get them.
+				</p>
+				<p>
+					Please have my diploma framed and have
+					it in the little room over the hall door.  I've
+					reserved that spot for it. Try to get the same
+					type frame as Dan Ross used on my A.B. diploma.
+				</p>
+				<p>
+					One more thing and then I'll go into
+					the news. I got a wedding announcement from
+					Emily Ong Schreyer. That means another wedding
+					present. Pick something out + send it. You ought
+				<pb n='3'/>				
+					to be able to get the address from any of the
+					folks who work on the hill.
+				</p>
+				<p>
+					I really cashed in on the mail this week.
+					I had a nice box from the Grooner's. I salvaged
+					the peanuts, but the candy, etc. went out in
+					nothing flat. Boxes don't last long in our
+					barracks. I had a nice note from Fred Igler--
+					telling me of his visit to Bucknell--seeing
+					you folks - the Demie House -- etc.
+				</p>
+				<p>
+					Leo Arbogast wrote a most interesting
+					not about the navy. I also heard from
+					Peggy Kauffman, Forrest Brown, Mrs.
+					Thompson,  Charlier Bard, and another card
+					from Maude -- in addition to the regular
+					letters from you folks &amp; from Alice.
+				</p>
+				<p>
+					Yesterday we went on another overnite
+					hike. It was cool so I wore long woolen
+					underwear -- for the 1st time in my life, I think.
+					I haven't developed a rash so far.
+				</p>
+				<p>
+					Our packs were really heavy this time,
+				<pb n='4'/>			
+					for we carried two blankets -- extra underwear &amp; socks--
+					field jacket, etc. The pack when made up was fully
+					40 inches long. It bumped both my head and my
+					sitter-downer with each step. Wt. -- 50 to 70 lb.
+				</p>
+				<p>
+					In all we walked about 6 miles out and
+					about 4 back. It rained -- and I really mean
+					rained all night. I kept dry -- but my blankets
+					didn't. It took all day back here to dry them.
+				</p>
+				<p>
+					The rain stopped long enough in the morning
+					for us to pack up &amp; start back. But it rained
+					hard for about an hour and really got me soaked
+					on the trip back. A good hot shower and dry
+					clothes fixed me up, however, and I didn't even
+					catch a sniffle.
+				</p>
+				<p>
+					I made reservations for you at the Great
+					House for Friday, Saturday &amp; Sunday. Nov. 6, 7, 8th
+					O. K. ?
+				</p>
+				<p>
+					I guess thats all of the news for now.
+				</p>
+					<closer><signed>So til Sunday--
+					<persName>John</persName></signed></closer>
+			</div>
+		</body>
+	</text>
+</TEI>

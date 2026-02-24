@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+href="https://raw.githubusercontent.com/BucknellDSC/shared_code/refs/heads/main/leaf.css"	
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zeller letter DATE</title>
+            <author>John Zeller</author>
+            <respStmt>
+               <persName>Susan Falciani Maldonado</persName>
+               <resp>University Archivist and Director of Special Collections</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Digital Scholarship Coordinator</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Special Collections/University Archives, Bertrand Library</distributor>
+            <authority>Bucknell University</authority>
+            <address>
+               <addrLine>Lewisburg</addrLine>
+               <addrLine>Pennsylvania</addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John F. Zeller Papers</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n="1"/>
+            <opener>
+               <dateline>FORT BRAGG. N. C.
+					D - 8 - 3 FARC
+					Dec 6, 1942</dateline>
+               <salute>Dear Mother &amp; Dad --</salute>
+            </opener>
+            <p>
+					Well, I got through the third week without
+					disaster, but the next week will tell. I have
+					five final exams this Thursday -- one right after
+					another. So I may not get a chance to write
+					on Wednesday. However I'll write as soon as I
+					can -- probably Thursday night or Friday
+				</p>
+            <p>
+					If I should be lucky enough to
+					be on the shipping list for next Sunday -- I shall
+					telegraph you on Saturday. Then I'd like you
+					to phone me Saturday night about 10 o' clock.
+					But don't phone unless I telegraph. And if
+					you do phone just and for Pvt. John Zeller
+					person to person, Battery D, 8th Battation, Replacement
+					Center, Fort Bragg, N.C. Better place the call
+					early too, for it may take a little while to get it through.
+				</p>
+            <p>
+					If I don't ship next Sunday, and don't
+					get home either, then call me the following
+					Saturday.
+				</p>
+            <pb n="2"/>
+            <p>
+					I've been receiving Xmas Cards from
+					quite a few of the Masons. I had one from John
+					Voris in Harrisburg and a very nice letter
+					from Sam Wolfe. Also had a card from the
+					church.
+				</p>
+            <p>
+					Aunt Stell sent me a box of chocolate
+					covered mints. I guess she figures it's easier to
+					send candy them to write. Needless to say the
+					candy didn't last long.
+				</p>
+            <p>
+					Brownell leaves for Ft. Sill tonight.
+					He'll get there Wednesday or Thursday.
+					I guess Paul Johnson is still waiting
+					start school. He made the mistake of asking
+					instead of th Field Artillery.
+					to get into the Adjutant General's Office
+				</p>
+            <p>
+					instead of th Field Artillery.
+					I'm enclosing the Xmas club checks
+					Please deposit them to my account.
+					The underwear has not yet arrived.
+					I'll let you know how it fits in
+					my next letter.
+				</p>
+            <p>
+					Last night I went to see a U.S.O.
+					camp show at the "Center" Theater. They put on
+				<pb n="3"/>
+					"You Can't Take It With You". I had seen the
+					Bucks County Playhouse do the same play in
+					Shile, when I was down this summer -- and
+					imagine my surprise and delight when most
+					of the cast was the same. All of the women were
+					the same and one of the men. The starring role
+					was played by the composer Jack Norwood
+					who wrote “Shine on Harvest Moon and “Take
+					Me Out to the Ball Game."
+				</p>
+            <p>
+					Some of the fellows evidently had never
+					seen a legitimate theather production before,
+					for they got up and left at the end of the 1st
+					act. Guess they thought it was all over -- as
+					in the movies.
+				</p>
+            <p>
+					I want to go to the movies this
+					afternoon and then study and go to the
+					band concert tonight.
+				</p>
+            <p>
+					Last night we finally heard on
+					the radio the full story of Pearl Harbor
+				<pb n="4"/>
+					No wonder it has taken as long to get rolling.
+					We seem to have made a remarkable recovery.
+					I'm glad thd Selective Service has finally been
+					made a real Selective Service. Now this foolish
+					volunteering the day before the draft would take
+					effect will stop.</p>
+            <closer>Guess that all the news --
+					<salute>Yours,</salute>
+               <signed>John</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

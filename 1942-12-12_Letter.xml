@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+href="https://raw.githubusercontent.com/BucknellDSC/shared_code/refs/heads/main/leaf.css"	
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zeller letter December 12, 1942</title>
+            <author>John Zeller</author>
+            <respStmt>
+               <persName>Susan Falciani Maldonado</persName>
+               <resp>University Archivist and Director of Special Collections</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Digital Scholarship Coordinator</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Special Collections/University Archives, Bertrand Library</distributor>
+            <authority>Bucknell University</authority>
+            <address>
+               <addrLine>Lewisburg</addrLine>
+               <addrLine>Pennsylvania</addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John F. Zeller Papers</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n="1"/>
+            <note> Fred:- For your information. Nice letter. S.B.W.</note>
+            <opener>
+               <dateline>D - 8 - 3 FARC Dec 12, 1942</dateline>
+               <salute>Dear Colonel Wolfe --</salute>
+            </opener>
+            <p>I thank you for your fine letter. I shall try to profit by your advice. I have
+					received a great many cards and letters from the members of Charity Lodge. It
+					makes me very proud to be a member and renews my resolve to be worthy of my
+					affiliation. </p>
+            <p> Having just finished by basic training and a four-week prep course at Center
+					School here, I am now ready to move off to Ft. Sill. Most of my
+					"buddies" are shipping tomorrow, but being a "Z", I shall
+					have to wait another week. </p>
+            <p> Center School pack into one month more than I thought could possibly be learned
+					in a month. We covered the basic elements at least of firing battery K
+					transfers, meteo message, rapid preparation of fire, and survey. Gunnery looked
+					at first as though it might prove difficult, but by now I've learned what
+					was expected of axial conduct of fire, and large and small T. </p>
+            <pb n="2"/>
+            <p> And of cause we had army administration, military law, and dismounted drill too.
+					You'll probably agree that it was quite an intensive schedule -- and it
+					should make Ft. Sill a bit less difficult. One hears only praise for Ft. Sill,
+					and so, of course, I'm more than anxious to get there. I'm sure I
+					shall find it interesting, for I'm more than in love with field artillery
+					now. </p>
+            <closer>
+               <salute>With season greetings,</salute>
+               <signed>John F. Zeller</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

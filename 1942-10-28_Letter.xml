@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-10-28</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				<opener>
+					<dateline>
+						<date>Oct 28, 1942</date>
+					<name>D-8-3 FARC</name>
+					</dateline>
+					<salute>Dear <persName>Mother</persName> + <persName>Dad</persName> --</salute>
+				</opener>
+				<p>
+					First of all I must hasten to correct
+					two impressions I left in my last letter
+					which have been altered since Sunday. First
+					of all, I recieved a box of candy just
+					yesterday from Aunt Virgina. It had 
+					been sent to F-10, but it was only mailed
+					from Elysburg on the 22nd, so it wasn't
+					too much delayed. Second, I saw Paul
+					Johnson. He is in battery just two rows
+					up the street. Why I haven't seen him before,
+					I don't know. I met him at the dispatchers
+					office Tuesday -- we were both driving
+					trucks for the day.
+				</p>
+				<p>
+					Thank you both for your letters.
+					Be sure to send me your itinerary
+					for the trip, as soon as you know
+					definitely. I'll be able to meet you in
+				<pb n='2'/>
+					Fayettsville. Southern trains are usually
+					late -- so don't be worried if the train is
+					2 or 3 hrs behind schedule. I'll know what
+					to expect. I'll be waiting at the station.
+				</p>
+				<p>
+					If you haven't eaten on the train, we can
+					have dinner together in Fayettsville before
+					coming out to camp. We shall have to go
+					to the control gate 1st to get your passes. After
+					that you can come + go as your please.
+				</p>
+				<p>
+					When do your plan to leave for home. The
+					best northern train (usually 2 or 3hrs. late)
+					is supposed to leave Fayettsville at 5:00
+					or thereabouts.
+				</p>
+				<p>
+					The gift for Emily Ong was quite
+					satisfactory. Thank you.
+				</p>
+				<p>
+					Ask Kenny if he has heard anything
+					about Runkle -- Doc. Oliver's assistant
+					last year who was at New Cumberland
+					with me. I'm curious to know where
+					he landed.
+				</p>
+				<p>
+					I recieved your cookies, and
+					as usual they didn't last long. The
+				<pb n='3'/>				
+					boys really enjoyed them -- and, of
+					course, you know I did. Thanks also
+					for the watch strap, Dad. I really needed
+					it.
+				</p>
+				<p>
+					I can't think of anything in particular
+					I want you to bring down. But I'd
+					like to suggest that in the next box
+					you send, you can include a couple of
+					glasses of jelly. I'm really hungry for
+					some of it. We seldom have it at the mess hall.
+				</p>
+				<p>
+					I have decided not to send the
+					box home. I'll wait and send it with you
+					folks when you go home.
+				</p>
+				<p>
+					I purchased a new pen. A $5.00 Parker
+					at the PX price of $3.00. It's not bad at
+					all.
+				</p>
+				<p>
+					Poor Dave. I have an idea he'll have
+					a hard time adjusting himself. And being
+					in limited service means he's likely
+					to get many mire of the dirty degrading
+				</p>
+				<pb n='4'/>
+				<p>
+					jobs than the rest of us. But, of course, he
+					may be better off too. He may get Air Corps
+					Administration.
+				</p>
+				<p>
+					The woolens have had no ill effects 
+					as yet -- outside of a great deal of scratching
+					anyway.
+				</p>
+				<p>
+					All week so far I've been on drivers
+					detail. I have not been assigned
+					permanently to a truck -- but I have been
+					assistant driver to another boy. We take
+					turns driving his truck. Yes it is one of
+					the big ones.
+				</p>
+				<p>
+					We go down to Sanford, N.C.,
+					about 35 miles away twice a day. We're
+					bringing back the lumber from an abandoned
+					CCC camp -- which is being used here.
+					It's not a bad job -- but then you know
+					how I like to drive.
+				</p>
+				<closer>
+					<salute>Yours,</salute>
+					<signed><persName>John</persName></signed>
+				</closer>
+			</div>
+		</body>
+	</text>
+</TEI>

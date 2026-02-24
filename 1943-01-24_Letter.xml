@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+href="https://raw.githubusercontent.com/BucknellDSC/shared_code/refs/heads/main/leaf.css"	
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter January 24, 1943</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				
+					<opener><dateline>FORT BRAGG. N. C.
+					OCC #56
+					Ft. Sill. Okla.
+					Jan 24,1943</dateline>
+					<salute>Dear Mother + Dad --</salute></opener>
+					<p>Your Air mail letter of Jan 14th, inclosing the $10
+					money order, arrived on the 22nd. In the same mail was
+					a letter from Alice dated the 18th + one from Tommy + Agnes dated
+					the 19th. Not very good service for the extra three cents it cost,
+					is it? Thanks very much for the money order. I can use it --
+					even though I'm not really hard up now that I've been paid.</p>
+					<p>Enclosed you will find a check for the $11 to cover
+					the cost of my Xmas presents.</p>
+					<p>I was in town last night, Mother, + purchased a coin
+					silver bracelet for you. Hope it's what you wanted. It's a bit more
+					plain them some -- but you never went in too much for ginger-bread
+					chings. It's Indian made. You should be getting it soon. Don't
+					bother to pay me for it. I took the price out of the $10 you +
+					Dad sent. O.K?</p>
+					<p>I forget to tell you that I sent the cotton long underwear
+					home because its much too big around the waist. The tops are ok
+					so I kept them.</p>
+					<p>Thank you Dad for starting an Xmas club for me. I do
+					appreciate it.</p>
+				<pb n='2'/>
+				<p>
+					thanks for forwarding Jean Dyer's letter + for
+					Margie Clayton's address. Jean didn't have much to say -- except
+					that she likes her job and has had a raise.</p>
+					<p>I'm glad Grices heard from Jr. They must feel much
+					better.</p>
+					<p>Your box haven't arrived yet. I'm anxious to discover
+					what’s in it. "Surprise" sounds very interesting. I suppose it
+					should come along early this week.</p>
+					<p>Thanks for the stamps, Dad. I don't use them often, but
+					when I do I never seem to have them.</p>
+					<p>Don't worry about baking a cake for me when I come
+					home. I'll be satisfied with mashed potatoes. I would like
+					some ham loaf if you could manage it, though.</p>
+					<p>I've had 5's in all of my tests so for -- and in
+					firing too. We fired three days this week. I fired twice.
+					The shells for the 37 mm cost $3 a piece. I blew up
+					quite a few defense bonds. But the only way to learn is
+					by experience -- so I guess it was worth it. This week we
+					shot 75 mm. Shells cost about $10. See where your
+					money goes!</p>
+					<p>We filled out "cut sheets" this week. We had to
+					rate every man in our section. It was a tough job
+					and very unfair, for they are all good men. The Tactical Officers
+					tabulate the results and if one man is consistently low, he
+					is carefully watched -- often chopped. So it was serious
+					business and not just a popularity contest. I hope I
+					made out all right.</p>
+					<p>When my laundry came back from the cleaners this
+					week my socks were missing. The army only gives us
+				<pb n='3'/>
+					six pair -- and so I had purchased about $5 worth extra.
+					Now I'm out of socks again, so I had to buy more
+					in town last night. I hope I get those back from
+					the laundry, but I have my doubts.</p>
+					<p>Did I tell you that I can buy the Philadelphia
+					Inquirer out here. Of course it doesn't have all of the
+					news; but the funnies and feature sections are there. (Sunday
+					Inquirer only.)</p>
+					<p>I haven't seen Roscoe Brownell or anyone else
+					I know for sometime. We get so busy we don't get around
+					Yesterday afternoon we went to see a
+					demonstration on loading an airplane with field
+					artillery material. It was interesting for the 1st half
+					how; after that we were all ready to go home. I did
+					get into town by 4:30 anyway.</p>
+					<p>We had a good dinner today. Chicken, mashed
+					potatoes, chicken noodle soup, peas &amp; carrots, olives,
+					rolls + butter, coffee, and a peach sundae.</p>
+					<p>This morning Young and I signed out a transit
+					from the Instrument Room and fooled around
+					with it for about an hour. It's quite a complicated
+				<pb n='4'/>
+					gadget. I'll know quite a bit about surveying
+					before I'm through.</p>
+					<p>I shall certainly kkep my eyes open for the
+					Princeton boys. They haven't arrived as yet, I know.
+					I probably wouldnt know Wells Henderson if I
+					did see him -- but it would be good to look him up</p>
+					<p>I hear B. U. may be selected to train Army men.
+					I wish I could pull a few things &amp; get stationed there
+					for a few month. But there's no use ever thinking
+					about it -- for I'm just not that lucky</p>
+					<p>Well I guess that's about all for today.</p>
+					<closer><salute>Yours,</salute>
+					<signed>John</signed></closer>
+			</div>
+		</body>
+	</text>
+</TEI>

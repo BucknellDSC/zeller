@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+href="https://raw.githubusercontent.com/BucknellDSC/shared_code/refs/heads/main/leaf.css"	
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter January 20, 1943</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				<opener>
+					<dateline>FORT BRAGG, N. C.
+					OCC #56
+					Ft. Sill, Okla.
+					Jan 20, 1942</dateline>
+					<salute>Dear Mother + Dad</salute>
+				</opener>
+				<p>					
+					I’ve finished my homework at 9:30 tonightt for some
+					strange reason -- so I'm going to spend the hour before lights
+					out in writing this note and making a 10-minute trip to the PX.</p>
+					<p>I've just returned from the PX -- fast trip, wasn't it?
+					I wish you could see the mob there. OCS men are not allowed to
+					go after 7:20 nor before 9:30 -- so it's really mobbed from 9:30
+					to 10:00 (closing time). I could hardly get in. And I had to push + shove
+					+ fight my way to the candy counter. Supplies as low. We too are
+					rationed. Candy bars are doled out three to a person. Last week
+					it was five -- but things are tightening up.
+				</p>
+				<p>
+					Ice cream is getting more scare too - so the PX is
+					tiyng to puch sherbet + ice. That's all they had tonight. I imagine
+					your folks are really feeling the pinch.</p>
+					<p>Now to answer your letter of Jan 15th. Grits, Mother
+					are like oatmeal or much. Hominy is corn, evidently soaked
+					like rice or tapioca before cooking, for the kernals are big and
+					white. I don't care for either.</p>
+					<p>Why don't you go visit, Isabelle or Aunt Va.,
+					Mother. It's the only chance you'll have -- for once Grandma
+					gets back + with gas rationing and all -- you'll not get away
+				<pb n='2'/>
+					again until fall. And I'm sure Dad won't mind
+					eating out for a few days.</p>
+					<p>You don't need to think only Pa. is cold. A
+					north wind blew in here Sunday night and Monday and
+					brought below zero temperatures. Th infirmary was
+					damned with frozen ears, noses, feet, + fingers. I was
+					out in it almost all my Monday and my right hand,
+					was front bitten. It's been numb ever since.</p>
+					<p>The wind is so biting that it really gets cold.
+					Fortunately I do have enough convers -- so that its warm
+					in bed, any way. The hat itself is some protection from the
+					wind -- but it's just as cold as outside.</p>
+					<p>To top it all off the gas main broke tonight and
+					we had no heat at all until almost 9:00.</p>
+					<p>We have another new roommate - dropped back
+					from a class one week ahead of us. He had flu + was in the
+					hospital 4 days. His name is Winskaitis + he's from
+					Chicago. Lithwanian by nationality. Seems like a nice
+					chap. He's younger than I -- and married.</p>
+				<p>
+					I finally mailed the box last night. You should
+					receive it about the same time as this letter. It includes the
+					tin cas you sent the food in -- and some of Aunt Edna's too.
+					My letters are in the cans. Also my diary -- rather poorly bound --
+					but it least it will hold together until I find a better
+					binder.</p>
+					<p>My notice of promotion to Cpl + my Center School
+					diploma are in the brown envelope along with my stripes
+					OCS insignia, + your little crossed cannon, Mother. The Xmas
+					menu and a few other things are also inclosed. You can
+				<pb n='3'/>
+					put the Reader's Digest in my bookcase! They make such
+					good reference material, I like to keep them.</p>
+					<p>I suggest you look through the mail + see who all
+					sent Xmas cards. Then when you see the folks who remembered
+					me you can tell them how much I appreciated it.</p>
+					<p>I hope to get into town this Saturday. Last weekend
+					was too crowded, I didn't make it. If I do, I shall look for
+					trinkets.</p>
+				<p>
+					I haven't been getting the Bucknellian from the CA
+					regularly -- so if you can without too much trouble, please
+					send it along with the Journal + Sat. News. Thank you.
+					We were out on the range Monday to fire our 1st
+					gunnery problems in the freezing cold. I was one of the 1st
+					to fire and did all right up until the very end when I
+					got excited and moved the gun the wrong direction. I
+					haven't received my grade yet -- but I have hopes of an 5.
+					We were out again today -- not as cold this time -- and
+					the rest of the class fired.</p>
+					<p>Friday we fire again on a different type
+					problem. I guess from now on we'll be spending
+					about half our time out of doors. I hope it gets warm.</p>
+				<pb n='4'/>
+					<p>I had a letter from Dave again. He wants to know
+					what OCS is like, + how tough the entrance exam was.
+					So I wrote + gave him the lowdown.</p>
+					<p>I also had a letter from Dick Nutt. He + Dottie
+					all sailing happily along. He's decided to be a Methodist,
+					and is to be ordained -- or whatever the Methodist's do -- within
+					the next month</p>
+					<p>It's time for light out now so I'll close.</p>
+					<closer><salute>Yours,</salute>
+					<signed>John</signed></closer>
+			</div>
+		</body>
+	</text>
+</TEI>

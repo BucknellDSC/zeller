@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+href="https://raw.githubusercontent.com/BucknellDSC/shared_code/refs/heads/main/leaf.css"	
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zeller letter DATE</title>
+            <author>John Zeller</author>
+            <respStmt>
+               <persName>Susan Falciani Maldonado</persName>
+               <resp>University Archivist and Director of Special Collections</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Digital Scholarship Coordinator</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Special Collections/University Archives, Bertrand Library</distributor>
+            <authority>Bucknell University</authority>
+            <address>
+               <addrLine>Lewisburg</addrLine>
+               <addrLine>Pennsylvania</addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John F. Zeller Papers</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n="1"/>
+            <opener>
+               <dateline>Section II-3rd Platoon Battery A, 15th Battation, 5th Regiment FARC
+						Dec 16, 1942</dateline>
+               <salute>Dear Mother + Dad</salute>
+            </opener>
+            <p> Well, as I told you I might be, I've been moved. The new address is above. But I
+					doubt if I'm here very long, so don't write. I don't expect to get any mail now
+					until some few days after I get to Sill. Anything that should have been sent to
+					D - 8 - 3 will be transferred here -- of course -- but will probably arrive here
+					after I leave and then be transferred on to Sill. Incidently, if you wrote a
+					Sunday letter it will fall in that class, for I didn't get it. </p>
+            <p> However Amanda Miller's box did arrive just about an hour before I moved here --
+					so I won't need to worry about that. I also received a 2 lb box of Purity candy
+					from the O.E.S. I think it was so nice of them and I've already written a note
+					of thanks to Kathryn Krowl -- she is still Sect., isnt she? Did I tell you I got
+					a box of tookies from Lib? I've had cards from Mr. Thompson, Clarence Comstock,
+					Howard Broscies, the Fishers, Fred Shoffer, Mr. Busser, The Rotary Club, Mr.
+					&amp; Mrs. Stall, &amp; Mrs. Mathias. </p>
+            <p> I also had a card from the Higgin's. It included a dollar. I've written to thank
+					them. But what tickles me is that she evidently wasn’t convinced by your
+					argument, Mother, <pb n="2"/> for she said it was to get yourself something to
+					eat. </p>
+            <p> Monday back in D - 8 - 3 I got up at 4:00 and was on my feet until 10:00 at
+					night -- busy every minute. I was on K.P. in the morning. In the afternoon they
+					put me on a landscaping detail - we shoveled clay. And in the evening we were
+					closely supervised to see that a thorough clean-up job was done to get the
+					barracks ready for the new cycle. I wish someone had pleased it up for us when
+					we came in a few months ago. At any rate, by time for bed I was pretty tired. </p>
+            <p> Yesterday, however, they forget about me. I got up in the morning, and after
+					policing the barracks loafed for the rest of the day. </p>
+            <p> Last night we moved over here -- and I can truthfully say that I was never so
+					glad to leave any place in my life as I was D - 8 - 3. I didn't begin to tell
+					you the things we had to do there and the guff we had to swallow. Too many of
+					the officers and N.C.O.'s thought themselves little tin Gods. </p>
+            <p> The new place is wonderful. When we arived here we discovered that the Sarge had
+					already made our beds. Everything was clean and neat and the officers and men
+					are fine. It is well ordered and well run. It's worth it not to go to Sill last
+					Sunday just to be here to see what a really good outfit can be like. It's even a
+					lot better than F - 10 - 4. </p>
+            <p> Today we sampled the chow -- and its really good. This cook knows what he's
+					doing. He's making <pb n="3"/> doughnuts for supper -- I'm anxious to taste
+					them. They have nothing for us to do here except wait for shipment. So all we've
+					done all day is act as table waters at noon and this evening. This morning four
+					of us played bridge from 9 til 11:30 -- the 1st I've played since I left home, I
+					think. This afternoon I got a haircut and wrote letters. </p>
+            <p> Now don't count on it -- but we may be getting passes. In fact I just may be
+					home before this letter. The battery Ccmmander is trying to see what he can do. </p>
+            <p> They say there is not to be another shipment to Ft. Sill until after Xmas. In
+					the case, I may even get an furlough and be home for the holiday. However, I'll
+					be plenly satisfied with even a pass for 3 days. I guess, we'll just have to
+					wait and see. At any rate, I don't mind not going to Sill nearly so much since
+					I'm in this new outfit. </p>
+            <p> It began to rain about 10 o'clock -- and about 1:30 it changed to snow. Now the
+					ground, roofs, trees, etc. are covered. Just like Pa. I guess this will be our
+					white Christmas. But I suppose it won't last long. </p>
+            <pb n="4"/>
+            <p> I guess that's all the news. I hope I do go home before this letter. </p>
+            <p> Oh yes, I wanted to ask you. Forrest Brown wrote that a letter I had written to
+					him was to be reprinted in the Bucknellian. Will you save that issue and send it
+					to me when you get my address?</p>
+            <closer>
+               <salute>Yours,</salute>
+               <signed>John</signed>
+            </closer>
+            <postscript>
+               <p>P.S. There is no phone here -- so you can't phone me as we had arranged.
+						Perhaps I'll get a chance to call you from some place else if I don't get
+						home.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

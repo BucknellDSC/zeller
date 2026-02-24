@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-09-04</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1' facs="https://leaf.bucknell.edu/sites/default/files/2025-08/0001_1942-09-23_001_0.jpg"/>
+					<head><lb/>F-10-4 FARC
+					<lb/>Fort Bragg, N.C.
+					<lb/>Sept 23, 1942.</head>
+					<lb/><salute>Dear Mother, Dad, &amp; Grandma--</salute>
+					<lb/><p>Thank you for sending my math books, and
+					<lb/>for the food. The Corporal enjoyed the fudge and
+					<lb/>nuts as much as I did. One can of fudge disappeared
+					<lb/>in a flash at the writing table. So you needn't
+					<lb/>worry about my getting fat. The canned stuff I
+					<lb/>shall save for a lean day at the mess hall.</p>
+					<lb/><p>Mother, the letter you wrote on Sunday
+					<lb/>arrived Tuesday evening. The food arrived
+					<lb/>tonight. The Math books arrived last night.
+					<lb/>But the letter you wrote last Thursday arrived
+					<lb/>only this evening. It's addressed correctly, so
+					<lb/>I can’t understand it.</p>
+					<lb/><p>I'm so glad Dr. Muffly found a home.
+					<lb/>for King. I wonder if the Demies know? Tell
+					<lb/>them if you see them or tell Janet.
+					<lb/>I'm glad Dad got up to Henry’s cabin.
+					<lb/>and to Consistory. Hope Pearl is back again too.</p>
+				<pb n='2' facs="https://leaf.bucknell.edu/sites/default/files/2025-08/0002_1942-09-23_002.jpg"/>
+				<p>
+					<lb/>As you know, I'm not at all sorry to miss
+					<lb/>house cleaning -- but my good luck sort of back fires.
+					<lb/>We have to house--clean the barracks every day!
+					<lb/>Ken Wolfe told me he planned to go home.
+					<lb/>for Joe Kunkle's funeral. Did any of you
+					<lb/>see him. He promised to drop in, if he got home,
+					<lb/>to see you, and to report on how well I look
+					<lb/>in uniform.</p>
+					<p><lb/>Alice has been sending the items, so
+					<lb/>as long as she continues, it won't be necessary
+					<lb/>for you to send clippings. Oh yes, thank's
+					<lb/>for Time, and for the local papers. I appreciate
+					<lb/>them all very much. </p>
+					<p><lb/>I can't understand why I don't hear
+					<lb/>from Ken, Dave, or Ted. Ted is busy
+					<lb/>getting used to the army himself, I suppose
+					<lb/>but I don't even have his address. I did have
+					<lb/>a card from Don Sholl, and from Jim
+					<lb/>Ostergren, so a few of my friends know I’m
+					<lb/>alive, anyway. Lib is the only girl who
+					<lb/>has written. Indeed, if not for you
+					<lb/>Alice, and your friends (and my too--but
+				</p>
+				<pb n='3' facs="https://leaf.bucknell.edu/sites/default/files/2025-08/0003_1942-09-23_003.jpg"/>
+				<p>
+					<lb/>not my younger friends) I'd be deserted at
+					<lb/>mail call.</p>
+					<p><lb/>By the way, I've ordered a print of
+					<lb/>the battery picture. When it comes, I’ll send
+					<lb/>it home. Look it over – see if you can
+					<lb/>find me and then store it away in my file.
+					<lb/>for me, will you? I shall write on the
+					<lb/>back who some of the fellows are for
+					<lb/>your information. Now to bring you up
+					<lb/>to date on what I've been doing so far
+					<lb/>this week.</p>
+					<p><lb/>We spent Monday on the rifle range.
+					<lb/>Firing at a target 200 yards away isn't
+					<lb/>exactly like a shooting gallery. I hit 105
+					<lb/>out of a possible 150, in four positions--
+					<lb/>standing, sitting, kneeling, and prone.
+					<lb/>That's not too bad for the 1st time. I got
+					<lb/>quite a tan on my hands + face in the bargain.
+					<lb/>Tuesday we started our specialized
+					<lb/>training. From now on we deal less with
+					<lb/>drill, etc., and more with telephone, signal
+				</p>
+				<pb n='4' facs="https://leaf.bucknell.edu/sites/default/files/2025-08/0004_1942-09-23_004.jpg"/>
+				<p>
+					<lb/>flags, codes, etc. I have decided not to take
+					<lb/>part in the Regimental show, I won't have time
+					<lb/>if I'm to study Math.</p>
+					<p><lb/>Last night, Gerald Roche (Wilkes Barre)
+					<lb/>and I went to see one of the U.S.O. Camp
+					<lb/>shows. It was in the outdoor ampi-theater.
+					<lb/>It wasn't bad--sort of glorified vandeville.
+					<lb/>They had several good acts, and of course, there
+					<lb/>was no charge.</p>
+					<p><lb/>Today we went on a 67 mile motor
+					<lb/>drive. We went over to Raeford. Imagine
+					<lb/>my surprise as we neared Raeford, when I
+					<lb/>saw a sign on a ball park which read--
+					<lb/>"Williamsport, Pa. Greys - Spring
+					<lb/>Training Headquarters”. It made me
+					<lb/>feel right at home.</p>
+					<p><lb/>I was a route marker. They put me
+					<lb/>off at an intersection and I stopped
+					<lb/>traffic while the convoy went through.
+					<lb/>Tonight I studied a bit and went
+					<lb/>to the movies.</p>
+					<signed><lb/>Love,
+					<lb/>John</signed>
+			</div>
+		</body>
+	</text>
+</TEI>

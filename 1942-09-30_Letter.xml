@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-09-04</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1' facs="/sites/default/files/2025-08/0001_1942-09-30_001_0.jpg"/>
+					<dateline>F-10-4 FANC.
+					Sept. 30, 1942</dateline>
+					<salute>Dear Mother, Dad + Grandma--</salute>
+					<p>First of all, I'll get business out of the
+					way, and then later I can tell you the news.
+					I mailed a package to you this evening. I'm
+					sending back some of the stockings you sent,
+					mother; I can't use anything but known or tan
+					socks. I'm also sending the letters I have received
+					so far. Store them somewhere for me -- I want to
+					save them. Also one of the books you sent for
+					which I have no use, and the B.U. Handbook
+					which I have read and want to save. Put it
+					with the previous hand books -- in the bookcase,
+					I think. I'm also including the battery picture.
+					My barracks is on the top row all the way
+					across. The battery officers are on the ground.
+					Jerry Roche, the Wilkes Barre boy, I've been
+					paling with is third from the left top. I think
+					you'll have no trouble finding me.</p>
+				<p>
+					Also, I'm sending a sort of booklet on
+					Fort Bragg. It may be the same one Hen 
+					Wolfe showed you. Anyway when you've
+					finished looking at it, file it away for me.
+
+				<pb n='2' facs="/sites/default/files/2025-08/0002_1942-09-30_002.jpg"/>
+
+					It will be nice to show to my grandchildren.
+				</p>
+				<p>
+					Enclosed in this letter, you'll find a
+					money order for $20. Please deposit that amount
+					to my checking account.
+				</p>
+				<p>
+					As you can guess from the above paragraph,
+					today was payday. I drew $30.71. I still
+					had the $10 partial pay we received before, so I
+					have all the cash I shall need til next payday.
+					The $6.60 monthly insurance payment was deducted
+					before I even saw the pay envelope, as was the
+					charge for laundry, picture, etc.
+				</p>
+				<p>
+					I have signed up to have an $18.75 bond
+					deducted from my pay in the future. With
+					insurance deduction, etc., I will thus get
+					approximately $22 a month cash in the
+					future. The bond will be sent home to you,
+					Dad, beginning next month. Please put
+					them in the bank box with my other bonds as
+					they come. I had Dad's name put on as
+					co-owner. O.K.?
+				</p>
+				<p>
+					Now for the news. We are beginning to
+					learn a bit about artillery, and, of course
+					more about telephone, etc. We have been
+					warned repeatedly about disclosing military
+					information, so I guess in the future I won't
+
+				<pb n='3' facs="/sites/default/files/2025-08/0003_1942-09-30_003_0.jpg"/>
+				
+				be able to tell you the actual details of my
+				technical training.</p>
+				<p>My physical condition is much
+					improved; I'm sure, but I haven't been
+					weighed, so I don't know whether I've
+					lost appreciably or not. Boxing class is
+					getting more and more strenuous, and
+					I'm able to take it without more serious
+					after effects than loss of breath. Yesterday
+					we ran the quarter mile -- and I passed
+					quite a few of the younger boys who should
+					be in fairly good condition.</p>
+				<p>Both Monday and today we went
+					over an obstacle course. It's really tough.
+					Just like a steeple chase. If I can do that,
+					I can do anything.</p>
+				<p>Now for the rumor. One of the men
+					who is stationed here permanently heard one
+					of the officers remark that 5 of the men from
+					the battery were to be moved out within a
+
+				<pb n='4' facs="/sites/default/files/2025-08/0004_1942-09-30_004_0.jpg"/>
+
+					few days. My name was one of those mentioned.
+					(There were 5 of us who were interviewed that time for
+					officers training.)
+				</p>
+				<p>
+					I saw Roscoe Brownell tonight, and he
+					tells me that he has been told to turn in his
+					equipment tomorrow. That he too is being moved!
+					He saw Paul Johnson, + Paul is in a division
+					where all are shipped out after 6 weeks to
+					officers training. He thinks that's where he is
+					going. Maybe, I'll be there too.
+				</p>
+				<p>
+					I do know for a fact that they have a
+					one-month school here for men who are to
+					go to officer's school at the end of that 1 month's
+					training. Maybe that's where I'll be soon. But
+					I've had no official notice as yet -- only this
+					rumor. Perhaps, by the time this letter reaches
+					you, I'll be moved. If I do change address,
+					I shall telegraph you immediately.
+				</p>
+				<p>
+					If I do leave, it will be with some
+					misgiving, for I'm just beginning to
+					really enjoy myself with this group, and
+					I've made some fine friends in F-10-4</p>
+					<closer>With love,
+					<signed>John</signed></closer>
+			</div>
+
+				<div><p>
+					P.S. -- We are scheduled for another overnite hike tomorrow and Friday. This time
+					we are to go twice as far as last time.
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

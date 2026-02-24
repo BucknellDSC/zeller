@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-10-10</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				<opener>
+					<dateline><name>D-8-3 FARC</name>
+					<date>Oct. 18, 1942</date></dateline>
+				
+					<salute>Dear <persName>Mother</persName> + <persName>Dad</persName> -</salute>
+				</opener>
+				<p>
+					I was glad to hear you had decided to
+					come down. I want you to see what army
+					life is really like.
+				</p>
+				<p>
+					I think it would be best if you would
+					come Nov 6th. The earlier week-end is pay-day
+					week-end and everything is so jammed that
+					is almost impossible to go anywhere or do
+					anything.
+				</p>
+				<p>
+					I think it will be best too, if you
+					stay at the guest house. There is little to do
+					in Fayetteville, while out here you can
+					see the camp and relax at the Service Club.
+					I'll try to make arrangements this week, and
+					I'll let you know.
+				</p>
+				<p>
+					I told the fellows about the sugar
+					and they all extend their appreciation to
+					the rationing board. Quite a few of the fellows
+				</p>
+				<pb n='2'/>
+				<p>
+					have boughten cookies sent to them -- and while they
+					don't last any longer them yours did -- the
+					fellows appreciate the homenade kind more.
+				</p>
+				<p>
+					Mother, you said Tommy looked so well in
+					my old Brown suit. Why not give him my
+					grey coat (the pants to that suit have been gone for
+					some time) and my old blue suit (neither will
+					be of any use to me any more and he ought to
+					be able to use them for something).
+				</p>
+				<p>
+					Let me know how Bud Ranch made
+					out with the Air Corps will you?
+					We signed the pay roll for the coming
+					month. I don't know for sure, but I
+					don't think they all going to deduct a bond
+					from my pay. I don't think my application
+					was in when my papers were transferred
+					over here. I'll just send the money home
+					and you can deposit it in my checking
+					account. Later on, if I get to be an
+					officer I'll have a bond dedeucted from
+					my pay. I'll need the money in my
+					checking account to buy officer's uniforms.
+				</p>
+				<pb n='3'/>
+				<p>
+					I'm inclosing the church program again.
+					We have a new Chaplain. I don't like him as
+					well as the last one, but he's all right.
+				</p>
+				<p>
+					I need a new watch band. I'd like the
+					same kind I have now. Will you either send
+					one, or else bring I along when you come down.
+					There's no hurry.
+				</p>
+				<p>
+					We were given cards to fill out this week.
+					I think they were to be used in filling out our
+					application for officers training school. They
+					asked which branch of the service we were interested
+					in. I put down Air Corps Intelligence
+					and Air Corps Administration. But I suppose
+					I'll get Field Artillery.
+				</p>
+				<p>
+					To become an officer I have to pass
+					another physical, I'm a triful worried because
+					of hay fever, but I heard something that
+					makes me feel better. All otherwise
+					qualified men, who fail to pass the physical
+				</p>
+				<pb n='4'/>
+				<p>
+					are sent to Officer's Training School in
+					Army Administration. That's the school at
+					Fort Washington you sent me the article
+					about, Dad. So I'm no longer worred.
+					I'd rather be there and anyway.
+				</p>
+				<p>
+					I was on coal detail on Friday.
+					We shoveled coal all day. My hands are
+					covered with blisters. I certainly will be
+					glad when I get to center school and leave
+					all of these details behind. I can do this
+					sort of thing when I have too and make the
+					best of it, but I don't exactly like it. You
+					always did say I didn't like to get my
+					hands dirty.
+				</p>
+				<closer>
+					<signed>Yours,
+					<persName>John</persName></signed>
+				</closer>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+href="https://raw.githubusercontent.com/BucknellDSC/shared_code/refs/heads/main/leaf.css"	
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zeller letter December 13, 1942</title>
+            <author>John Zeller</author>
+            <respStmt>
+               <persName>Susan Falciani Maldonado</persName>
+               <resp>University Archivist and Director of Special Collections</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Digital Scholarship Coordinator</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Special Collections/University Archives, Bertrand Library</distributor>
+            <authority>Bucknell University</authority>
+            <address>
+               <addrLine>Lewisburg</addrLine>
+               <addrLine>Pennsylvania</addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John F. Zeller Papers</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n="1"/>
+            <opener>
+               <dateline>D-8-3 FARC Dec 13, 1942</dateline>
+               <salute>Dear Mother + Dad</salute>
+            </opener>
+            <p> Well I'm still here - and from the looks of things, I will be for another full
+					week. Most of the others leave taught at 8:00. I'm the only one left behind -
+					and allready I'm scheduled for K.P. tomorrow. I'm sticking close to the barracks
+					today in hopes of yet being included on the shipping list - but I'm afraid it is
+					a foolish wait. </p>
+            <p> Graduation exercises yesterday were featured by a speech by the general. He also
+					handed out the diplomas and shook hands with each of us. As usual I was last in
+					line -- and he stopped me to remark, I hope you won't be last in your class at
+					Sill. I felt like saying, "I hope I won't be the last to get to Sill." </p>
+            <p> I think I did pretty well for a mere A.B. I didn't get a single U all the way
+					through, and most of my finals were perfect or almost perfect papers. </p>
+            <pb n="2"/>
+            <p> My mail continues to be heavy. Friday I heard from Helen Stanley and Mrs.
+					Thompson, with cards from Dad, Bill Frederick, and one signed by the officers of
+					the lodge. Saturday I had a card from Pres. Marts, Tommy + Agnes, and one from
+					Allen + Mary which icluded $2. -- also a letter from Janet Bold. Geturde
+					Shaffer's little gift arrived and turned out to be a pocket sized chess set --
+					very nice of her. Todany I got a box of Christmas cookies, nuts, + candy from
+					Lib Dyer. Also cards from Mr. Thompson, Clarence Comstock, Howard Brocius, the
+					Fishers, and the B.V. Mother's Association. </p>
+            <p> I spent yesterday and today answering letters. I think tomorrow night I shall go
+					to a movie -- if I get out of K.P. in time. Amanda Miller's box hasnt yet
+					arrived. Guess it is lost between here and F - 10 - 4. I it would probably
+					arrive soon. Wrote her today in answer to her letter &amp; told her that it
+					would probably arrive soon. Guess that's all the news -- since I havent been
+					anywhere. I'll write again Wednesday. But don't you write to this address after
+					Wednesday,</p>
+            <closer>
+               <salute>Yours,</salute>
+               <signed>John</signed>
+            </closer>
+            <postscript>
+               <p>P.S. -- Didn't get to church today -- I wanted to stick around in case they
+						decided to add me to the shipping list.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

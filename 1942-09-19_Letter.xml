@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-09-19</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n="1" facs="https://leaf.bucknell.edu/sites/default/files/2025-05/1942-09-19_001.jpg"/>
+
+				<opener>F-10-H F.A.R.C. Sunday-- <salute>Dear Mother, Dad, + Grandma
+					--</salute></opener>
+				<p>I'm sending in another envelope the letter and leave of absence form I got from
+					the Univ. of Pa. Please file them in my large green file case in the file in
+					front marked “Law School”. It's important that I have them when the war is
+					over.</p>
+				<p>I'm also sending the church program for today. I stayed in bed this morning and
+					missing breakfast here -- so I went over to the Service Club and had a waffel,
+					butter + syrup, pineapple juice, and sausages. While I was eating, George
+					Purcell came in and we had breakfast together and then went to church. </p>
+				<pb n="2" facs="https://leaf.bucknell.edu/sites/default/files/2025-05/1942-09-19_002.jpg"/>
+				<p> The chapel is quite nice, and this Chaplain was quite good.</p>
+				<p>Thank you, Dad, for the Drew Pearse article from The Record. I would be very
+					happy if I could get into a school like the one at Fort Washington. When the
+					time comes I'm going to see what I can do. </p>
+				<p> I don't remember whether I thanked you for the slippers and money belt or not.
+					At any rate, I got them, and thanks. The other package you mentioned in your
+					letter, Mother, has not as yet arrived. But can I use it. We have two weeks
+					laundry out right now and haven't anything back yet. All I have left that is
+					clean is on my back. I worked a few things yesterday, so I'll have a clean
+					fatigue suit for tomorrow anyway. </p>
+				<pb n="3" facs="https://leaf.bucknell.edu/sites/default/files/2025-05/1942-09-19_003.jpg"/>
+				<p> I have all the money I need. I still have $12 of the money I started out with
+					and we got a partial pay of $10 on Thursday. So don't worry. If I ever do need
+					money you'll hear from me post haste. </p>
+				<p> it will be okay, Mother, to wait til Janet comes to see about those films. I
+					just don't want to lose them, that's all. Thank you for selecting the gift for
+					me. I appreciate it a lot.</p>
+				<p>I don't think I'll get a radio until after I'm made a Sergeant or Corporal or Lt.
+					or something. It wouldn't be too good to have it in this barracks where we are
+					all in one room. When I get into a semi-private room, I will get one
+					however.</p>
+				<pb n="4" facs="https://leaf.bucknell.edu/sites/default/files/2025-05/1942-09-19_004.jpg"/>
+				<p> My neck is healing nicely. I just got too much sun on it at once. After the Doc
+					painted it with mercurochrome - I kept it covered + greased it with
+					vaseline.</p>
+				<p>We pay 15¢ for movies. I went yesterday afternoon. Quaranteen ended at noon
+					yesterday - so I can get around now. </p>
+				<p> I have a pass from the battery commander to go to Raleigh over this weekend -
+					but I decided not to go. I had thought might use it to go to Fayetteville this
+					afternoon - but I'm going to the movies instead After a week here, I can't feel
+					at all guilty about going to a Sunday movie. It is one of the few places you can
+					really relax. I saw Irving Berlin's "Holiday Inn" yesterday. "Panama Hattie"
+					this afternoon. </p>
+				<p> Yes, please send my Phi Beta Kappa paper. </p>
+				<pb n="5" facs="https://leaf.bucknell.edu/sites/default/files/2025-05/1942-09-19_005.jpg"/>
+				<p> One of the boys had a banjo sent down - and the boys are having a song session.
+					A mouth organ just joined in. It's moments like this that make barracks life
+					interesting. </p>
+				<p> I'm going to try, but I can't hope to answer all the letters and cards I've
+					received. I've had letters from [illegible] Dyer, Ben Kauffman, Harry Stein,
+					Amanda Miller (imagine!), Isabelle Bond, Aunt Nelle, and Prof. Band – and of
+					course from you folks and Alice. I had a card from Dan Sholl (he's in training
+					at Bloomsburg, I also had cards from Mrs. Purnell and Mrs. Jacob Miller. </p>
+				<p> If you see any of these people, thank them for me. I do appreciate it that they
+					are <pb n="6" facs="https://leaf.bucknell.edu/sites/default/files/2025-05/1942-09-19_006.jpg"/> thinking of me. I also got the latest Bucknell Service Club
+					mailing to the men in the service. It included the addresses of all of the B.U.
+					boys in service. There are a few here at Fort Bragg -  but none with whom I was
+					especially chummy. It also included letters from Forrest Brown and Mrs. Sholl as
+					Pres. of the Mother's Assn. Her letter was very nice.</p>
+				<p>One of these days I'll send a package home containing the letters I've received.
+					I don't know how soon or when it will be. But I'd want to save these letters and
+					I have no place to store them here. When it arrives, you can store them
+					someplace for me. </p>
+				<p> I wrote Tuesday to you. Now I'll review the rest of the week. Wednesday was a
+					fairly ordinary day - drill, boxing, calisthenics - rifle positions, etc. </p>
+				<pb n="7" facs="https://leaf.bucknell.edu/sites/default/files/2025-05/1942-09-19_007.jpg"/>
+				<p> Thursday we went on our overnight hike. That pack was really heavy. We carried,
+					it for five miles - but it seemed like fifty. We slept in pup tents -- just like
+					boy scouts --  and then hiked back on Friday. We had a campfice out there and
+					had an old fashioned song fest in the evening with all officers &amp; men
+					joining in. The moon was out and it  was really nice. </p>
+				<p> Every once in a while big Army transport planes would fly over in formation.
+					They're a beautiful sight. There is a parachute troops group here and they go
+					out every day. The air is always filled with planes. </p>
+				<pb n="8" facs="https://leaf.bucknell.edu/sites/default/files/2025-05/1942-09-19_008.jpg"/>
+				<p> Friday I was ordered to report for tryouts for the Regimental Musical Show. The
+					officer said they had plenty of singers but they need actors for the skits.
+					Since my card indicated I had experience - was called. It should be fun - and it
+					will relieve me of fatigue and K.P. for a while. </p>
+				<p> I must go to chow now. I'll finish   when I come back.--- Back now. It wasn’t
+					bad. We had ice cream for dessert. the 1st time since I've been in the Army.
+					there was some left over (bricks slices wrapped separately) and the cook stood
+					in the middle of the dining room and tossed it out. I got two slices. </p>
+				<p> Yesterday we had a battery picture taken and got our third typhoid shot. No ill
+					effects. Next week we get tetanus shots and they really pack a wallop As I told
+					you quaranteen ended at noon and I roamed around just enjoying  my new freedom
+					yesterday.</p>
+				<p>I guess that will be all for now. I'll try to write again Wednesday or
+					Thursday.</p>
+				<closer><salute>Yours,</salute>
+					<signed>John</signed></closer>
+
+			</div>
+		</body>
+	</text>
+</TEI>

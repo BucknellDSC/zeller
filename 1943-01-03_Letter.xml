@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+href="https://raw.githubusercontent.com/BucknellDSC/shared_code/refs/heads/main/leaf.css"	
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter DATE</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				<opener>
+					<dateline>Officer Canidate Class #56
+					Fort Sll, Okla.
+					Jan 3,1943</dateline>
+					<salute>Dear Mother + Dad --</salute></opener>
+					<p>Happy New Year - even if a bit late. I'm afraid
+					this letter will just ramble on and on without much
+					order. First of all, before I forget it, I bought 2 set.
+					of crossed canon for you Mother. When I send the box
+					home (sometime within the next two weeks), you'll find
+					them in the envelope with my Center School Certificate.
+					notice of being made a Corporal, Corporals stripes, and
+					O.C.S. insignia. Hope you can use them. Now
+					to answer your letters.</p>
+					<p>1st. your letter of Dec. 16 forwarded from
+					Bragg. Thanks for the money order. I got it cashed
+					without any trouble at all and it came in handy. Particularly
+					since I won't be paid for Dec. until the end of Jan. because
+					of moving. I've written to Aunt Stella.</p>
+					<p>I was so sorry to hear about Mrs. Bird and
+					Linda Fairchild. I wrote a note to the Steins + Mrs.
+					Brown -- and to Aunt Virginia.
+				</p>
+				<pb n='2'/>
+				<p>
+					You haven't told me what my gifts to others for
+					Xmas cost. Tell me and I'll send you a check. Now
+					do it! I'll be mad if you don't.
+					Incidentally -- don't waste 10 ¢ on special delivery.
+					The army just doesn't have that service. If you want
+					to send letters air mail a 6 ¢ stamp will do it. Also
+					I want to remind you again not to send insured
+					or registered mail unless the contents absolutely
+					require it. We just don't get the chance to get to the P.O.
+					to pick them up.</p>
+					<p>I got notice yesterday that there is a registered
+					package there for me. But I can't get it. The P.O.
+					isn't open when I'm free. I'm just going to have to
+					skip noon chow tomorrow if I want it before next
+					Saturday. The same is true of insured mail. Tell
+					folks not to insure mail to soldiers. I havent received
+					any Xmas packages yet -- but I should get them soon.</p>
+					<p>I doubt if I shall be able to phone you from
+					here. But I might be able to some day if I can get near
+					a phone. If you ever went to call me however -- call
+					person to person. Officer Conidate Class #56, Ft. Sill.
+					They'll let me know, and I'll call back.</p>
+					<p>You folks certainly have been gadding around.
+				<pb n='3'/>
+					I envy you all the good meals you must be
+					having.</p>
+					<p>I'm glad you finally got the electric door bell. I
+					I know how you wanted it.</p>
+					<p>Don't worry about opening the card from Ann
+					Hamilton. I don't mind in the least.</p>
+					<p>I'm inclosing the Pa. drivers license form.
+					Incidentally, I like your new stationery, Mother.
+					I signed up for $ 25 bond a mo. after Jan 1st. I'm
+					having them sent home. You know what to do with them
+					Dad.</p>
+					<p>I got the letter from Boris Raynes. He was one
+					of my good friends at Penn., and was drafted last
+					spring. It seems I'm just following him around --
+					for he was at Bragg too. He's here now waiting
+					for overseas duty. I went over to see him New Years
+					day and we went into Lawton to a show together
+					last night. He was certainly surprised to see me.</p>
+					<p>I got a surprise too the other day. While in
+					the tailor shop chatting with Roscoe Brownell, I
+					happened to look around and there standing next to me
+				<pb n='4'/>
+					was a boy from Shippensburg S. T. I had roomed
+					with at Eagles Mere 2 years ago. It's a small world
+					isn't it. He's in O.C.S. too.</p>
+					<p>Our hut has a gas stove that keeps the place
+					fairly wam dispite all of the windows and the cement
+					floor. But we have to turn it off at night -- so its
+					plenty cold in the morning.</p>
+					<p>We eat in a huge mess hall cafeteria style
+					on the stamped metal trays you see pictures off. The
+					food here can't bad, if we just had time to eat it.
+					They serve soups, thank goodness, so we get really
+					warmed on cold days. We never had soup at Bragg.</p>
+					<p>Say "hello" to everyone for me. I appreciated
+					so much the card from evenone -- the Shieters,
+					Beards, Pearl, Deafy Comstock, Maude, and
+					everyone.</p>
+					<p>Now to tell you a bit of what I have been
+					doing. We arise at 6:00 and police up. There are
+					demerits for wrinkles in the bed or dust on shoes or a
+					dirty hut. We eat at 7:15. At 9:00 we start classes.
+					Lunch at 1:00. Classes again from 2:00 til 6:00. From
+					7:20 to 10:30 we have to study in our huts. If we
+				<pb n='5'/>
+					leave for any reason we have to mark it on a
+					sign over the bed.</p>
+					<p>Motors wasn't as bad as I expected, but
+					it was embarrassing for a greenhorn to have to
+					take a truck apart +put it back together again. I
+					had to ask how to do everything I did. But I learned
+					a lot.</p>
+					<p>We drove some too -- up + down steep hills and
+					over roads our Olds would never have made. Tomorrow
+					we get one final exam and then go on into the
+					course on Material.</p>
+					<p>With the holidays, I've been fortunate in
+					being able to get into Lawton. I had an excellent
+					meal there New Year's day. It's not a bad town at
+					all. Much better than Fayettesville. But of course Okla.
+					is dry -- they sell only 3.2 beer. I've seen quite a few
+					Indians on the street and a few cowboys. Stores
+					feature indian trinkets -- combat boots + saddles. It
+					is the county seal of Comanche County. That sounds like
+					real wild west, doesn't it.</p>
+				<pb n='6'/>
+				<p>
+					Glad Xmas business was so good, Dad. How much
+					merchandise do you have left?
+					I guess that's all the news, I want to go
+					over to the old post (very picturesque) to get a foot
+					locker this afternoon, so I'll close now.</p>
+					<closer><salute>Yours,</salute>
+					<signed>John</signed></closer>
+					<postscript><p>P.S. Dad, if you didn’t sell my electric razor,
+					please send it on to me. I could use it here and
+					save the 2 block trip to the latrine on cold mornings.</p></postscript>
+			</div>
+		</body>
+	</text>
+</TEI>

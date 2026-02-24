@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-10-31</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				<opener>
+					<dateline>
+						<name>D-8-3 FARC</name>
+					<date>Oct 31, 1942</date>
+					</dateline>
+					<salute>Dear <persName>Grandma</persName>, <persName>Aunt Stella</persName>, + <persName>Uncle Elmer</persName> --</salute>
+				</opener>
+				<p>
+					Today was payday. It's not bad
+					at all to clear $50 beyond living expenses.
+					Many a poor fellow on the outside isn't
+					making that -- or wasn't anyway til the war
+					came on.
+				</p>
+				<p>
+					Of course, it's not quite clear. Insurance,
+					laundry, etc, must come out of that -- but
+					it still leaves plenty to get along.
+				</p>
+				<p>
+					This week was just about the
+					most "detailed" since I've been in the
+					army. Monday through Thursday I was 
+					on truck drivers detail. I drove a truck
+					down to Sanford, N.C. twice a day --
+					about 30 miles in all -- and carried
+					back lumber from an abandoned CCC
+					camp. Friday, I was on K.P. again.
+				</p>
+				<p>
+					If you think we make a lot of mashed					
+				<pb n='2'/>				
+					potatoes  at home, Grandma, you should
+					see the big can full we made for noon
+					chow. Peeling isn't so bad because we
+					have one of those new machines. We first
+					put the potatoes in and turn the crank. We
+					also cut a wash tub full for french fries
+					for supper - and later another tub full for
+					breakfast.
+				</p>
+				<p>
+					I'm looking forward to seeing
+					Mother + Dad next week. I don't know
+					exactly what we shall do yet. This isn't
+					just the best place to entertain. But then,
+					by this time, they're probably so anxious
+					to see me, that they won't care about
+					that.
+				</p>
+				<closer>
+					<salute>Yours,</salute>
+					<signed><persName>John</persName></signed>
+				</closer>
+			</div>
+		</body>
+	</text>
+</TEI>

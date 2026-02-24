@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+href="https://raw.githubusercontent.com/BucknellDSC/shared_code/refs/heads/main/leaf.css"	
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter January 6, 1943</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				<p>
+					FORT BRAGG. N. C.
+					OCC #56
+					St. Sill Okla.
+					Jan 6, 1942
+				</p>
+				<p>
+					Dear Mother + Dad
+					It&apos;s 10:00 o&apos;clock and I&apos;ve just finished
+					studging. I&apos;ll try to dash off a letter before lights
+					out at 10:30.
+					For some strange reason we had no classes
+					Monday morning -- and so I was able to get
+					to the part office for the watch. It&apos;s just what I
+					hoped it would be. All the fellows are properly
+					envious. It&apos;s keeping perfect time, and I find
+					myself admiring it constantly. Thank you so
+					much.
+				</p>
+				<p>
+					Mine certainly was a Xmas worth waiting
+					for. I have so much food I don&apos;t know where to
+					store it all and I can&apos;t eat it all -- neither can
+					the fellows. In addition to your fine box of food,
+					for which I also thank you, I have the Groover&apos;s
+					box, a 5 lb box of candy from Aunt Nelle, a box
+					of hard candies from Mrs T., + lb or 2 lb box from
+					the peope in the Registrar&apos;s Office on the hill. The fellows
+				</p>
+				<pb n='2'/>
+				<p>
+					say they have never seen so much food in their lives
+					If you see any of those who sent me things, tell
+					them how much I appreciated it. I’m writing
+					of course, too.
+					klaks for the iron -- it was just the type
+					I wanted. Unfortunately, I discovered, I can&apos;t
+					use it here because of strain on the electric
+					system -- but I can use it later at some other
+					camp so it&apos;s not wasted.
+				</p>
+				<p>
+					Handkies, of course, always come in
+					handy.
+					I&apos;ve received another huge lunch of Xmas
+					greetings forwarded from Bragg. Time doesn&apos;t permit
+					my listing all of the senders. When I send the box
+					home (after I empty your tins), you can look through
+					then.
+				</p>
+				<p>
+					Please send Grandma&apos;s money by money
+					order. I don&apos;t get paid until Jan 30th (2 months
+					pay then) and I&apos;ve had a lot of expense. ($ 10.95 foot
+					locker -- suitcase -- a few books + supplies -- etc.
+					Also send my electric razor if you haven&apos;t sold
+					it.
+					I guess I got through Motors O.K? I got
+					all 5&apos;s anyway. How I don&apos;t know. We had
+					our 1st Material test today. I got an 5. Also saw
+				</p>
+				<pb n='3'/>
+				<p>
+					the latest F.A. gun today It&apos;s a honey. It&apos;s still a
+					military secret -- but it looks plenty powerful.
+					Received papers. Thanks.
+					What is D. Griffith&apos;s address, or her husbands?
+					I&apos;d like to look them up if I have a chance.
+				</p>
+				<p>
+					Young (my roommate) is from about 100
+					miles upstate from Sill. He is 28, married, and
+					expecting to pass out cigars an day now. Zavodnik
+					is 24. We plan to take picture this Sunday. When
+					we do + get them developed -- I&apos;ll send them on to you.
+					Lawton is 4 miles from Sill. Nice homes.
+					Reminds me of Ambry. Wide streets and all.
+				</p>
+				<p>
+					Have not received Readers Digest. Will
+					write + thank Mr. T. when I do. Did receive
+					Showalter&apos;s card along with many others.
+					My schedule is really getting tough. Up at
+					6:00. Clean up. Compulsary breakfast. Drill 8-9.
+					Classes 9-1 Lunch 1:15, classes 2-6, Supper
+					6:30. Compulsary study 7:15 to 10:00. Lights
+					out 10:30. It takes all of my time just to do the
+					things I have to do. No time to relax or read things
+					I want to.
+				</p>
+				<pb n='4'/>
+				<p>
+					I&apos;ll close now til Sunday.
+					thanks again for
+					everything.
+					have to the best parents in the world -
+					John
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

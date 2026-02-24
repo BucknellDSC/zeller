@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+href="https://raw.githubusercontent.com/BucknellDSC/shared_code/refs/heads/main/leaf.css"	
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zeller letter DATE</title>
+            <author>John Zeller</author>
+            <respStmt>
+               <persName>Susan Falciani Maldonado</persName>
+               <resp>University Archivist and Director of Special Collections</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Digital Scholarship Coordinator</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Special Collections/University Archives, Bertrand Library</distributor>
+            <authority>Bucknell University</authority>
+            <address>
+               <addrLine>Lewisburg</addrLine>
+               <addrLine>Pennsylvania</addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John F. Zeller Papers</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n="1"/>
+            <opener>
+               <dateline>Officers Canidate Class #56 Ft. Sill, Okla Dec 27, 1942</dateline>
+               <salute>Dear Mother + Dad --</salute>
+            </opener>
+            <p> I didn't get a chance to phone on Christmas, but I did send a telegram from
+					Lawton, on Saturday night. Hope you received it. </p>
+            <p> Life moves pretty rapidly here. Christmas day was warm and clear -- more like
+					Easter -- and I relaxed a bit, and saw a movie. Since then, however, I've been
+					really on the go. </p>
+            <p> We're up at 6:00 -- police up -- clean the hut -- eat -- etc. and move off to
+					class at 8:30. The class rooms are 2 miles away -- so we really hike. Classes
+					run from 9 to 12:50 and from 2 til 5:50. We get about 10 minutes for lunch and
+					supper. The evenings are spent in study -- it's required -- so there will be no
+						<pb n="2"/> renning around - and no monies, except on well-ends. We have to
+					be in our huts from 7:30 to 10:30. After that we can go to the toilet. if we
+					want to Not to be vulgar - but most of us do went to for that is actually the
+					only charge we get all day </p>
+            <p> Right now I'm in Motors. The course is much more detailed them at Bragg. I'll be
+					since cleep in grease all week. When I'm finished I'll really know what makes
+					the blameal trucks work. yesterday, for instance, we took the wheels off and
+					repached the bearing, adfisted brades, etc. </p>
+            <p> I today we moved to our new 6 man but only there are only 3 men in mine. My
+					roomrates for the next 12 weeks seem very nice - one is from Petroit Zwodnik -
+					and the other, Young, is from Oblahoma. I'm sure we'll get along. </p>
+            <p> I had a card from the Grices - inclosing a dollar -- and a card and a check for
+					$ 2 from <pb n="3"/> Uncle Tom &amp; Aunt Hesther. I'm inclosing it. Please
+					deposit it to my account. I also had a card from the Beards. Thank all of them
+					for me -- of course, I'm writing Grices + Uncle Tom. </p>
+            <p> I didn't get to church this morning because we had to take a math test and then
+					move. Unless they think of something else for us to do next week, I'll try to go
+					then. I've looked around and discovered the chapel. They never heard of the 40
+					hr. week here. </p>
+            <p> I did get into Lawton last night I was going to buy a foot locker (trunk), but
+					couldn't find one to suit me. So I got a suitcase instead. I'll have to get a
+					foot locker later but the sutease will do in the meantine. And I need the
+					suitcase anyway. When I leave here I'll have enough stuff to fill the trunk, my
+					Gladstone <pb n="4"/> and the new bag. </p>
+            <p> Incedently, we've figured it out, and I shall finish here (barring accidents) on
+					March 18th. So I'll be home for 10 days beginning about March 20th. </p>
+            <p> Guess that's all for now. I'll write again as soon as I can -- but it may not be
+					til next Sunday. </p>
+            <p> Send the local papers, Bucknellians, etc - and any pertinent item clippings.
+					I've lost contact with what's going on at home. </p>
+            <closer>
+               <salute>Love,</salute>
+               <signed>John</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

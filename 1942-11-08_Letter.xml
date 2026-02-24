@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-11-08</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				<opener>
+					<dateline>
+						<name>D-8-3 FARC</name>
+					<date>Nov. 8, 1942</date>
+					</dateline>
+					<salute>Dear <persName>Mother</persName> + <persName>Dad</persName></salute>
+				</opener>
+				<p>
+					Well the Yanks invaded Africa
+					yesterday. I suppose Dave will say more
+					than ever now that they were just waiting for
+					him to go ahead. I hope he doesn't have too much
+					trouble -- but I imagine I will be harder for
+					him to adjust to a new situation.
+				</p>
+				<p>
+					I shall be looking forward to seeing
+					you this week-end. Dont forget to bring
+					my candid camera.
+				</p>
+				<p>
+					I suggest that you come out to
+					the Guest House about 2:30 or 3:00
+					Friday afternoon. I'll tell them to expect
+					you at the control gate about that time.
+					Then you'll have a chance to get settled by
+					5:30 - when I'll come over to the guest
+					house to see you.
+				</p>
+				<pb n='2'/>
+				<p>
+					Yesterday just after supper I went up
+					to C-6-2 to see Will Duck. I couldn't
+					place the name -- but as soon as I saw
+					him I recognized a Lewisburg face. We
+					had quite a chat. He seems to like it all right
+					I told him you folks were coming down,
+					so perhaps Dad can go up with me to see
+					him next Saturday.
+				</p>
+				<p>
+					I hope you had a nice trip to
+					Harrisburg. But, Mother, you certainly
+					are forgetful. You said you hadn't been out
+					of town in 6 mo. Don't forget our trip
+					to Penn State and down to Lancaster.
+				</p>
+				<p>
+					I had a letter from Jean Dyer this
+					week. She asked me to be sure &amp; tell you.
+					It seems she was in the store homceoming
+					and she thinks Dad was mad because she
+					hadnt written to me.
+				</p>
+				<p>
+					I also had a letter from Janet
+					Bold.
+				</p>
+				<pb n='3'/>
+				<p>
+					I got up early this morning and
+					ran the obstacle course just for the fun of it
+					with 3 other boys. Then I  went back to bed
+					intending to sleep til nine -- instead I overslept
+					and didn't get awake til 10:30. It was
+					too late for church so I listened to several
+					radio services.
+				</p>
+				<p>
+					Yesterday inspection the Lt. pointed
+					to me &amp; remarked to the Sgt. "There's a good
+					looking soldier." I got a big kick out of it
+					and the boys have been razzing me ever since.
+				</p>
+				<p>
+					Rumors are hot + heavy around
+					here this week. It is now wispered that
+					the officers training program is to be transferred
+					from Ft. Sill to Fort Bragg on Dec 15th.
+					In this case I'd never get to Okla. but
+					would get my commission here instead.
+				</p>
+				<pb n='4'/>
+				<p>
+					It is definite that at the end of 5
+					weeks our battery is to be completely
+					disbanded and the quarters used as
+					barracks for O.C.S. men in the Center School.
+					So I know for sure I'll be out of here or
+					wlse in Center School myself within that
+					time. Rumor has it that the whole Regiment
+					is to be used used then -- which would fit in
+					with the lot rumor.
+				</p>
+				<p>
+					Since the battery is disbanding -- the
+					battery fund has to be spent before we
+					leave. The fund is accumulated by
+					 deducting about 50 ¢ from each man every
+					payday. There is about $ 1000 there now. 
+					We have to spend it in the next 5 weeks --
+					so we expect to eat better for awhile.
+					Already they have started to have "Coke"
+					cigarettes + cigars with meals. I
+					enjoy the "Coke" but the tobacco is just
+					a waste of money as far as I'm
+					concerned. I suppose they'll buy beer next.
+				</p>
+				<pb n='5'/>
+				<p>
+					Mail call just brought your
+					Harrisburg card, Dad. Too bad you
+					couldn't buy any goods. I also got
+					a fine letter from Leon Arbogast and
+					a note from Ted. Still no note from
+					Ken Dannenhauer. If you see Miss Henderson
+					Mother, ask her if she has heard anything
+					about him. Something must have happened.
+				</p>
+				<p>
+					I shan't write again until after I
+					see you -- and since that's the news
+					for now --
+				</p>
+				<closer>
+					<salute>Yours,</salute>
+					<signed><persName>John</persName></signed>
+				</closer>
+			</div>
+		</body>
+	</text>
+</TEI>

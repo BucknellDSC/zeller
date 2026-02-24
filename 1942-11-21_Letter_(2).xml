@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zeller letter DATE</title>
+            <author>John Zeller</author>
+            <respStmt>
+               <persName>Susan Falciani Maldonado</persName>
+               <resp>University Archivist and Director of Special Collections</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Digital Scholarship Coordinator</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Special Collections/University Archives, Bertrand Library</distributor>
+            <authority>Bucknell University</authority>
+            <address>
+               <addrLine>Lewisburg</addrLine>
+               <addrLine>Pennsylvania</addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John F. Zeller Papers</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n="1"/>
+           <opener> 
+           	<dateline>
+					D-8-3 FARC
+					Nov 21, 1942
+				</dateline>
+          
+					<salute>Dear Mother + Dad--</salute></opener>
+					<p>
+						Well, I weathered the 1st week of
+					Center School anyway. I've had S's
+					on all my tests so far. They give only
+					two marks-- S &amp; U.  S for Satisfactory,
+					U for unsatisfactory. Now only three
+					more weeks to go here and then I can
+					get ready for a 3 mo. grind at Sill.
+				</p>
+            <p>
+					I've discovered then when I
+					leave here I go as a Corporal -- so my
+					pay for the 3 mo at Sill will be $66 a
+					it?
+					mo., I believe. A $16 raise isn't bad, is it?
+				</p>
+
+					 <p>
+					 	This has been a very difficult
+					week. If possible, it's even worse than
+					my 1st week at Penn last year. But
+					now that I am on the system and know
+            <pb n="2"/>
+					more or less of what is expected -- things
+					should go easier.
+					 </p>
+         	<p>
+					I figured I needed a rest-- so
+					I've relaxed since noon today (Saturday)
+					After church tomorrow I shall have to get
+					back "on the ball".
+				</p>
+            <p>
+					This afternoon I answered letters
+					and read a bit in the library. I went to
+					the early movie this evening and saw
+					"Tales of Manhatten". It's very good -- if
+					it hasn't already been to the Campus, be
+					sure to see it.
+				</p>
+            <p>
+					The papers arrived this afternoon.
+					I see that they counted the soldier ballots
+					this week. I had one of those -- mine must
+					have been the Democratic vote.
+				</p>
+            <p>
+					Don't say anything to the Groover's
+					but I haven't received any items for a
+					week now. I wonder if they have stopped
+					sending them.
+				</p>
+            <p>
+					Did I tell you -- I had a very nice
+					letter from Ken this week -- and one from the
+            <pb n="3"/>
+					Nutts signed Dottie &amp; Dick, but in Dottie's
+					handwriting. The girl Ken is going with
+					is the one he told me he had been dating last
+					year. Her father is Dean at Colgate-Rochester.
+					Ken will be right in there, won't he?
+				</p>
+            <p>
+					I had a very nice Chistmas card
+					from Mal Musser with a brief note on
+					the back. Thank him for me, will you? I
+					suppose he is busy getting ready to leave
+					for the Navy.
+				</p>
+            <p>
+					I wish someone would tell whoever
+					writes the Lbg. Saturday News Editorials,
+					that there is a war on -- and that their
+					continual gloating Republican editorials
+					are a bit out of place. If they can't do
+					anything mare constructive than pick at
+					the administration and quarrel over petty
+					issues, then they had better stop publication
+					and save the newsprint and send in their
+            <pb n="4"/>
+					presses for scrap. After reading their
+					editorial this week, I'm mad enough
+					to write them myself -- maybe I will.
+					I think I shall stop now and go
+					to bed. Then I can finish this tomorrow
+					after church.
+				</p>
+            <p>
+					Sunday--
+					I have nothing much to add to what
+					I wrote last night. So I guess I'll just
+					inclose the church program and close til later
+					in the week.</p>
+					<closer>
+						<salute>Yours,</salute>
+					John
+					</closer>
+				
+            <postscript>
+					<p>
+						P.S. - I'll be thinking of you this Thursday
+					and wishing I could be home with you for one
+					of Mother's Thanksgiving dinners. But we
+					do have so much to be thankful for, even tho
+					we can't be together. I am eternally grateful
+					for the shower of good things God has bestowed
+					upon us. So even tho I can't have an old-
+					fashioned Thanksgiving, I've resolved to make
+					mine a real Thanksgiving anyway. J.
+					</p>
+				</postscript>
+         </div>
+      </body>
+   </text>
+</TEI>

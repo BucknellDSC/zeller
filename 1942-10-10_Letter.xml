@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-10-10</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n="1"/>
+				<opener>
+					<dateline>D-8-3 FANC <date>Oct. 10, 1942</date></dateline>
+					<salute>Dear Mother, Dad + Grandma-</salute>
+				</opener>
+				<p> I haven't had hayfever for so long, I almost forget what it's like. However, I
+					have had several slight colds. I have one now. You see I sleep right under a
+					window and the cold air blowing over me gives me the sniffles. I get over them
+					easily though -- with no serious consequences. </p>
+				<p> Right now I'm having trouble with my left ankle. I must have sprained it
+					slightly or else I've pulled a ligament. Anyway it's swollen a bit and feels
+					quite sore. I'm trying to stay off of it as much as I can -- maybe it will be
+					all right tomarrow. If it's not, I'm going to have it taped. These high/shoes
+					&amp; leggings rub against it too, and help to irritate. </p>
+				<p> That's for the wooden hangers and for the canned goods. Both came in handy.
+					Incidently, while I think of it the boys liked your sugar cookies immensely,
+					Mother. </p>
+				<pb n="2"/>
+				<p> The candy from The Bairity hasn't arrived as yet, but I suppose it will today or
+					tomorrow. What is Murray Remers address? I feel sorry for him. I hope it works
+					out all right. Did Sid Appfelbaum ever return my law school briefs and
+					abstracts? I told him he could have the other ones I had for his use and he
+					promised to return them when he was finished. </p>
+				<p> I would suggest that you folks come down to see me around the end of Oct. or
+					beginning of Nov. -- whenever it's convenient to you. And by all means come by
+					train. Our tires aren't good enough for so long a jaunt. </p>
+				<p> I can't get off anytime except on weekends -- so if you want to see me, you'll
+					have to be away from the store on Saturday, Dad. I can make reservations at the
+					Guest House here - or you could stay in Fayettville -- which ever you want. </p>
+				<p> I don't remember whether I told you or not -- but I had a letter from Cousin
+					Emma. Yes, I could read it. If I could need her's, you don't need to wory about
+					my reading yours, Dad. </p>
+				<pb n="3"/>
+				<p> I feel a lot better about the new place now. The officers and non-coms aren't
+					nearly as fine as at the old place -- and the work is less interesting. But the
+					fellows are even better. And we won't be here forever. I wouldnt be at all
+					surprised, if we were to start Center school within 4 to 6 weeks. </p>
+				<p> I certainly drew duty this week. I was on K. P. one day, and on room orderly the
+					next. Last night I walked guard for two hours -- ten to twelve. Monday night and
+					all day Tuesday. </p>
+				<p> I'm on Howitzer Park Guard. If anyone comes on my post and doesn't halt when I
+					order them to -- I shoot! We walk two hours and are off four, for the twenty
+					four hours beginning Monday at five. </p>
+				<p> I see Bucknell and Temple tied, 7-7. The team must be pretty good this year
+					again. I slept til nine his morning. It was a grand and glorious feeling to stay </p>
+				<pb n="4"/>
+				<p> in bed that long. Then I got up &amp; went to the Service Club for breakfast. I
+					ate with a Corporal from F-10 who had a cousin at Bucknell last year. He ^ the
+					cousin was a Sigma Chi and is engaged to Ronnie Green who is President of Honor
+					House this year. </p>
+				<p> After that I went to church -- I'm inclosing the program. Church was over at
+					11:00 and I came back to the barracks to write letters and wait for dinner. </p>
+				<p> My friend Jerry back in F-10 has been made battery photographer. His promised to
+					take my picture as soon as his equipment arrives. I'll send it off to you when I
+					get it. </p>
+				<p> We expect to go into winter uniform this week. Then I shall see how the wool
+					effects me. Today it is a bit chilly -- but it has been hot. before this -- and
+					I imagine it will be again. My guess is that we won't have any real use for
+					overcoats, however, unless we go north. </p>
+				<closer>
+					<signed>Yours, John</signed>
+				</closer>
+			</div>
+		</body>
+	</text>
+</TEI>

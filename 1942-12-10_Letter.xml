@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+href="https://raw.githubusercontent.com/BucknellDSC/shared_code/refs/heads/main/leaf.css"	
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zeller letter DATE</title>
+            <author>John Zeller</author>
+            <respStmt>
+               <persName>Susan Falciani Maldonado</persName>
+               <resp>University Archivist and Director of Special Collections</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Digital Scholarship Coordinator</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Special Collections/University Archives, Bertrand Library</distributor>
+            <authority>Bucknell University</authority>
+            <address>
+               <addrLine>Lewisburg</addrLine>
+               <addrLine>Pennsylvania</addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John F. Zeller Papers</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n="1"/>
+            <opener>
+               <dateline>D - 8 - 3 FARC Dec 10, 1942</dateline>
+               <salute>Dear Mother + Dad,</salute>
+            </opener>
+            <p>Well, I guess I've passed. I finished my exams today. I had no trouble at all so
+					far as knowing what was wanted was concerned. However, I may have made any
+					number of those silly little errors in arithmetic -- so I won't be sure til I
+					get my certificate on Saturday morning at graduation. </p>
+            <p> I'm sending home a box tomorrow. It includes my civilian shoes, the math books,
+					a tin candy box, and another bunch of letters. Please store the shoes away for
+					me. I'm told I won't be allowed to have them at Sill. If I am, then you can send
+					them to me. At any rate, I'll want them again in April when I get my commission. </p>
+            <p> Please return Prof. Richardson's math books for me. They were of a great deal of
+						<pb n="2"/> help. I was surprised that I remembered as much as I did from
+					high school trig and geometry. Guess our high school isn't so bad after all. So
+					with the help of the books, I soon bringing up all I need to know. The real
+					College Algebra look is my own, as is the book of tables. You can store both of
+					them in my box on the attic again. </p>
+            <p> As for the letters - just put them with the others I sent home. </p>
+            <p> I'm inclosing Cousin Emma's check. Please deposit it to my account. Thanks. I'll
+					wait til I get to Sill to thank her O.K.? </p>
+            <p> The underwear is fine. If anything a bit too large - but drinkage will take care
+					of that. Thank you very much. If you want to get me any more, however, just get
+					ordinary shorts -- I now have enough heavy and light-heavy. </p>
+            <pb n="3"/>
+            <p> Mother, don't worthy about my health. I know how to take care of myself. My cold
+					is completely gone -- and I've never felt better in my life. </p>
+            <p> I still haven't received Amanda Miller's box -- and I have no way of picking it
+					up. It's lost in the rush somewhere. I suppose it will turn up here after I've
+					left. </p>
+            <p> All of the boys in my class -- and all in the barracks with me (except those who
+					fail) are on the shipment list for Sill this Sunday. I am not. There is still a
+					chance for they may need replacements for those who fail. I do hope I can go
+					this week -- for there is a good gang here and we could have a grand time on the
+					train. </p>
+            <p> D - 8 - 3 gets a complete new set of soldiers on Monday. So all of us who are
+					here now must get out. I'm not shipped <pb n="4"/> to Sill, I will have to move
+					somewhere in the 15th Bn, 5th Regiment, to await shipment. So don't write to me
+					again until you get my new address. I'll be moved one way or the other on
+					Sunday. I'll try to phone or telegraph where I am. </p>
+            <p> I'm glad you told Marion H. off at Bee. But for my part I'm inclined to agree
+					with her. The food we get is the best quality there is, but the cooks certainly
+					mess it up until its hardly fit to eat. At any rate, that's not Roosevelt's
+					fault. We get good ingredients -- it's just the cooks who are bad. Remember, you
+					only sampled Service Club food which we have in pay for. </p>
+            <p> You didn't give me John Stahl's address -- so I don't know how to look him up.
+					And I'll be leaving soon so I don't suppose I'll get it in time to see him. At
+					any rate, I'll bet he's over on the main post. </p>
+            <pb n="5"/>
+            <p> I've certainly been on the heavy end of the mail lately. The box from the church
+					arrived (I recognized Mother's handwiting) and was much appreciated. Who should
+					I thank? Guess a letter to Rev. Ostergren would be in order then he can thank
+					the proper group for me! It was a very nice box, incidently. </p>
+            <p> I also had a box of popcorn from Isabel, I think -- from William sport anyway.
+					Mary + Allen sent a tin box of Xmas Cookies -- and were they good! Mary
+					certainly is a good cook, Tommy &amp; Agnes sent me a box of very nice
+					handkerchiefs for Xmas. I shall write to thank everyone this week-end -- if I'm
+					not on my way to Sill by then. </p>
+            <p> Cards &amp; letters have been coming too. Particularly from the Masons. I'll
+					list then. Russell Stover, John L. Strassner of Indiana, Pa. Harold Miller,
+					George Irland, William Rishel -- and a letter from <pb n="6"/> W.B. Smith in
+					Philadelphia. I've also had Xmas cards from Neil &amp; Ruth Baker + Mrs Jacob
+					Miller. I think I did tell you that I had a nice Letter from Sam Wolfe. </p>
+            <p> Aunt Nelle, Isabel, Aunt Stell, Harry Stein, and Aice also have written. </p>
+            <p> Tomorrow I'll turn in my books and polish everything off at Center School.
+					Saturday morn we have a little ceremony at the Center theather. After that, I
+					guess it will be KP again, unless I'm shipped to Penn. </p>
+            <p> However there is a faint chance that in the new outfit (15th Bn.), I may be able
+					to get a pass. </p>
+            <closer>
+               <salute>Anything can happen in the army Yours,</salute>
+               <signed>John</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

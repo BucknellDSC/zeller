@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+href="https://raw.githubusercontent.com/BucknellDSC/shared_code/refs/heads/main/leaf.css"	
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter January 13, 1943 (b)</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				<opener>
+					<dateline>FORT BRAGG, N. C.
+					OCC #56
+					Ft. Sill.
+					Jan 13,1943</dateline>
+					<salute>Dear Mother + Dad</salute>
+				</opener>
+				<p>
+					We got paid sooner than expected -- so I'm in the
+					money again -- and with January payday just 15 days
+					away -- I have much more then I need just now. Consequently I'm
+					Sending home the inclosed money order for $45. Place deposit it
+					to my checking account.</p>
+					<p>Yes I wrote to Emma H. + thanked her for her
+					Xmas present -- also to most everyone except a few
+					hundred who sent Xmas cards.</p>
+					<p>For the answer to your question on clymate
+					consult my this week's letter to Alice. She asked much
+					the same question. However it is much dryer than N.C. --
+					so not as disagreeable and damp. Not yet, anyway.</p>
+				<p>
+					Glad Bob Rishel is in OCS too. What
+					branch of the service and where?
+					The peaniut butter cookies didn't carry too
+					well. The chocolate ones were delicious however. I ate
+					the crumbs of the others and enjoyed them too.
+				</p>
+				<pb n='2'/>
+				<p>
+					Well the 1st week of gunnery is over. We've had
+					two tests. I had a perfect paper in one and only
+					only one small mistake in the other. Monday I'll get my
+					1st chance to show what I have learned in a practical way,
+					for we go out on the range to fire our 1st problems.
+					We fire three times next week -- so I'll really have to
+					concentrate. It's a lot different from paper firing, for
+					on the range we have to carry all the figures in our head
+					and make all our additions &amp; subtractions mentally. Hope
+					I make out all right.
+				</p>
+				<p>
+					This afternoon - Saturday - we were out firing
+					anti-ancraft machine guns at balloons. It was fun, but
+					I didn't do too well. Guess it takes practice. We also fired
+					the revolver, carbine, and Tommy gun. I did best with
+					the Tommy gun -- 7 out of 8. With the small arms we
+					did combat firing (not aiming) jut quickly pointing
+					in the direction of fire &amp; pulling the trigger. I did
+					all right.
+				</p>
+				<p>
+					Young's wife is due to have a baby this week-end.
+					He's all on edge. Doesn't know whether he's going to be
+					a father or a mother, he says!</p>
+					<p>I hope to get into town tomorrow afternoon to
+					mail the package and to look for an Indian bracelet.
+					for you, Mother. Don't know whether I will or not.
+					I guess that's all the news.</p>
+					<closer><salute>Love,</salute>
+					<signed>John</signed></closer>
+			</div>
+		</body>
+	</text>
+</TEI>

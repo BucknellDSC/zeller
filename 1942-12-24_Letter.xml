@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+href="https://raw.githubusercontent.com/BucknellDSC/shared_code/refs/heads/main/leaf.css"	
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zeller letter DATE</title>
+            <author>John Zeller</author>
+            <respStmt>
+               <persName>Susan Falciani Maldonado</persName>
+               <resp>University Archivist and Director of Special Collections</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Digital Scholarship Coordinator</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Special Collections/University Archives, Bertrand Library</distributor>
+            <authority>Bucknell University</authority>
+            <address>
+               <addrLine>Lewisburg</addrLine>
+               <addrLine>Pennsylvania</addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John F. Zeller Papers</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n="1"/>
+            <opener>
+               <dateline>FORT BRAGG, N. C. officers Candàle School Class #56 &amp; t. Sill,
+						Opla. Dec 24, 1942</dateline>
+               <salute>Dear Mother &amp; Dad -</salute>
+            </opener>
+            <p> It was good to hear your voice again an Monday, Mother. I'm only sorry I didn't
+					call when you were home, Dasl. I should have known. </p>
+            <p> yours an mail letly arrived today.son's air mail letter of the 14th was the only
+					word I got at Biagg last week. I may I have tomorrow, if I can. But even if I
+					don't, I shall be thinking of you. I's just like you Mother to have a big dinner
+					and send half of it out. God bless you for keeping the Christians spirit going. </p>
+            <p> What are you going to sell for the rest of the year, Bad. From all reports
+					you're just <pb n="2"/> about sold out. Better by bonds while you can. </p>
+            <p> I hope the box I sent has arrived this time. I have another first about ready.
+					It contains letters, cards, another volume of my diary, which you are free to
+					read, and a 10 ¢ photograph I had taken in the station at Tulsa, Okla. I'll
+					probably mail it off next weekend. </p>
+            <p> I didn't even know Hays Nesbit was planning to be married. Who's the girl?
+					Someone from Rochester? Too bad about the mumps. Keep me informed. </p>
+            <p> Alice told me about James, Jr. Good for him! Hope he likes it. </p>
+            <p> You can send on my Xmas box now if you haven't already. I'll combine Xmas &amp;
+					New Year's for a real celebration! </p>
+            <p> I began to tell about the trip out in Alice's letter. I'll finish it in yours.
+					Here goes. <pb n="3"/> After a brief stop in Memphis, we moved across the
+					Mississippi by moonlight and into Arkansas. Since we had missed connections, we
+					went around the long way. I awoke in the morning. (I shared a lower that night)
+					in Springfield, Mosouri. </p>
+            <p> The western side of the Mississippi is much nicer than the eastern side in the
+					south. It's good to see rich black soil again -- and mpainted barns &amp;
+					houses. The country reminds me a great deal of the midwest. But it is even more
+					level. There is something beautiful about the plains -- but I'll still take Pa's
+					mountains. </p>
+            <p> After dinner in the Diner, we pulled into Tulsa, Okla. Tulsa is a wonderful <pb n="4"/> City. It is modern, clear, and neat, and the people are very
+					hospitable. We roamed the downtown streets for over an hour. I've never seen so
+					many women in slacks. </p>
+            <p> We hit Oklahoma City just before supper. We didn't get out of the station, but
+					it looked like a good place too. There seemed to be oil wells in everybodies and
+					his neighbor's back yard. The skyline was dotted with them. </p>
+            <p> We pulled into Sill a little after 8:00 and came right over to the area. We
+					sleep until Sunday in 15 man hutments heated by gas stoves. </p>
+            <p> After Sunday I'll move into a four man hut. That will be my permanent home. </p>
+            <p> Sill seems very nice, but I'll have to dig. I don't know how much time I'll <pb n="5"/> have to write. So if you don't hear from me for awhile, don't worry.
+					It will take me a little while to get used to the pace. I'll write next Sunday
+					at least and every Sunday thereafter -- but I can't promise about the week-days. </p>
+            <p> I'm pretty tired -- so I think I shall close now and go back to the hut and turn
+					in. The weeks ahead are going to be hard. The 1st two weeks will be hardest for
+					we have 10 days of motors and then 5 days of material. After that they get into
+					academic subjects where I'll be able to shine a bit more. </p>
+            <closer>
+               <salute>Happy New year</salute>
+               <signed>John</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+        ?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/shared_code/refs/heads/main/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Zeller letter: December 2, 1942</title>
+            <author>John Zeller</author>
+            <respStmt>
+               <persName>Susan Falciani Maldonado</persName>
+               <resp>University Archivist and Director of Special Collections</resp>
+            </respStmt>
+            <respStmt>
+               <persName>Diane Jakacki</persName>
+               <resp>Digital Scholarship Coordinator</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Special Collections/University Archives, Bertrand Library</distributor>
+            <authority>Bucknell University</authority>
+            <address>
+               <addrLine>Lewisburg</addrLine>
+               <addrLine>Pennsylvania</addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc>
+            <p>John F. Zeller Papers</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <pb n="1"/>
+            <opener>
+               <dateline>D-8-3 FARC Dec 2, 1942</dateline>
+               <salute>Dear Mother + Dad --</salute>
+            </opener>
+            <p>Another Center School week is half over and I'm still going strong. 10 boys in my
+					class failed and have to start over again. There will be more taking the course
+					over at the end of the four weeks. </p>
+            <p> On payday Monday I drew $41.90 - that's 50 less $6.60 for insurance and $1.50
+					for laundry. I shall not send any home, for I will need it when transferring to
+					Sill, etc. However, when my Xmas Club check comes -- send it along and I'll sign
+					it and send it back. You can deposit that for me. </p>
+            <p> Mother, if Reel Brough thinks the “regulars” in undewear will be big enough,
+					then get those. If not, then get me the half length or quarter length -- that
+					mcome just to the knees and down the arms halfway. If they don't have those --
+					then <pb n="2"/> get ordinary shorts (plenty big)  and  polo or jersey type
+					tops. O.K.? </p>
+            <p> I'm glad Dad got a watch for me I shall be very proud of it. Do not send it or
+					the iron, however, until I go to Sill. If I should get home, I'll bring it back
+					with me. </p>
+            <p> Chances are that I will not get home. Passes haven't been given out for the past
+					two weeks. We can't even get a Raleigh pass anymore on week-ends. I haven't
+					given up hope. However, the situation may change, so </p>
+            <p> I haven't given up hope. I'm fairly certain that I won't be shipped to Sill on
+					the 13th. The shipping list is unalphebetically -- and my name being what it is
+					- I'll have to wait til the 20th. All of which means I'll be walking guard and
+					doing K.P. for a week again -- unless I should get that pass. I'm going to see
+					what I can do to go on the 13th, however, if passes continue to be scarce. </p>
+            <pb n="3"/>
+            <p> I had a letter from Ted. He tried for Officer's Training, but cant pass the
+					physical. His blood pleasure is off and he is under- weight. But he seems just
+					as pleased about it anyway. He's going to try to get to be a 1st Sergeant. At
+					least he'll make out as well financially. </p>
+            <p> I had a Xmas Card from the Wainwright's -- thank them for me if you see them,
+					will you. (Mr. + Mrs. Maurice) Also had a letter from Amanda Miller. I have a
+					worse time reading her writing than Emma H's -- but don't tell her. She says she
+					is sending candy soon. Hope she has the right address. Her letter went to F-10-4
+					and was forwarded. Haven't heard from Isabelle for a while but I guess she is
+					busy. </p>
+            <p> Thank you so much for the box of <pb n="4"/> food. The judge vanished
+					immediately. The cookies are still holding out -- largely because I hid them. We
+					all enjoy them a lot. The fellows all want to come home will me -- they know you
+					are a good cook, Mother. </p>
+            <p> It is cold again. And there is a brisk wind that carries half of the sand on the
+					place with it. Every time you open your mouth you get a fist ful of sand between
+					your teeth. I hope Oklahoma isnt like this. But they say winters are just as
+					cold and windy there. </p>
+            <p> We went to see a very fine movie this afternoon. It's to be shown to all the
+					troops. It goes into the backgrounf of the war and explains how we got into this
+					situation. Every man, woman + child in the U.S. should see it. It's lesson is
+					this. 1. This war began in 1931 when Japan <pb n="5"/> went into Manchuria. 2.
+					No people or nation is safe unless the whole world is safe. and living in peace.
+					3. Because we failed to see how the killing of a few Chinese in Manchuria, or
+					negros in Etheopia could effect us; Because we failed to protect them -- we find
+					ourselves in this position today. All of us were very much impressed. </p>
+            <closer> Guess that's about all the news -- <salute>Yours, John</salute>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>

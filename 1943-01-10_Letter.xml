@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0" 
+href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"? 
+        href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"
+href="https://raw.githubusercontent.com/BucknellDSC/shared_code/refs/heads/main/leaf.css"	
+        ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter January 10, 1943</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				
+					<opener>
+						<dateline>Officer Canidate Class #56
+					Ft. Sill, Okla.
+					Jan 10,1943</dateline>
+					<salute>Dear Mother + Dad --</salute></opener>
+					<p>Charles for the mush receipt. I'll pass it on to
+					the cook -- mush ought to make a better breakfast than
+					the grits &amp; hominy we've been getting.</p>
+					<p>You two have certainly been doing the gadding
+					lately. Guess you're just trying to make up for me --
+					someone has got to keep the family socially in the 400.</p>
+					<p>We got a new room mate this week. He's an old
+					army man -- been in for 13 years. Frankly, we all
+					think he's a big blowhouse, but I've never met anyone
+					yet I couldn't get along with if I had to -- so things
+					will continue to run smoothly.</p>
+					<p>I got the results of all of my Motor's exams,
+					and I got through it all right. I was more worried
+					about that than anything else -- although Gunnery which
+					we start tomorrow -- is supposed to be the hardest.
+					Material wasn't at all bad. We fooled
+					around with all kinds of guns. I really learned a
+					lot. We had one final exam and a lecture this morning,
+					Sunday, so I didn't get to check again. I've just
+				<pb n='2'/>
+					about given up hope of getting to services here. Even
+					Sunday they pull something on us. And as for seeing
+					anything of this part of the country -- well I've defintely
+					decided there's no use to even think about it.</p>
+					<p>The Christmas package food is beginning to
+					dwindle a bit. I can actually open my footlocker
+					without having things forced out. I had an awful
+					time getting the lid closed for awhile.</p>
+					<p>There was no mail today for some strange
+					reason. Guess the mailman must be on strike. All of
+					us are curious. Usually we have plenty of service in
+					that department if in none other.</p>
+					<p>I can't think of much else to write about -- once
+					one gets into the routine there's really not much to
+					tell. I'll try to write again in the middle of the week.</p>
+					<closer><salute>Yours with love,</salute>
+					<signed>John</signed>.</closer>
+					<postscript><p>P.S. I want to tell you this. I've been ordered
+					to report to the hospital Tuesday afternoon. Ouite a few
+					others are to go too. I'm afraid they may have caught
+					up with me on my hayfever. But I'm going to be
+					really provoked if they don't let me finish here now
+					that I've gone this far. We shall see what it's all
+					about Tuesday.</p></postscript>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-09-04</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="letter">
+				<pb n='1' facs="/node/1566"/>
+				
+					<opener><dateline>D-8-3FARC
+					Fort Bragg, N.C.</dateline>
+					<salute>Dear Mother + Dad --</salute></opener>
+				<p>This reminds me of this summer
+					working on the college switch board all
+					night. You see I drew another detail over
+					the weekend. From noon yesterday (Saturday)
+					to noon today (sunday) I'm assistant
+					charge of quarters. My duties consist of
+					sitting in the orderly room and answering
+					the phone, making announcements over the
+					speaker system, posting the guard, waking
+					the boys on K.P., etc. Now it is 3:30 in
+					the morning. The Corporal on duty with me
+					is sleeping. I slept from 10 to 2. He sleeps
+					from 2 to 6. I should have all of these
+					details out of the way so that the week-end
+					is clear by the 6th, but I suppose they'll
+					be starting all over again then.</p>
+				<pb n='2' facs="node/1567"/>
+				<p>
+					However if in your next letter
+					you mention that you are coming down
+					givingg the dates, time of arrival, etc., I can
+					show that to the 1st Sgt.; and should I be
+					scheduled for duty, he will relieve me. So
+					don't forget to include a paragraph like
+					that in your next letter.</p>
+					<p>Because I'm on duty. I won't get to
+					Church today, so I can't send the bullitin.
+					Don't hesitate to give Tommy that
+					old blue suit + the gray coat. Both are too
+					small and have been for over a year. I'll
+					still have the ^ dark blue pin stripe and the brownish
+					tweed suit to fall back on when the war is
+					over. Not to mention my summer suit.</p>
+					<p>And anyway, I'll probably want something
+					new then anyway, so there just isnt any
+					sense in saving things if Tommy could
+					use them.</p>
+					<p>Yes, I did recieve a letter from
+					Hub Grice. I should have asnwered it
+					sooner, but I didn't. An answer is
+						<pb n='3' facs="node/1568"/>
+					going out in the same mail.</p>
+					<p>No matter, I'm positive I never
+					recieved any candy -- or anything -- from
+					Aunt Virginia. I checked through my diary
+					to make sure, for I enter those things there, but
+					there is no mention of it. I don't think I
+					gave her my change of address -- so it is quite
+					possiblr that it got lost somewhere if she
+					did send anything.</p>
+					<p>The box of cookies have not arrived,
+					but your Thursday letter has. I presume
+					they will be along tomorrow. (i.e today, for
+					it is now early morning.)</p>
+					<p>You guessed wrong on the note
+					you enclosed. It was from Art 
+					Calvin -- announcing the birth of a
+					baby girl -- Helen La Veine. You know
+					his wife's home was Statin Island.</p>
+					<p>I had a letter from Tommy +
+					Agnes this week. Also one from Allen + Mary
+						<pb n='4'  facs="node/2055"/>
+					the latter sent me a dollar to buy candy, they
+					said. But I shall use it for a meal. I also
+					had a note from Herm Bower and one from
+					Jane Cotteryahn. Jane is working as graduate
+					assistant in the Dean of Women's Office at Pitt.
+					She teaches one course and is taking work towards
+					her Master's in Counseling. She and Tommy
+					have broken off.</p>
+					<p>I have been trying all week to get
+					a Traveler's Check cashed. But the system
+					around here is against me. I have to get an
+					officer to cash it for me. Even a Travelers
+					Check which they advertize is good anywhere.
+					Register, a complaint with Mr. Green for me
+					will you Dad? It seems they simply don't
+					trust soldiers around here -- even with a
+					thing as fool proof as a Travelers check.
+					I finally gave it to the Chaplain, and I'll
+					have to wait til Monday to get the money.</p>
+					<p>I finally got my army driver's
+					license. I am now qualified on army
+						<pb n='5' facs="node/2054"/>
+					army truck. I suppose now I'll be drawing
+					truck divers detail. Anyway it will be
+					better to drive the cool truck than to shovel
+					the coal!</p>
+					<p>I haven't seen Paul Johnson for 3
+					weeks. I wonder if he has been shipped?
+					Have you heard anything? George Purcell
+					was shipped to Macon, Ga. last week. I
+					haven't seen Hackenburg since I've been here, but
+					I heard he was in a 6 week cycle and most
+					of those boys left this week -- so I suppose he is
+					gone too. Meehan has been classified in
+					limited service and will be transferred. It
+					seems he gets motion sickness. Brownell
+					and I will probably remain here for another
+					10 weeks.</p>
+					<p>I am writing with a borrowed
+					pen. Today mine got dropped by a fellow
+					who was using it to sign a pass here
+						<pb n='6' facs="node/2056"/>
+					in the orderly room, The point broke. In
+					a few days -- perhaps the beginning of next
+					week, I shall send another box home. The
+					pen will be in it. Have a new point put in
+					it and keep it there. I'll buy a new one
+					here, since I need it immediately and
+					it would take too long to send one to me.</p>
+					<p>I shall also send more letters for
+					you to store away for me. My diary is almost
+					filled, and I'll send that too. You may
+					read it if you went too and then store it
+					away for me. It is nice to have, and if I
+					ever decide to write a book, it will be good
+					backgeound material.</p>
+					<closer>Yours,
+					<signed>John</signed></closer>
+					<postscript><p>P.S. They must have skunks in N. Car. too.
+					I was just out to get one of the guards
+					up -- and one of the little animals with a white
+					tail ran in front of me not 10 ft. away.
+					J.</p></postscript>
+
+			</div>
+		</body>
+	</text>
+</TEI>

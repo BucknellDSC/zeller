@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-10-10</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				<opener>
+					<dateline><name>D - 8 - 3 FARC</name>
+					<date>Oct. 18, 1942</date></dateline>
+					<salute>Dear <persName>Grandma</persName>, <persName>Aunt Stella</persName>, + <persName>Uncle Elmer</persName> --</salute>
+				</opener>
+				<p>
+					Another week in the army is past -- and the army is past -- and
+					what a week! Monday at 5:00 P.M. I began a
+					24. hr. guard duty and it rained continuously
+					for the whole period. I walked two hours and
+					was off four -- actually being out in the
+					weather 8 hours. I was gun park guard -- carrying
+					a loaded rifle -- but I would have been scared
+					to use it even if I would have had an
+					occasion too.
+				</p>
+				<p>
+					It rained Wednesday &amp; Thursday too,
+					but Friday it cleared up so I got put on
+					coal detail. If I had known I was going
+					to spend a whole day doing nothing but
+					shoveling coal, I wouldn't have been so
+					lax in keeping a few small buckets full
+					at home, I bet I shoveled 8 tons all
+					by myself. I got a few blisters, but
+				</p>
+				<pb n='2'/>
+				<p>
+					outsidee of that there were few difficuties.
+				</p>
+				<p>
+					I had a letter from home in which
+					Mother said she + Dad were coming down in
+					a few weeks. I hope they can make it, for
+					I would like them to see what army life
+					is like. It's hard to describe it accurately.
+				</p>
+				<p>
+					I slept late this morning (Sunday),
+					and just got up. I thought I could dash
+					off this note before church. But I missed
+					breakfast and I'm not sure I can wait til
+					dinner time. I guess I'd better close now
+					and run over to the Service Club for a
+					bite to eat before services.
+				</p>
+				<closer>
+					<signed>Yours,
+					<persName>John</persName></signed>
+				</closer>
+			</div>
+		</body>
+	</text>
+</TEI>

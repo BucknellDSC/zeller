@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter 1942-11-08</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				<opener>
+					<dateline>
+						<name>D-8-3 FARC</name>
+					<date>Nov. 7, 1942</date>
+					</dateline>
+					<salute>Dear <persName>Grandma</persName>, <persName>Aunt Stella</persName>, + <persName>Uncle Elmer</persName>-</salute>
+				</opener>
+				<p>
+					I was awfully disappointed that
+					things turned out as they did this week-end.
+					Monday, the 1st Sgt. told us not to plan
+					for this week-end because guard was
+					due. So I told Mother + Dad not to come.
+					As it turns out, I didn't draw guard
+					anyway, - but next week-end will
+					do just as well. I hope nothing happens
+					this time.
+				</p>
+				<p>
+					I had my interview for O.C.S.
+					this week -- and passed, I'm sure. I
+					still have to take the physical. If I pass 
+					I'll be a 2nd Lt. in field artillery
+					within 5 months. And if I can't pass
+				<pb n='2'/>				
+					the physical, I still have a chance to
+					get a commission in Army administration.
+				</p>
+				<p>
+					This morning at inspection the
+					officer pointed to me and remarked to
+					the Sgt., "There's a good looking soldier."
+					A few words like that do a lot to
+					boost morale.
+				</p>				
+				<p>
+					This coming week we are to
+					concentrate on firing the 30 cal.
+					machine gun. It should be very
+					interesting. I suppose I'll be going
+					for my physical too. And with 
+					Mother + Dad coming over the
+					week-end, it really should turn out
+					to be a big week.
+				</p>
+				<closer>
+					<salute>Yours,</salute>
+					<signed><persName>John</persName></signed>
+				</closer>
+				<postscript>
+					<p>
+					P.S. There is a fellow from shamokin here whose name is Yaffe. I noticed in the Item
+					that a Yaffee in Shamokin is up for bankrupty. Do you suppose it's his father?
+				</p>
+				</postscript>
+			</div>
+		</body>
+	</text>
+</TEI>
