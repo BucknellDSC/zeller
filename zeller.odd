@@ -91,6 +91,7 @@
                 <valItem mode="add" ident="medical"/>
                 <valItem mode="add" ident="personal"/>
                 <valItem mode="add" ident="weapons"/>
+                <valItem mode="add" ident="equipment"/>
                 <valItem mode="add" ident="other"/>
               </valList>
             </attDef>
