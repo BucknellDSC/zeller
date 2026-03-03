@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/zeller/refs/heads/main/out/zeller.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/zeller/refs/heads/main/zeller.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">	
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter February 3, 1943</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n='1'/>
+				
+					<opener>
+						<dateline>FORT BRAGG. N. C.
+					OCC #56
+					F.t. Sill Okla.
+					Feb 3,1943</dateline>
+					<salute>Dear Mother + Dad --</salute></opener>
+					<p>8:00 A.M. Thanks very much for the box of candy. It arrived
+					last night. The boys join me in thanking you. Next time, tho,
+					don't buy the expensive kind. Just send some of their peanut
+					buttle, peanut clusters, kisses, chocolate sticks, or something
+					like that.</p>
+					<p>I'm glad you had such a good time in Williamsport,
+					Dad. Wish I could have gone up this year. As far as overseas
+					duty is concerned, I don't want to have to make the choice
+					myself. If they send me over, why of course I'll go -- and
+					if they assign me to duty here, I'll do that too. This army
+					business wasn't my idea and I'm willing to do whatever
+					they want me to -- but I'm not going to try to control the
+					situation to suit myself. I'll take what's offered me and let it
+					go at that.</p>
+					<p>Glad you had such a good time at the Class Supper
+					Mother. I didn't ever really meet Mrs. Shimer, but I always
+					thought her to be very nice too.</p>
+					<p>I hope you've received the bracelet this time, and
+					that it was satisfactory.</p>
+				<pb n='2'/>
+				<p>
+					Sid Appelbaum still has some of my law school
+					difests doesn't he. Let me know when he returns them.
+					Also let me know if you will received my government
+					insurance policy and if my government bond for Jan.
+					has arrived yet.</p>
+					<p>I had a very amusing letter from Isabelle this week.
+					I enjoy her letters so much. It's just like having her pop
+					in for a moment as she used to.</p>
+					<p>My tooth is much better. Once it was out, I had
+					no more trouble. Now I think I'll have Doc Nesbit Jr.
+					pull another one when I come home. My gums are healing
+					nicely too.</p>
+					<p>I forget about Aunt Stella's birthday -- I'll have
+					to apologize when I write to Grandma this week-end.</p>
+					<p>Did Janet Bold graduate at Jan. commencement.
+					Last I heard she was planning to.</p>
+					<p>I've written this much of this letter before class
+					It rained yesterday (second time since I've been here) and
+					the field was more than muddy -- just plain goo. Hence we
+					had no drill this morning. That gives me an extra half hour
+					this morning to myself. It's just about time for class, so
+					I'll close for now and finish this evening.
+				</p>
+				<pb n='3'/>
+				<p>
+					<time>8.00 P.M. --</time>
+					Your box of candy from Williamsport
+					arrived today, Dad. thanks very much.
+					So far I haven't made any serious errors
+					this week. I always seem to make at least one
+					silly little "careless" mistake to keep me from
+					getting a perfect paper. However, I'm satisfied
+					with 5's.</p>
+					<p>I fired again this morning. I was called
+					on to fire before I had a chance to figure the correct
+					commands. So I just stood up and rattled off
+					a string of guesses. As it turned out I couldn't have
+					done better, for I registered on the tanget on my 1st
+					shot. Pure luck!</p>
+					<p>It rained yesterday -- and today I learned
+					about Ft. Sill mud. I've never seen roads like
+					the ones we used to go out to the range. We were stuck
+					at least 3 times -- and other trucks were more
+					hopelessly mired all along the way.
+				</p>
+				<pb n='4'/>
+				<p>
+					Dont plan anything for me in the morning when I
+					come home. I'm going to sleep late every morning, I'm
+					getting so tired of getting up before sun-up! Sunday is
+					really a big relief -- and even then it's hard to sleep after
+					seven.</p>
+					<p>It's time to start studying again for I want to
+					have time for a shower tonight before 10:30. So
+					I'll close.</p>
+					<closer><salute>Yours,</salute>
+					<signed>John</signed></closer>
+			</div>
+		</body>
+	</text>
+</TEI>

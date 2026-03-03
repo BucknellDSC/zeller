@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/BucknellDSC/zeller/refs/heads/main/out/zeller.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/BucknellDSC/zeller/refs/heads/main/zeller.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Zeller letter February 7, 1943</title>
+				<author>John Zeller</author>
+				<respStmt>
+					<persName>Susan Falciani Maldonado</persName>
+					<resp>University Archivist and Director of Special Collections</resp>
+				</respStmt>
+				<respStmt>
+					<persName>Diane Jakacki</persName>
+					<resp>Digital Scholarship Coordinator</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<distributor>Special Collections/University Archives, Bertrand Library</distributor>
+				<authority>Bucknell University</authority>
+				<address>
+					<addrLine>Lewisburg</addrLine>
+					<addrLine>Pennsylvania</addrLine>
+				</address>
+			</publicationStmt>
+			<sourceDesc>
+				<p>John F. Zeller Papers</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n="1"/>
+				<opener>
+					<dateline>FORT BRAGG, N.C. OCC #56 F.t. Sill, Okla. Feb 7, 1943</dateline>
+					<salute>Dear Mother + Dad</salute></opener>
+				<p>Well, what we've always feared has finally happened. Alice tells me that Margaret
+					Ocksenreiter lost her job. Now you'll have that to worry about, Dad. She
+					certainly has no business living in our apartment on her salary! It's just one
+					thing after another, isn't it.</p>
+				<p>I'm glad you liked the bracelet, Mother. I didn't know whether you wanted that
+					kind or one of the more fancy ones.</p>
+				<p>I'm told the R.R. transportation adviser comes around a few weeks before we
+					graduate and helps plan our travel route. I have written about air reservations,
+					but haven't as yet received an answer. I hope I can get a sent or a plane -- it
+					would make it much nicer.</p>
+				<p>Well, I got my 1st U this week. I was called on to fire a problem in service
+					practice and couldn't find the taget. I hope I won't be set back because of it.
+					The Lt. said I shouldn't worry about it -- that you weren't a good man until you
+					got at least 1. U. If I don't get more than one, I won't kick. </p>
+				<pb n="2"/>
+				<p> I really don't have much to write about today. We've just been doing the same
+					old things. We had an interesting demonstration yesterday afternoon. I told
+					Alice about it in her letter -- you can read it there.</p>
+				<p>Last evening Ken Wright (Jackson, Mich boy) and I started for town, and after
+					walking all over the post trying to find transportation, finally walked about ¾
+					of the way into town, before getting a taxi. The moves were all over-crowded, so
+					we had a meal and then waited in line again for a taxi to come back to the post.
+					I'll be so glad to get somewhere where I won't have to stand in line for
+					everything, that I won't know what to do.</p>
+				<p>You'll have to serve meals off tin plates and cafeteria style to make me feel at
+					home when I come home.</p>
+				<p>I'm spending the day reading and writing letters again. Sunday's seem to go that
+					way out here. And we just seem to live from Sunday to Sunday.</p>
+				<p>I had a letter from Jean Dryer this week. She's had a raise and is worried about
+					meeting her 1st income tax payment. Also heard from Hal and Emmie.</p>  
+				<closer>
+					Guess that's all,
+					<salute>Love,</salute>
+					<signed>John</signed></closer>
+			</div>
+		</body>
+	</text>
+</TEI>
